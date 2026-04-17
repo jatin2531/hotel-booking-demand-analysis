@@ -1,0 +1,1001 @@
+Customer ID,Customer Country,Booking_ID,Hotel,City,Booking Date,Lead Time ,Arrival Date,Adults,Childrens,Total Guests,No. of Weekend Nights,No. of Week Nights,Total Nights Stay,Meal Type,Booking Status,Customer Cancel Count,Average Daily Rate,Market Segment,Reserved Room Type,Assigned Room Type,Special Request
+CUST_570,India,INN00001,Resort Hotel,Hyderabad,20-Aug-23,342,27-Jul-24,2,0,2,2,5,7,Breakfast,0,1,135,Online Self / TA,Deluxe,Premium,0
+CUST_164,UK,INN00002,Resort Hotel,Goa,20-Mar-23,405,28-Apr-24,2,0,2,1,3,4,Not Selected,1,1,0,Online Self / TA,Deluxe,Deluxe,0
+CUST_420,India,INN00003,Resort Hotel,Mumbai,3-Sep-24,7,10-Sep-24,2,0,2,1,3,4,Breakfast,0,0,75,Direct,Standard,Standard,0
+CUST_278,Australia,INN00004,City Hotel,Kochi,1-Aug-24,13,14-Aug-24,2,0,2,0,2,2,Breakfast,1,1,75,Online Self / TA,Standard,Standard,0
+CUST_572,India,INN00005,City Hotel,Jaipur,31-Aug-24,14,14-Sep-24,2,0,2,1,2,3,Not Selected,1,2,98,Online Self / TA,Standard,Deluxe,1
+CUST_198,Australia,INN00006,Resort Hotel,Chennai,9-Oct-24,14,23-Oct-24,2,2,4,0,2,2,Breakfast & Dinner,1,1,98,Direct,Standard,Deluxe,1
+CUST_441,India,INN00007,Resort Hotel,Kolkata,7-Jan-24,0,7-Jan-24,2,0,2,1,4,5,Breakfast,0,0,107,Company TA/TO,Deluxe,Premium,0
+CUST_371,India,INN00008,Resort Hotel,Delhi,30-Jul-24,9,8-Aug-24,2,0,2,1,3,4,Breakfast,1,1,103,Online Self / TA,Deluxe,Deluxe,1
+CUST_401,India,INN00009,Resort Hotel,Kochi,1-Jun-24,85,25-Aug-24,1,0,1,0,4,4,Breakfast,0,0,82,Company TA/TO,Standard,Standard,1
+CUST_250,India,INN00010,City Hotel,Bangalore,4-Oct-24,75,18-Dec-24,2,0,2,0,5,5,Breakfast,0,1,106,Company TA/TO,Deluxe,Deluxe,0
+CUST_271,India,INN00011,City Hotel,Kochi,1-Aug-24,23,24-Aug-24,3,0,3,1,0,1,Not Selected,0,0,123,Company TA/TO,Premium,Premium,0
+CUST_350,India,INN00012,Resort Hotel,Kolkata,21-Feb-24,35,27-Mar-24,2,0,2,2,1,3,Breakfast,0,0,145,Online Self / TA,Deluxe,Deluxe,0
+CUST_188,Australia,INN00013,Resort Hotel,Delhi,25-Dec-23,68,2-Mar-24,2,0,2,2,1,3,Not Selected,0,1,97,Company TA/TO,Deluxe,Deluxe,3
+CUST_048,Australia,INN00014,Resort Hotel,Kochi,22-May-24,18,9-Jun-24,2,0,2,2,0,2,Breakfast,1,1,155,Online Self / TA,Premium,Premium,1
+CUST_307,UAE,INN00015,City Hotel,Delhi,9-May-24,37,15-Jun-24,2,0,2,0,2,2,Breakfast,0,0,95,Direct,Premium,Premium,0
+CUST_516,France,INN00016,Resort Hotel,Indore,17-Apr-24,68,24-Jun-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,97,Direct,Deluxe,Deluxe,3
+CUST_007,UAE,INN00017,City Hotel,Kochi,12-Dec-23,37,18-Jan-24,1,0,1,1,0,1,Breakfast,1,1,98,Direct,Premium,Premium,0
+CUST_315,Germany,INN00018,City Hotel,Delhi,5-Dec-24,12,17-Dec-24,2,0,2,1,3,4,Not Selected,1,2,88,Direct,Standard,Standard,0
+CUST_287,UAE,INN00019,City Hotel,Bangalore,17-Apr-24,0,17-Apr-24,2,0,2,2,2,4,Breakfast,1,1,107,Direct,Standard,Standard,0
+CUST_528,Australia,INN00020,City Hotel,Lucknow,4-Nov-24,7,11-Nov-24,2,0,2,1,0,1,Breakfast,0,1,153,Online Self / TA,Premium,Premium,1
+CUST_070,India,INN00021,Resort Hotel,Lucknow,17-Oct-24,37,23-Nov-24,2,0,2,2,2,4,Breakfast,0,0,97,Online Self / TA,Premium,Premium,1
+CUST_418,Australia,INN00022,Resort Hotel,Kochi,2-Nov-23,72,13-Jan-24,2,0,2,0,1,1,Breakfast,1,1,85,Online Self / TA,Standard,Standard,1
+CUST_060,India,INN00023,Resort Hotel,Jaipur,23-Apr-24,72,4-Jul-24,2,0,2,2,4,6,Breakfast,0,0,85,Online Self / TA,Standard,Standard,1
+CUST_168,Australia,INN00024,Resort Hotel,Indore,10-Jan-24,72,22-Mar-24,3,0,3,0,3,3,Breakfast,0,0,100,Online Self / TA,Deluxe,Deluxe,1
+CUST_221,India,INN00025,City Hotel,Chennai,21-Oct-23,127,25-Feb-24,2,0,2,2,1,3,Not Selected,0,0,95,Company TA/TO,Deluxe,Deluxe,1
+CUST_164,UK,INN00026,City Hotel,Kolkata,7-May-24,78,24-Jul-24,2,0,2,0,2,2,Breakfast,0,1,64,Direct,Deluxe,Premium,0
+CUST_046,France,INN00027,City Hotel,Goa,14-Oct-24,48,1-Dec-24,2,0,2,1,1,2,Breakfast,0,0,80,Online Self / TA,Deluxe,Premium,0
+CUST_513,USA,INN00028,City Hotel,Kolkata,4-Sep-24,60,3-Nov-24,2,0,2,0,2,2,Breakfast,0,1,107,Direct,Premium,Premium,2
+CUST_072,India,INN00029,Resort Hotel,Jaipur,14-Aug-24,77,30-Oct-24,2,2,4,1,2,3,Breakfast,1,2,94,Online Self / TA,Standard,Standard,0
+CUST_155,Germany,INN00030,Resort Hotel,Delhi,6-Dec-23,99,14-Mar-24,2,0,2,0,2,2,Breakfast & Dinner,1,3,87,Online Self / TA,Deluxe,Deluxe,1
+CUST_023,USA,INN00031,Resort Hotel,Mumbai,15-Aug-24,118,11-Dec-24,1,0,1,1,1,2,Breakfast,0,0,62,Company TA/TO,Standard,Standard,2
+CUST_535,Germany,INN00032,City Hotel,Bhopal,26-Sep-24,95,30-Dec-24,2,0,2,2,2,4,Breakfast,0,0,64,Company TA/TO,Deluxe,Deluxe,0
+CUST_369,Canada,INN00033,Resort Hotel,Bangalore,3-Oct-23,96,7-Jan-24,2,0,2,0,3,3,Breakfast,0,2,108,Direct,Premium,Premium,2
+CUST_239,Canada,INN00034,Resort Hotel,Chandigarh,2-Mar-24,69,10-May-24,2,0,2,0,1,1,Not Selected,0,0,66,Online Self / TA,Standard,Standard,0
+CUST_497,UAE,INN00035,Resort Hotel,Hyderabad,24-Jun-24,45,8-Aug-24,2,0,2,0,2,2,Breakfast,1,3,109,Online Self / TA,Deluxe,Deluxe,1
+CUST_205,Germany,INN00036,Resort Hotel,Kochi,13-Mar-24,40,22-Apr-24,2,0,2,0,1,1,Not Selected,0,0,109,Online Self / TA,Deluxe,Deluxe,1
+CUST_339,Canada,INN00037,Resort Hotel,Indore,6-Feb-24,15,21-Feb-24,2,0,2,2,1,3,Breakfast,1,1,98,Company TA/TO,Standard,Standard,0
+CUST_578,Australia,INN00038,Resort Hotel,Jaipur,23-Jan-24,36,28-Feb-24,2,2,4,0,1,1,Breakfast,1,2,109,Online Self / TA,Deluxe,Deluxe,1
+CUST_389,Canada,INN00039,Resort Hotel,Delhi,5-Dec-23,43,17-Jan-24,3,0,3,2,3,5,Not Selected,0,0,109,Direct,Deluxe,Premium,0
+CUST_227,UAE,INN00040,Resort Hotel,Bangalore,6-Nov-23,70,15-Jan-24,2,0,2,2,1,3,Breakfast,0,1,137,Direct,Premium,Premium,1
+CUST_055,Germany,INN00041,Resort Hotel,Pune,20-Dec-23,45,3-Feb-24,2,0,2,0,4,4,Breakfast,0,0,118,Online Self / TA,Premium,Premium,0
+CUST_308,Australia,INN00042,Resort Hotel,Goa,9-Dec-23,45,23-Jan-24,1,0,1,0,2,2,Breakfast,0,3,80,Company TA/TO,Deluxe,Premium,0
+CUST_599,Canada,INN00043,City Hotel,Pune,24-Apr-24,16,10-May-24,2,0,2,2,1,3,Breakfast,1,2,123,Online Self / TA,Premium,Premium,0
+CUST_160,India,INN00044,Resort Hotel,Jaipur,23-Aug-24,70,1-Nov-24,3,0,3,1,1,2,Not Selected,1,1,137,Online Self / TA,Premium,Premium,1
+CUST_242,India,INN00045,Resort Hotel,Mumbai,28-Feb-24,107,14-Jun-24,2,0,2,0,4,4,Breakfast,0,1,111,Company TA/TO,Standard,Standard,2
+CUST_107,UAE,INN00046,City Hotel,Pune,17-May-24,47,3-Jul-24,2,0,2,0,3,3,Breakfast,1,1,153,Online Self / TA,Premium,Premium,0
+CUST_543,USA,INN00047,City Hotel,Kochi,1-May-24,96,5-Aug-24,2,0,2,0,2,2,Breakfast,0,0,59,Company TA/TO,Standard,Standard,1
+CUST_038,Australia,INN00048,City Hotel,Lucknow,14-Oct-23,113,4-Feb-24,2,0,2,0,1,1,Breakfast & Dinner,1,2,83,Online Self / TA,Premium,Premium,2
+CUST_308,Australia,INN00049,City Hotel,Chandigarh,20-Jan-24,90,19-Apr-24,2,2,4,0,4,4,Not Selected,1,3,82,Company TA/TO,Standard,Standard,0
+CUST_346,France,INN00050,City Hotel,Pune,8-Nov-24,50,28-Dec-24,2,0,2,1,3,4,Breakfast,0,2,119,Direct,Premium,Premium,1
+CUST_217,UAE,INN00051,Resort Hotel,Delhi,2-Dec-23,113,24-Mar-24,2,0,2,2,5,7,Not Selected,1,2,68,Online Self / TA,Deluxe,Deluxe,2
+CUST_391,India,INN00052,Resort Hotel,Ahmedabad,25-Oct-23,93,26-Jan-24,2,0,2,2,2,4,Breakfast & Dinner,0,1,56,Online Self / TA,Standard,Deluxe,0
+CUST_366,France,INN00053,Resort Hotel,Kolkata,17-Apr-24,76,2-Jul-24,2,0,2,1,2,3,Breakfast,0,1,111,Company TA/TO,Deluxe,Deluxe,0
+CUST_017,UAE,INN00054,Resort Hotel,Bangalore,24-Aug-24,3,27-Aug-24,2,0,2,0,4,4,Breakfast,0,1,88,Company TA/TO,Standard,Standard,0
+CUST_294,UK,INN00055,Resort Hotel,Kolkata,4-Nov-24,1,5-Nov-24,2,1,3,1,0,1,Not Selected,0,0,147,Online Self / TA,Premium,Premium,0
+CUST_465,Germany,INN00056,Resort Hotel,Chandigarh,26-Jan-24,1,27-Jan-24,2,0,2,1,3,4,Breakfast,0,0,107,Online Self / TA,Deluxe,Premium,2
+CUST_431,India,INN00057,City Hotel,Lucknow,15-Jul-24,0,15-Jul-24,2,1,3,0,1,1,Not Selected,0,0,147,Online Self / TA,Premium,Premium,0
+CUST_502,India,INN00058,Resort Hotel,Delhi,14-Oct-24,0,14-Oct-24,2,0,2,1,2,3,Breakfast,1,2,118,Company TA/TO,Standard,Standard,2
+CUST_301,India,INN00059,Resort Hotel,Hyderabad,21-Nov-24,0,21-Nov-24,2,0,2,1,4,5,Breakfast,0,1,123,Online Self / TA,Premium,Premium,0
+CUST_132,India,INN00060,Resort Hotel,Bangalore,18-Apr-24,14,2-May-24,2,0,2,0,3,3,Breakfast,0,0,98,Online Self / TA,Standard,Standard,1
+CUST_405,Germany,INN00061,Resort Hotel,Jaipur,31-Jul-24,10,10-Aug-24,2,0,2,0,1,1,Breakfast,0,0,118,Direct,Premium,Premium,0
+CUST_295,Germany,INN00062,Resort Hotel,Kolkata,25-May-24,5,30-May-24,2,0,2,0,3,3,Breakfast,1,1,135,Online Self / TA,Premium,Premium,2
+CUST_071,India,INN00063,Resort Hotel,Indore,15-Apr-24,17,2-May-24,2,0,2,0,2,2,Breakfast,0,0,133,Online Self / TA,Premium,Premium,1
+CUST_068,Australia,INN00064,City Hotel,Pune,4-Apr-24,93,6-Jul-24,2,0,2,0,1,1,Breakfast,1,2,59,Online Self / TA,Standard,Deluxe,0
+CUST_289,Canada,INN00065,City Hotel,Chandigarh,28-Jul-24,3,31-Jul-24,2,2,4,2,1,3,Breakfast,1,2,136,Online Self / TA,Standard,Deluxe,2
+CUST_234,UK,INN00066,City Hotel,Kochi,13-Nov-24,10,23-Nov-24,2,0,2,0,3,3,Breakfast,1,1,153,Online Self / TA,Premium,Premium,0
+CUST_464,UK,INN00067,City Hotel,Delhi,5-Jan-24,3,8-Jan-24,2,0,2,0,2,2,Breakfast,0,0,111,Online Self / TA,Standard,Standard,0
+CUST_164,UK,INN00068,Resort Hotel,Pune,12-Apr-24,51,2-Jun-24,2,0,2,0,2,2,Breakfast,0,1,97,Company TA/TO,Deluxe,Deluxe,0
+CUST_359,Canada,INN00069,Resort Hotel,Bangalore,15-Jun-24,71,25-Aug-24,2,0,2,0,1,1,Breakfast,0,2,110,Company TA/TO,Standard,Standard,2
+CUST_142,India,INN00070,Resort Hotel,Chandigarh,1-Dec-23,63,2-Feb-24,2,0,2,1,2,3,Breakfast,0,0,82,Direct,Standard,Standard,2
+CUST_326,France,INN00071,Resort Hotel,Bhopal,3-Jul-24,62,3-Sep-24,2,0,2,0,3,3,Breakfast,0,2,97,Direct,Deluxe,Deluxe,1
+CUST_561,India,INN00072,Resort Hotel,Chennai,21-May-24,101,30-Aug-24,2,0,2,1,0,1,Not Selected,0,1,74,Company TA/TO,Standard,Standard,1
+CUST_488,Australia,INN00073,Resort Hotel,Pune,22-Oct-24,2,24-Oct-24,2,2,4,1,1,2,Breakfast,0,0,92,Online Self / TA,Standard,Standard,0
+CUST_395,Germany,INN00074,Resort Hotel,Ahmedabad,15-Dec-24,15,30-Dec-24,2,0,2,0,2,2,Breakfast,0,1,115,Company TA/TO,Standard,Deluxe,0
+CUST_300,India,INN00075,City Hotel,Ahmedabad,23-Dec-23,51,12-Feb-24,2,0,2,2,3,5,Breakfast,1,1,110,Online Self / TA,Standard,Standard,0
+CUST_468,Australia,INN00076,City Hotel,Ahmedabad,11-Aug-24,3,14-Aug-24,2,0,2,1,4,5,Breakfast,0,1,91,Direct,Standard,Deluxe,0
+CUST_546,France,INN00077,Resort Hotel,Mumbai,16-Nov-23,48,3-Jan-24,2,0,2,1,1,2,Breakfast,0,0,123,Online Self / TA,Premium,Premium,0
+CUST_390,India,INN00078,Resort Hotel,Lucknow,4-Jul-24,2,6-Jul-24,2,0,2,1,2,3,Breakfast,0,1,122,Company TA/TO,Standard,Deluxe,0
+CUST_517,UAE,INN00079,Resort Hotel,Bangalore,14-Nov-23,72,25-Jan-24,2,2,4,2,5,7,Breakfast,0,1,111,Direct,Standard,Standard,0
+CUST_035,Germany,INN00080,Resort Hotel,Chandigarh,29-Feb-24,81,20-May-24,2,0,2,0,5,5,Breakfast,0,0,86,Online Self / TA,Deluxe,Deluxe,0
+CUST_262,India,INN00081,Resort Hotel,Delhi,5-May-24,99,12-Aug-24,2,0,2,0,2,2,Breakfast,1,2,59,Online Self / TA,Standard,Deluxe,0
+CUST_247,UAE,INN00082,City Hotel,Pune,26-Dec-23,368,28-Dec-24,2,0,2,0,5,5,Breakfast,0,0,56,Online Self / TA,Standard,Deluxe,0
+CUST_065,Germany,INN00083,Resort Hotel,Hyderabad,11-Nov-23,364,9-Nov-24,2,0,2,2,0,2,Not Selected,1,2,56,Online Self / TA,Standard,Standard,0
+CUST_477,UAE,INN00084,Resort Hotel,Bangalore,7-Mar-24,81,27-May-24,2,1,3,1,4,5,Breakfast,0,0,124,Direct,Standard,Standard,1
+CUST_358,Australia,INN00085,Resort Hotel,Delhi,13-Jul-24,99,20-Oct-24,2,0,2,1,2,3,Breakfast,1,2,111,Company TA/TO,Premium,Premium,0
+CUST_488,Australia,INN00086,Resort Hotel,Ahmedabad,3-May-23,324,22-Mar-24,2,0,2,1,0,1,Breakfast,0,0,135,Online Self / TA,Premium,Premium,0
+CUST_595,Germany,INN00087,Resort Hotel,Mumbai,22-Sep-24,69,30-Nov-24,2,0,2,2,3,5,Not Selected,0,1,92,Online Self / TA,Premium,Premium,1
+CUST_308,Australia,INN00088,Resort Hotel,Bangalore,9-Dec-23,79,26-Feb-24,2,0,2,0,2,2,Breakfast,0,3,109,Online Self / TA,Standard,Standard,2
+CUST_236,France,INN00089,Resort Hotel,Jaipur,1-Jun-24,12,13-Jun-24,2,0,2,0,1,1,Not Selected,1,1,74,Online Self / TA,Standard,Standard,0
+CUST_106,France,INN00090,City Hotel,Ahmedabad,16-Sep-24,9,25-Sep-24,2,0,2,0,3,3,Breakfast,0,0,98,Online Self / TA,Standard,Standard,2
+CUST_136,France,INN00091,City Hotel,Delhi,5-Sep-24,1,6-Sep-24,2,0,2,1,3,4,Not Selected,0,1,131,Direct,Standard,Standard,1
+CUST_389,Canada,INN00092,City Hotel,Mumbai,14-Apr-24,21,5-May-24,2,1,3,1,2,3,Breakfast,0,0,123,Online Self / TA,Premium,Premium,0
+CUST_560,India,INN00093,Resort Hotel,Pune,15-Sep-24,9,24-Sep-24,3,0,3,2,1,3,Breakfast,0,1,95,Direct,Deluxe,Deluxe,0
+CUST_218,Australia,INN00094,Resort Hotel,Lucknow,30-Apr-24,109,17-Aug-24,3,0,3,0,1,1,Breakfast,0,0,123,Direct,Standard,Deluxe,2
+CUST_274,UK,INN00095,Resort Hotel,Lucknow,20-May-24,109,6-Sep-24,2,0,2,2,5,7,Breakfast,0,0,123,Company TA/TO,Standard,Standard,1
+CUST_500,India,INN00096,Resort Hotel,Kolkata,9-Jan-24,72,21-Mar-24,2,0,2,0,2,2,Breakfast,1,1,74,Online Self / TA,Standard,Deluxe,1
+CUST_578,Australia,INN00097,Resort Hotel,Chennai,18-Jul-24,63,19-Sep-24,2,1,3,0,2,2,Breakfast & Dinner,1,2,117,Company TA/TO,Premium,Premium,1
+CUST_069,Canada,INN00098,Resort Hotel,Chandigarh,19-Sep-24,63,21-Nov-24,2,0,2,0,4,4,Breakfast,0,0,197,Online Self / TA,Premium,Premium,1
+CUST_004,UK,INN00099,Resort Hotel,Ahmedabad,12-Oct-23,101,21-Jan-24,2,0,2,0,3,3,Breakfast,0,1,99,Company TA/TO,Deluxe,Deluxe,2
+CUST_329,Canada,INN00100,City Hotel,Jaipur,22-Sep-23,102,2-Jan-24,2,0,2,1,3,4,Breakfast,1,1,91,Online Self / TA,Premium,Premium,0
+CUST_357,UAE,INN00101,City Hotel,Chandigarh,1-Aug-24,4,5-Aug-24,2,2,4,1,0,1,Not Selected,0,0,93,Direct,Standard,Deluxe,1
+CUST_293,USA,INN00102,City Hotel,Chennai,8-Jan-24,98,15-Apr-24,2,1,3,1,2,3,Breakfast,0,0,72,Direct,Deluxe,Deluxe,0
+CUST_513,USA,INN00103,Resort Hotel,Kochi,30-Jan-24,92,1-May-24,2,0,2,0,4,4,Breakfast,1,1,96,Company TA/TO,Premium,Premium,2
+CUST_117,UAE,INN00104,Resort Hotel,Lucknow,7-Jun-24,95,10-Sep-24,2,0,2,0,1,1,Breakfast,0,1,86,Company TA/TO,Standard,Deluxe,2
+CUST_205,Germany,INN00105,Resort Hotel,Bhopal,6-Jun-24,102,16-Sep-24,2,0,2,0,3,3,Breakfast,0,0,96,Company TA/TO,Premium,Premium,1
+CUST_448,Australia,INN00106,Resort Hotel,Delhi,21-Jan-24,26,16-Feb-24,3,1,4,0,3,3,Breakfast,0,1,163,Direct,Premium,Premium,0
+CUST_090,India,INN00107,Resort Hotel,Mumbai,4-Oct-24,73,16-Dec-24,2,0,2,1,4,5,Breakfast,0,0,172,Online Self / TA,Deluxe,Deluxe,1
+CUST_312,India,INN00108,Resort Hotel,Kochi,26-Dec-23,102,6-Apr-24,2,2,4,1,3,4,Breakfast,0,0,111,Online Self / TA,Standard,Standard,1
+CUST_346,France,INN00109,City Hotel,Lucknow,15-Feb-24,115,9-Jun-24,2,2,4,0,1,1,Not Selected,1,2,59,Online Self / TA,Standard,Standard,1
+CUST_309,Canada,INN00110,City Hotel,Ahmedabad,13-Sep-24,102,24-Dec-24,2,0,2,2,1,3,Breakfast,0,1,74,Online Self / TA,Standard,Deluxe,2
+CUST_390,India,INN00111,City Hotel,Pune,3-Apr-24,86,28-Jun-24,2,0,2,0,2,2,Breakfast,0,1,97,Online Self / TA,Deluxe,Deluxe,2
+CUST_270,India,INN00112,City Hotel,Kolkata,22-Aug-24,78,8-Nov-24,2,0,2,1,0,1,Not Selected,0,0,139,Groups,Premium,Premium,2
+CUST_454,UK,INN00113,Resort Hotel,Indore,3-Apr-24,52,25-May-24,2,0,2,0,3,3,Not Selected,0,0,67,Online Self / TA,Standard,Deluxe,0
+CUST_055,Germany,INN00114,Resort Hotel,Goa,14-Apr-24,29,13-May-24,2,0,2,2,3,5,Breakfast,0,0,117,Online Self / TA,Premium,Premium,1
+CUST_249,Canada,INN00115,Resort Hotel,Chandigarh,4-Jan-24,101,14-Apr-24,2,2,4,2,2,4,Breakfast,0,0,96,Direct,Premium,Premium,1
+CUST_501,India,INN00116,Resort Hotel,Lucknow,6-Oct-23,109,23-Jan-24,2,0,2,2,2,4,Breakfast,0,2,123,Online Self / TA,Standard,Standard,1
+CUST_451,India,INN00117,City Hotel,Jaipur,25-Feb-24,92,27-May-24,2,0,2,2,5,7,Breakfast,0,1,72,Company TA/TO,Deluxe,Deluxe,1
+CUST_491,India,INN00118,City Hotel,Delhi,7-Jun-24,92,7-Sep-24,2,0,2,2,5,7,Breakfast,1,1,72,Online Self / TA,Deluxe,Deluxe,1
+CUST_085,Germany,INN00119,City Hotel,Indore,12-Nov-23,79,30-Jan-24,2,0,2,0,1,1,Breakfast,0,2,149,Online Self / TA,Deluxe,Deluxe,1
+CUST_177,UAE,INN00120,Resort Hotel,Chandigarh,1-Oct-24,2,3-Oct-24,2,0,2,2,3,5,Breakfast,1,1,163,Online Self / TA,Premium,Premium,0
+CUST_595,Germany,INN00121,City Hotel,Jaipur,5-Dec-23,30,4-Jan-24,2,0,2,0,3,3,Breakfast,0,1,80,Groups,Deluxe,Deluxe,0
+CUST_048,Australia,INN00122,City Hotel,Jaipur,28-Oct-24,51,18-Dec-24,1,0,1,0,2,2,Breakfast & Dinner,0,1,105,Company TA/TO,Standard,Standard,0
+CUST_363,USA,INN00123,Resort Hotel,Hyderabad,2-Oct-24,36,7-Nov-24,2,0,2,1,3,4,Breakfast,1,1,123,Online Self / TA,Premium,Premium,0
+CUST_198,Australia,INN00124,Resort Hotel,Indore,21-Mar-24,73,2-Jun-24,2,0,2,0,3,3,Breakfast,0,1,74,Online Self / TA,Standard,Standard,2
+CUST_083,USA,INN00125,Resort Hotel,Chandigarh,19-Jun-24,33,22-Jul-24,2,0,2,2,0,2,Breakfast,0,1,113,Online Self / TA,Deluxe,Premium,0
+CUST_010,India,INN00126,Resort Hotel,Pune,15-Apr-24,32,17-May-24,1,0,1,0,2,2,Breakfast,1,2,0,Direct,Premium,Premium,1
+CUST_462,India,INN00127,Resort Hotel,Kolkata,2-Jan-24,8,10-Jan-24,2,0,2,0,1,1,Breakfast,0,0,123,Direct,Premium,Premium,0
+CUST_099,Canada,INN00128,Resort Hotel,Indore,13-Apr-24,100,22-Jul-24,2,0,2,0,2,2,Breakfast,0,1,74,Direct,Standard,Standard,1
+CUST_282,India,INN00129,Resort Hotel,Lucknow,30-Sep-24,1,1-Oct-24,3,0,3,2,3,5,Breakfast,1,1,115,Online Self / TA,Standard,Standard,0
+CUST_208,Australia,INN00130,Resort Hotel,Kolkata,17-Apr-24,100,26-Jul-24,2,0,2,1,4,5,Breakfast,0,0,74,Company TA/TO,Standard,Standard,2
+CUST_162,India,INN00131,Resort Hotel,Mumbai,9-May-24,100,17-Aug-24,2,0,2,0,2,2,Not Selected,0,0,74,Online Self / TA,Standard,Deluxe,1
+CUST_181,India,INN00132,City Hotel,Hyderabad,17-Oct-24,9,26-Oct-24,2,0,2,1,2,3,Breakfast,0,0,88,Online Self / TA,Standard,Standard,1
+CUST_108,Australia,INN00133,City Hotel,Bhopal,11-Dec-24,5,16-Dec-24,3,0,3,2,4,6,Not Selected,0,0,97,Online Self / TA,Deluxe,Premium,0
+CUST_417,UAE,INN00134,Resort Hotel,Hyderabad,4-May-24,0,4-May-24,2,2,4,1,4,5,Breakfast,0,0,85,Direct,Standard,Standard,0
+CUST_067,UAE,INN00135,Resort Hotel,Ahmedabad,22-Jul-24,9,31-Jul-24,2,0,2,0,4,4,Not Selected,1,1,89,Company TA/TO,Standard,Standard,0
+CUST_362,India,INN00136,Resort Hotel,Bangalore,3-Oct-24,2,5-Oct-24,2,0,2,0,1,1,Breakfast,1,1,80,Direct,Standard,Deluxe,0
+CUST_225,Germany,INN00137,Resort Hotel,Bhopal,25-Mar-24,2,27-Mar-24,2,1,3,1,0,1,Breakfast,0,0,98,Online Self / TA,Standard,Standard,0
+CUST_447,UAE,INN00138,Resort Hotel,Lucknow,5-Jun-24,9,14-Jun-24,3,0,3,2,5,7,Breakfast,0,0,101,Direct,Standard,Deluxe,0
+CUST_397,UAE,INN00139,Resort Hotel,Lucknow,21-Jun-24,5,26-Jun-24,2,1,3,2,2,4,Breakfast,0,1,97,Online Self / TA,Deluxe,Premium,0
+CUST_516,France,INN00140,City Hotel,Lucknow,17-May-24,2,19-May-24,2,0,2,2,4,6,Breakfast,0,0,167,Direct,Premium,Premium,1
+CUST_369,Canada,INN00141,City Hotel,Jaipur,5-Apr-24,44,19-May-24,2,2,4,1,2,3,Breakfast,1,2,225,Online Self / TA,Premium,Premium,0
+CUST_058,Australia,INN00142,City Hotel,Kochi,7-Apr-24,80,26-Jun-24,2,2,4,0,2,2,Breakfast,0,1,97,Online Self / TA,Deluxe,Deluxe,0
+CUST_127,UAE,INN00143,City Hotel,Kochi,25-Oct-23,97,30-Jan-24,2,1,3,0,2,2,Breakfast,0,0,87,Online Self / TA,Deluxe,Premium,2
+CUST_084,UK,INN00144,Resort Hotel,Pune,23-Jul-24,109,9-Nov-24,2,0,2,2,2,4,Breakfast,0,0,86,Company TA/TO,Standard,Standard,2
+CUST_286,France,INN00145,Resort Hotel,Bangalore,23-Aug-24,30,22-Sep-24,2,0,2,1,0,1,Breakfast,1,3,123,Online Self / TA,Premium,Premium,0
+CUST_095,Germany,INN00146,Resort Hotel,Bangalore,22-Oct-24,64,25-Dec-24,2,0,2,0,2,2,Breakfast,1,1,107,Online Self / TA,Premium,Premium,0
+CUST_396,France,INN00147,Resort Hotel,Lucknow,25-Oct-24,39,3-Dec-24,2,0,2,0,4,4,Not Selected,0,0,163,Direct,Premium,Premium,0
+CUST_554,UK,INN00148,Resort Hotel,Hyderabad,1-Jul-24,90,29-Sep-24,2,2,4,1,2,3,Not Selected,0,0,82,Online Self / TA,Standard,Standard,0
+CUST_452,India,INN00149,Resort Hotel,Jaipur,3-Nov-24,34,7-Dec-24,2,0,2,0,1,1,Breakfast,0,1,163,Online Self / TA,Premium,Premium,0
+CUST_328,Australia,INN00150,City Hotel,Mumbai,14-Nov-23,93,15-Feb-24,2,0,2,2,3,5,Breakfast,0,1,106,Online Self / TA,Deluxe,Deluxe,0
+CUST_076,France,INN00151,City Hotel,Jaipur,29-Oct-23,97,3-Feb-24,2,0,2,1,1,2,Breakfast,0,1,164,Direct,Deluxe,Deluxe,1
+CUST_597,UAE,INN00152,City Hotel,Indore,4-Jul-24,29,2-Aug-24,2,2,4,0,3,3,Breakfast,0,0,97,Online Self / TA,Premium,Premium,1
+CUST_370,India,INN00153,Resort Hotel,Mumbai,27-Jul-24,101,5-Nov-24,2,0,2,1,3,4,Not Selected,0,0,114,Online Self / TA,Standard,Standard,1
+CUST_304,UK,INN00154,Resort Hotel,Bhopal,24-Nov-24,27,21-Dec-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,98,Direct,Premium,Premium,0
+CUST_421,India,INN00155,Resort Hotel,Pune,12-Aug-24,8,20-Aug-24,2,0,2,0,1,1,Breakfast & Dinner,0,1,175,Online Self / TA,Premium,Premium,1
+CUST_146,France,INN00156,Resort Hotel,Mumbai,1-May-24,82,22-Jul-24,2,0,2,0,3,3,Breakfast,0,0,64,Online Self / TA,Deluxe,Deluxe,2
+CUST_131,India,INN00157,Resort Hotel,Kolkata,13-Oct-23,94,15-Jan-24,2,0,2,0,3,3,Breakfast,1,2,124,Online Self / TA,Deluxe,Deluxe,1
+CUST_322,India,INN00158,Resort Hotel,Kolkata,17-Oct-23,110,4-Feb-24,2,0,2,0,3,3,Breakfast,0,0,111,Company TA/TO,Deluxe,Premium,0
+CUST_473,USA,INN00159,City Hotel,Jaipur,30-Sep-23,96,4-Jan-24,2,0,2,0,1,1,Not Selected,0,0,74,Company TA/TO,Standard,Standard,0
+CUST_064,UK,INN00160,City Hotel,Chandigarh,25-Sep-24,79,13-Dec-24,2,0,2,1,0,1,Not Selected,0,0,134,Online Self / TA,Deluxe,Deluxe,0
+CUST_022,India,INN00161,City Hotel,Bangalore,18-Dec-23,115,11-Apr-24,2,0,2,2,2,4,Breakfast,0,2,167,Online Self / TA,Premium,Premium,0
+CUST_595,Germany,INN00162,City Hotel,Bangalore,14-Mar-24,111,3-Jul-24,2,2,4,2,2,4,Breakfast,1,1,123,Online Self / TA,Standard,Standard,2
+CUST_572,India,INN00163,City Hotel,Lucknow,9-Mar-24,51,29-Apr-24,2,0,2,2,2,4,Breakfast,1,2,118,Online Self / TA,Premium,Premium,2
+CUST_083,USA,INN00164,Resort Hotel,Jaipur,2-Oct-23,94,4-Jan-24,2,0,2,1,1,2,Not Selected,0,1,171,Company TA/TO,Deluxe,Deluxe,1
+CUST_281,India,INN00165,Resort Hotel,Delhi,26-Nov-23,81,15-Feb-24,2,0,2,0,2,2,Breakfast,0,0,210,Company TA/TO,Premium,Premium,0
+CUST_439,Canada,INN00166,Resort Hotel,Jaipur,8-May-24,84,31-Jul-24,2,0,2,2,1,3,Breakfast & Dinner,1,2,97,Online Self / TA,Deluxe,Deluxe,2
+CUST_364,UK,INN00167,Resort Hotel,Hyderabad,20-Feb-24,51,11-Apr-24,2,0,2,0,2,2,Breakfast,1,1,118,Online Self / TA,Premium,Premium,2
+CUST_172,India,INN00168,Resort Hotel,Jaipur,4-Jul-24,111,23-Oct-24,2,0,2,0,2,2,Breakfast,0,0,135,Online Self / TA,Standard,Standard,2
+CUST_001,India,INN00169,City Hotel,Ahmedabad,5-Oct-24,0,5-Oct-24,2,0,2,1,2,3,Breakfast,0,1,135,Company TA/TO,Premium,Premium,0
+CUST_579,Canada,INN00170,City Hotel,Bangalore,7-Oct-24,2,9-Oct-24,2,0,2,1,0,1,Not Selected,1,1,131,Online Self / TA,Standard,Deluxe,0
+CUST_137,UAE,INN00171,City Hotel,Indore,16-Dec-24,7,23-Dec-24,2,0,2,0,2,2,Breakfast,1,3,98,Online Self / TA,Standard,Deluxe,2
+CUST_500,India,INN00172,Resort Hotel,Mumbai,5-Aug-24,98,11-Nov-24,1,0,1,1,2,3,Not Selected,0,1,87,Online Self / TA,Deluxe,Premium,1
+CUST_410,India,INN00173,Resort Hotel,Chandigarh,16-Apr-24,95,20-Jul-24,2,1,3,1,3,4,Breakfast,1,1,97,Company TA/TO,Deluxe,Deluxe,1
+CUST_207,UAE,INN00174,Resort Hotel,Bhopal,17-Oct-24,48,4-Dec-24,2,0,2,0,4,4,Breakfast,1,1,167,Online Self / TA,Premium,Premium,0
+CUST_244,UK,INN00175,Resort Hotel,Mumbai,27-Dec-23,66,2-Mar-24,2,0,2,0,1,1,Breakfast,0,0,92,Online Self / TA,Standard,Standard,0
+CUST_328,Australia,INN00176,Resort Hotel,Ahmedabad,29-Oct-23,104,10-Feb-24,1,0,1,0,1,1,Not Selected,0,1,74,Company TA/TO,Standard,Standard,1
+CUST_230,India,INN00177,Resort Hotel,Chennai,22-Feb-24,28,21-Mar-24,3,0,3,1,4,5,Not Selected,0,0,123,Online Self / TA,Premium,Premium,0
+CUST_599,Canada,INN00178,Resort Hotel,Pune,28-Aug-24,34,1-Oct-24,2,0,2,0,2,2,Breakfast,1,2,175,Online Self / TA,Premium,Premium,0
+CUST_246,France,INN00179,Resort Hotel,Bhopal,18-Jul-24,98,24-Oct-24,2,0,2,2,5,7,Not Selected,0,0,118,Online Self / TA,Standard,Deluxe,1
+CUST_351,India,INN00180,City Hotel,Indore,6-Dec-23,104,19-Mar-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,118,Online Self / TA,Premium,Premium,0
+CUST_489,Canada,INN00181,City Hotel,Delhi,11-Dec-23,68,17-Feb-24,1,0,1,0,3,3,Breakfast,1,1,185,Company TA/TO,Premium,Premium,0
+CUST_373,USA,INN00182,City Hotel,Jaipur,6-Dec-23,86,1-Mar-24,2,0,2,1,3,4,Breakfast,1,1,71,Online Self / TA,Standard,Standard,1
+CUST_349,Canada,INN00183,City Hotel,Bhopal,9-Jun-23,258,22-Feb-24,2,0,2,0,1,1,Not Selected,0,2,47,Online Self / TA,Standard,Standard,0
+CUST_509,Canada,INN00184,City Hotel,Indore,2-Oct-23,111,21-Jan-24,2,0,2,1,1,2,Breakfast,0,0,151,Company TA/TO,Standard,Standard,1
+CUST_117,UAE,INN00185,Resort Hotel,Goa,17-Mar-24,94,19-Jun-24,2,0,2,1,5,6,Breakfast,1,1,87,Online Self / TA,Deluxe,Deluxe,0
+CUST_008,Australia,INN00186,Resort Hotel,Indore,4-Mar-24,112,24-Jun-24,2,0,2,0,2,2,Breakfast,0,0,121,Company TA/TO,Standard,Deluxe,1
+CUST_233,USA,INN00187,Resort Hotel,Delhi,29-Jun-24,100,7-Oct-24,2,0,2,1,3,4,Breakfast,0,0,64,Online Self / TA,Deluxe,Premium,1
+CUST_577,UAE,INN00188,Resort Hotel,Bangalore,2-Feb-24,33,6-Mar-24,2,0,2,1,4,5,Breakfast,1,1,157,Company TA/TO,Premium,Premium,1
+CUST_518,Australia,INN00189,Resort Hotel,Chennai,8-Jan-24,97,14-Apr-24,2,0,2,2,3,5,Breakfast,0,0,91,Online Self / TA,Deluxe,Deluxe,2
+CUST_228,Australia,INN00190,Resort Hotel,Chennai,25-Sep-24,80,14-Dec-24,2,2,4,2,2,4,Breakfast,1,2,73,Online Self / TA,Standard,Standard,0
+CUST_369,Canada,INN00191,City Hotel,Bangalore,15-Nov-23,90,13-Feb-24,2,0,2,1,2,3,Breakfast,1,2,111,Online Self / TA,Deluxe,Deluxe,0
+CUST_517,UAE,INN00192,City Hotel,Bangalore,3-Mar-24,111,22-Jun-24,2,0,2,0,1,1,Breakfast,0,1,94,Online Self / TA,Standard,Standard,0
+CUST_123,USA,INN00193,City Hotel,Delhi,1-Oct-24,65,5-Dec-24,2,0,2,0,4,4,Breakfast,0,0,84,Direct,Deluxe,Deluxe,0
+CUST_338,Australia,INN00194,Resort Hotel,Kochi,14-Apr-24,67,20-Jun-24,2,2,4,1,2,3,Breakfast & Dinner,0,0,74,Online Self / TA,Standard,Standard,1
+CUST_449,Canada,INN00195,Resort Hotel,Ahmedabad,22-Jul-24,55,15-Sep-24,2,0,2,4,10,14,Breakfast,0,0,82,Online Self / TA,Standard,Standard,2
+CUST_598,Australia,INN00196,Resort Hotel,Hyderabad,29-Nov-24,21,20-Dec-24,2,0,2,1,2,3,Breakfast,0,1,186,Online Self / TA,Premium,Premium,1
+CUST_430,India,INN00197,Resort Hotel,Bangalore,27-Jul-24,8,4-Aug-24,2,0,2,0,1,1,Breakfast,0,0,135,Direct,Standard,Standard,1
+CUST_526,France,INN00198,Resort Hotel,Pune,25-Jun-24,8,3-Jul-24,2,0,2,2,1,3,Breakfast,0,2,135,Direct,Standard,Standard,1
+CUST_198,Australia,INN00199,City Hotel,Bangalore,12-Sep-24,0,12-Sep-24,2,0,2,0,4,4,Breakfast,0,1,110,Online Self / TA,Standard,Standard,3
+CUST_280,India,INN00200,City Hotel,Indore,21-Jun-24,0,21-Jun-24,2,0,2,1,2,3,Breakfast & Dinner,0,0,195,Groups,Deluxe,Deluxe,0
+CUST_077,UAE,INN00201,City Hotel,Hyderabad,18-Aug-24,0,18-Aug-24,2,0,2,1,4,5,Not Selected,0,1,110,Online Self / TA,Standard,Standard,3
+CUST_370,India,INN00202,Resort Hotel,Bangalore,31-Oct-24,8,8-Nov-24,2,0,2,0,2,2,Breakfast,0,0,193,Online Self / TA,Premium,Premium,1
+CUST_437,UAE,INN00203,Resort Hotel,Indore,3-Apr-24,66,8-Jun-24,2,0,2,2,2,4,Not Selected,0,0,97,Groups,Deluxe,Deluxe,2
+CUST_040,India,INN00204,Resort Hotel,Lucknow,30-Apr-24,88,27-Jul-24,2,0,2,1,2,3,Breakfast,0,0,150,Online Self / TA,Deluxe,Deluxe,1
+CUST_059,Canada,INN00205,Resort Hotel,Mumbai,8-Jul-24,0,8-Jul-24,2,0,2,2,1,3,Breakfast,0,1,98,Online Self / TA,Standard,Standard,0
+CUST_243,USA,INN00206,Resort Hotel,Mumbai,9-Oct-24,43,21-Nov-24,2,0,2,0,3,3,Breakfast,1,3,92,Online Self / TA,Standard,Standard,0
+CUST_291,India,INN00207,Resort Hotel,Mumbai,29-May-24,88,25-Aug-24,2,0,2,1,3,4,Breakfast,1,1,139,Online Self / TA,Premium,Premium,2
+CUST_037,UAE,INN00208,Resort Hotel,Chennai,9-Jan-24,54,3-Mar-24,2,0,2,2,3,5,Breakfast,0,0,80,Direct,Deluxe,Deluxe,0
+CUST_031,India,INN00209,Resort Hotel,Hyderabad,9-Jun-23,292,27-Mar-24,2,0,2,2,4,6,Breakfast,0,1,47,Online Self / TA,Standard,Standard,0
+CUST_262,India,INN00210,City Hotel,Bhopal,22-Feb-24,112,13-Jun-24,2,0,2,0,0,0,Breakfast,1,2,127,Company TA/TO,Deluxe,Premium,1
+CUST_119,Canada,INN00211,City Hotel,Chandigarh,28-Jun-24,68,4-Sep-24,2,2,4,0,3,3,Breakfast,1,2,107,Online Self / TA,Premium,Premium,1
+CUST_422,India,INN00212,City Hotel,Ahmedabad,19-Jan-24,7,26-Jan-24,1,0,1,1,1,2,Breakfast,0,1,131,Company TA/TO,Standard,Deluxe,2
+CUST_280,India,INN00213,City Hotel,Bhopal,31-May-24,1,1-Jun-24,2,1,3,0,1,1,Breakfast,0,0,131,Online Self / TA,Standard,Standard,1
+CUST_250,India,INN00214,Resort Hotel,Pune,29-Jun-24,113,20-Oct-24,2,0,2,2,1,3,Breakfast,0,1,123,Direct,Standard,Standard,1
+CUST_382,India,INN00215,Resort Hotel,Goa,2-Dec-24,5,7-Dec-24,2,0,2,2,2,4,Breakfast,1,3,146,Online Self / TA,Deluxe,Deluxe,1
+CUST_581,India,INN00216,Resort Hotel,Bangalore,14-Mar-24,83,5-Jun-24,2,0,2,1,1,2,Not Selected,1,1,111,Direct,Standard,Standard,1
+CUST_025,Germany,INN00217,Resort Hotel,Chandigarh,11-Mar-24,105,24-Jun-24,2,0,2,0,2,2,Breakfast,0,1,74,Company TA/TO,Standard,Deluxe,1
+CUST_245,Germany,INN00218,Resort Hotel,Chennai,11-Mar-24,0,11-Mar-24,2,0,2,2,5,7,Breakfast,1,1,61,Online Self / TA,Standard,Standard,0
+CUST_397,UAE,INN00219,Resort Hotel,Chennai,10-Aug-24,1,11-Aug-24,2,0,2,0,3,3,Breakfast,0,1,105,Online Self / TA,Standard,Standard,1
+CUST_426,France,INN00220,Resort Hotel,Delhi,17-Sep-24,1,18-Sep-24,2,0,2,2,5,7,Breakfast,1,1,105,Online Self / TA,Standard,Deluxe,1
+CUST_530,India,INN00221,City Hotel,Ahmedabad,12-Oct-24,1,13-Oct-24,1,0,1,0,2,2,Not Selected,0,1,105,Corporate,Standard,Standard,1
+CUST_052,India,INN00222,City Hotel,Kochi,24-Jun-24,102,4-Oct-24,2,0,2,0,1,1,Breakfast,1,1,66,Online Self / TA,Standard,Standard,1
+CUST_204,UK,INN00223,City Hotel,Chennai,14-Dec-23,113,5-Apr-24,2,0,2,1,5,6,Breakfast,0,0,78,Online Self / TA,Premium,Premium,1
+CUST_264,UK,INN00224,Resort Hotel,Chennai,28-Apr-23,280,2-Feb-24,2,0,2,0,2,2,Breakfast,0,0,112,Groups,Deluxe,Deluxe,1
+CUST_085,Germany,INN00225,Resort Hotel,Goa,10-Oct-23,96,14-Jan-24,2,0,2,1,3,4,Not Selected,0,2,107,Company TA/TO,Premium,Premium,1
+CUST_549,Canada,INN00226,Resort Hotel,Bhopal,21-Dec-22,394,19-Jan-24,2,0,2,0,2,2,Breakfast,0,0,90,Online Self / TA,Deluxe,Deluxe,0
+CUST_317,UAE,INN00227,Resort Hotel,Kolkata,14-Mar-24,33,16-Apr-24,2,0,2,2,2,4,Breakfast,0,0,155,Online Self / TA,Premium,Premium,0
+CUST_163,USA,INN00228,Resort Hotel,Ahmedabad,8-Jun-24,82,29-Aug-24,2,0,2,2,2,4,Breakfast,0,0,112,Online Self / TA,Standard,Standard,1
+CUST_141,India,INN00229,Resort Hotel,Pune,12-Jul-24,100,20-Oct-24,2,2,4,0,2,2,Breakfast,0,0,130,Direct,Premium,Premium,3
+CUST_345,Germany,INN00230,Resort Hotel,Lucknow,22-Oct-23,100,30-Jan-24,2,0,2,1,2,3,Breakfast,0,0,100,Groups,Premium,Premium,2
+CUST_077,UAE,INN00231,Resort Hotel,Bhopal,12-Nov-24,17,29-Nov-24,2,0,2,1,1,2,Breakfast,0,1,123,Direct,Deluxe,Premium,3
+CUST_056,France,INN00232,City Hotel,Chandigarh,30-Jan-24,68,7-Apr-24,2,0,2,1,3,4,Breakfast,1,2,124,Online Self / TA,Standard,Standard,1
+CUST_107,UAE,INN00233,Resort Hotel,Lucknow,3-Nov-24,12,15-Nov-24,2,0,2,0,2,2,Breakfast,0,1,146,Online Self / TA,Premium,Premium,0
+CUST_356,France,INN00234,Resort Hotel,Bhopal,31-Aug-24,77,16-Nov-24,2,0,2,1,0,1,Not Selected,1,1,97,Online Self / TA,Deluxe,Deluxe,0
+CUST_103,USA,INN00235,Resort Hotel,Kolkata,26-May-24,24,19-Jun-24,2,0,2,0,1,1,Breakfast,0,1,123,Direct,Deluxe,Premium,1
+CUST_576,France,INN00236,Resort Hotel,Lucknow,18-Jun-24,44,1-Aug-24,2,0,2,2,6,8,Not Selected,1,1,153,Company TA/TO,Premium,Premium,0
+CUST_185,Germany,INN00237,Resort Hotel,Jaipur,9-Jan-24,78,27-Mar-24,2,0,2,0,2,2,Breakfast,0,0,82,Company TA/TO,Standard,Standard,2
+CUST_266,France,INN00238,Resort Hotel,Chennai,21-May-24,17,7-Jun-24,2,0,2,1,3,4,Breakfast,0,0,105,Direct,Standard,Standard,0
+CUST_503,USA,INN00239,City Hotel,Goa,29-Jul-24,103,9-Nov-24,2,0,2,2,2,4,Not Selected,0,1,65,Online Self / TA,Standard,Standard,0
+CUST_461,India,INN00240,Resort Hotel,Delhi,18-Aug-24,16,3-Sep-24,2,0,2,1,0,1,Not Selected,1,1,98,Online Self / TA,Standard,Standard,1
+CUST_051,India,INN00241,Resort Hotel,Mumbai,23-Oct-24,14,6-Nov-24,2,0,2,2,4,6,Not Selected,0,1,75,Company TA/TO,Standard,Standard,1
+CUST_359,Canada,INN00242,Resort Hotel,Pune,8-Nov-23,77,24-Jan-24,2,0,2,1,2,3,Breakfast,1,2,66,Online Self / TA,Standard,Standard,0
+CUST_318,Australia,INN00243,Resort Hotel,Chandigarh,24-Aug-24,90,22-Nov-24,2,0,2,0,2,2,Breakfast,0,0,91,Groups,Standard,Standard,0
+CUST_464,UK,INN00244,Resort Hotel,Pune,17-Feb-24,90,17-May-24,2,2,4,0,2,2,Not Selected,0,0,94,Direct,Standard,Standard,0
+CUST_352,India,INN00245,Resort Hotel,Pune,11-Mar-24,90,9-Jun-24,2,0,2,1,0,1,Breakfast,0,1,119,Online Self / TA,Premium,Premium,0
+CUST_570,India,INN00246,City Hotel,Kochi,24-Nov-23,366,24-Nov-24,2,0,2,0,2,2,Breakfast,1,1,135,Online Self / TA,Premium,Premium,0
+CUST_130,India,INN00247,City Hotel,Delhi,29-Jun-23,249,4-Mar-24,2,0,2,0,3,3,Breakfast,0,1,112,Company TA/TO,Standard,Standard,1
+CUST_074,UK,INN00248,Resort Hotel,Kochi,10-Nov-23,69,18-Jan-24,2,0,2,0,4,4,Breakfast,0,0,118,Online Self / TA,Standard,Deluxe,2
+CUST_400,India,INN00249,Resort Hotel,Lucknow,21-Oct-24,10,31-Oct-24,2,0,2,1,2,3,Breakfast,1,1,131,Company TA/TO,Standard,Deluxe,0
+CUST_407,UAE,INN00250,Resort Hotel,Chennai,20-Aug-24,22,11-Sep-24,2,0,2,1,3,4,Breakfast,0,0,88,Online Self / TA,Standard,Standard,0
+CUST_136,France,INN00251,Resort Hotel,Bangalore,14-Mar-24,91,13-Jun-24,2,1,3,2,1,3,Breakfast,0,1,74,Online Self / TA,Standard,Standard,1
+CUST_400,India,INN00252,Resort Hotel,Delhi,15-Mar-24,23,7-Apr-24,2,0,2,2,3,5,Breakfast,0,1,98,Online Self / TA,Standard,Standard,0
+CUST_477,UAE,INN00253,Resort Hotel,Kochi,9-Feb-24,11,20-Feb-24,2,0,2,0,4,4,Not Selected,0,0,111,Company TA/TO,Standard,Deluxe,1
+CUST_130,India,INN00254,City Hotel,Bangalore,4-Apr-24,3,7-Apr-24,2,1,3,1,1,2,Not Selected,1,1,131,Online Self / TA,Standard,Standard,1
+CUST_537,UAE,INN00255,City Hotel,Jaipur,5-Nov-24,13,18-Nov-24,2,0,2,0,3,3,Breakfast,1,1,185,Online Self / TA,Premium,Premium,1
+CUST_291,India,INN00256,Resort Hotel,Bhopal,13-Jun-24,108,29-Sep-24,2,0,2,2,4,6,Not Selected,0,1,87,Online Self / TA,Deluxe,Deluxe,2
+CUST_010,India,INN00257,Resort Hotel,Mumbai,2-Feb-24,91,3-May-24,1,0,1,0,1,1,Breakfast,0,2,74,Company TA/TO,Standard,Standard,1
+CUST_128,Australia,INN00258,Resort Hotel,Ahmedabad,18-Aug-24,37,24-Sep-24,2,1,3,0,2,2,Breakfast & Dinner,0,1,120,Company TA/TO,Deluxe,Premium,1
+CUST_299,Canada,INN00259,Resort Hotel,Goa,17-Feb-24,21,9-Mar-24,2,0,2,0,3,3,Not Selected,0,1,98,Direct,Standard,Deluxe,1
+CUST_107,UAE,INN00260,Resort Hotel,Kolkata,10-Dec-23,106,25-Mar-24,2,1,3,2,3,5,Breakfast & Dinner,0,1,96,Online Self / TA,Premium,Premium,2
+CUST_326,France,INN00261,Resort Hotel,Ahmedabad,13-Jun-24,30,13-Jul-24,2,0,2,1,1,2,Breakfast,1,2,197,Company TA/TO,Premium,Premium,1
+CUST_268,Australia,INN00262,City Hotel,Delhi,3-Aug-24,30,2-Sep-24,2,0,2,1,1,2,Not Selected,0,0,197,Online Self / TA,Premium,Premium,1
+CUST_082,India,INN00263,City Hotel,Kolkata,9-Sep-24,51,30-Oct-24,1,0,1,1,3,4,Breakfast,0,0,123,Company TA/TO,Premium,Premium,0
+CUST_455,Germany,INN00264,City Hotel,Chennai,3-Sep-24,79,21-Nov-24,2,0,2,2,2,4,Breakfast,0,1,82,Online Self / TA,Standard,Standard,2
+CUST_013,USA,INN00265,City Hotel,Bangalore,28-Nov-24,21,19-Dec-24,2,0,2,2,1,3,Breakfast,1,1,165,Online Self / TA,Deluxe,Premium,3
+CUST_306,France,INN00266,Resort Hotel,Kochi,10-May-24,35,14-Jun-24,2,0,2,2,5,7,Not Selected,0,1,149,Direct,Premium,Premium,0
+CUST_250,India,INN00267,Resort Hotel,Goa,24-Jun-24,78,10-Sep-24,2,0,2,0,2,2,Breakfast,1,1,107,Online Self / TA,Standard,Standard,2
+CUST_066,France,INN00268,Resort Hotel,Ahmedabad,12-Jan-24,31,12-Feb-24,2,0,2,2,1,3,Breakfast,0,1,161,Company TA/TO,Deluxe,Premium,1
+CUST_366,France,INN00269,Resort Hotel,Indore,19-May-24,78,5-Aug-24,3,0,3,0,3,3,Breakfast,0,1,134,Groups,Deluxe,Deluxe,2
+CUST_427,UAE,INN00270,Resort Hotel,Bhopal,11-Apr-24,78,28-Jun-24,2,0,2,0,2,2,Breakfast,0,1,144,Online Self / TA,Premium,Premium,2
+CUST_581,India,INN00271,Resort Hotel,Kochi,5-May-24,44,18-Jun-24,2,0,2,0,1,1,Breakfast,0,1,152,Online Self / TA,Premium,Premium,0
+CUST_237,UAE,INN00272,City Hotel,Pune,28-May-24,34,1-Jul-24,3,0,3,2,4,6,Breakfast,0,0,126,Direct,Premium,Premium,3
+CUST_378,Australia,INN00273,City Hotel,Delhi,7-May-24,87,2-Aug-24,2,0,2,1,2,3,Breakfast & Dinner,0,4,134,Direct,Deluxe,Premium,2
+CUST_600,India,INN00274,City Hotel,Lucknow,4-Sep-24,11,15-Sep-24,3,0,3,0,2,2,Breakfast,0,1,160,Direct,Deluxe,Deluxe,0
+CUST_094,UK,INN00275,City Hotel,Indore,23-Jun-24,115,16-Oct-24,2,2,4,1,0,1,Breakfast,0,0,121,Online Self / TA,Standard,Standard,2
+CUST_232,India,INN00276,Resort Hotel,Chandigarh,12-Feb-24,86,8-May-24,2,0,2,2,4,6,Breakfast,0,1,112,Direct,Deluxe,Premium,0
+CUST_412,India,INN00277,Resort Hotel,Bhopal,7-Aug-24,41,17-Sep-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,111,Online Self / TA,Premium,Premium,0
+CUST_004,UK,INN00278,Resort Hotel,Jaipur,24-Apr-24,32,26-May-24,3,0,3,2,1,3,Breakfast,0,1,106,Online Self / TA,Deluxe,Deluxe,0
+CUST_352,India,INN00279,Resort Hotel,Indore,20-Jun-24,34,24-Jul-24,2,0,2,0,3,3,Breakfast,0,1,95,Online Self / TA,Deluxe,Premium,3
+CUST_455,Germany,INN00280,Resort Hotel,Indore,19-Oct-24,34,22-Nov-24,2,2,4,2,5,7,Breakfast,0,1,109,Online Self / TA,Premium,Premium,1
+CUST_508,Australia,INN00281,Resort Hotel,Delhi,2-Jul-24,100,10-Oct-24,2,0,2,1,1,2,Breakfast,0,2,154,Groups,Standard,Standard,0
+CUST_085,Germany,INN00282,Resort Hotel,Lucknow,10-Apr-24,44,24-May-24,2,0,2,1,3,4,Not Selected,1,2,121,Online Self / TA,Standard,Standard,0
+CUST_195,Germany,INN00283,City Hotel,Lucknow,24-Jul-23,304,23-May-24,2,0,2,0,4,4,Not Selected,0,0,91,Company TA/TO,Standard,Standard,1
+CUST_315,Germany,INN00284,City Hotel,Delhi,10-Apr-24,36,16-May-24,2,0,2,0,4,4,Not Selected,1,2,127,Online Self / TA,Premium,Premium,0
+CUST_401,India,INN00285,Resort Hotel,Pune,12-Aug-24,117,7-Dec-24,2,0,2,1,4,5,Breakfast,0,0,144,Online Self / TA,Deluxe,Deluxe,1
+CUST_328,Australia,INN00286,Resort Hotel,Indore,28-Nov-23,70,6-Feb-24,2,0,2,0,2,2,Not Selected,0,1,100,Online Self / TA,Standard,Standard,2
+CUST_101,India,INN00287,Resort Hotel,Hyderabad,19-Dec-23,110,7-Apr-24,2,0,2,2,2,4,Breakfast,1,2,139,Online Self / TA,Premium,Premium,1
+CUST_219,Canada,INN00288,Resort Hotel,Lucknow,28-Jul-24,109,14-Nov-24,2,0,2,2,2,4,Breakfast,0,0,74,Company TA/TO,Standard,Deluxe,1
+CUST_380,India,INN00289,City Hotel,Jaipur,26-Jul-24,33,28-Aug-24,2,0,2,0,1,1,Breakfast,0,1,90,Online Self / TA,Premium,Premium,1
+CUST_101,India,INN00290,City Hotel,Bangalore,28-May-24,33,30-Jun-24,2,0,2,1,2,3,Breakfast,1,2,123,Online Self / TA,Premium,Premium,0
+CUST_351,India,INN00291,City Hotel,Mumbai,19-Feb-24,33,23-Mar-24,2,0,2,1,3,4,Breakfast,0,0,123,Corporate,Premium,Premium,0
+CUST_224,UK,INN00292,City Hotel,Ahmedabad,25-Apr-24,0,25-Apr-24,2,0,2,1,1,2,Breakfast,1,1,123,Online Self / TA,Standard,Standard,0
+CUST_468,Australia,INN00293,City Hotel,Indore,20-Sep-24,0,20-Sep-24,2,0,2,1,1,2,Breakfast,0,1,145,Online Self / TA,Standard,Standard,1
+CUST_323,USA,INN00294,Resort Hotel,Lucknow,4-Mar-24,0,4-Mar-24,2,1,3,2,1,3,Breakfast,0,0,153,Company TA/TO,Premium,Premium,0
+CUST_272,India,INN00295,Resort Hotel,Bangalore,14-Aug-24,0,14-Aug-24,2,0,2,2,1,3,Breakfast,0,0,131,Online Self / TA,Standard,Standard,1
+CUST_499,Canada,INN00296,Resort Hotel,Lucknow,5-Aug-24,84,28-Oct-24,2,0,2,0,3,3,Breakfast,0,0,100,Company TA/TO,Standard,Standard,0
+CUST_099,Canada,INN00297,Resort Hotel,Indore,24-Nov-23,71,3-Feb-24,2,0,2,0,1,1,Breakfast & Dinner,1,1,66,Online Self / TA,Standard,Standard,0
+CUST_598,Australia,INN00298,Resort Hotel,Mumbai,5-Feb-24,16,21-Feb-24,2,0,2,2,2,4,Breakfast,0,1,123,Company TA/TO,Deluxe,Deluxe,1
+CUST_066,France,INN00299,Resort Hotel,Bhopal,14-Dec-23,54,6-Feb-24,2,0,2,2,1,3,Breakfast & Dinner,1,1,123,Online Self / TA,Premium,Premium,0
+CUST_004,UK,INN00300,Resort Hotel,Chennai,8-Mar-24,8,16-Mar-24,2,0,2,2,6,8,Breakfast,0,1,131,Direct,Standard,Standard,0
+CUST_072,India,INN00301,Resort Hotel,Kolkata,8-Oct-24,36,13-Nov-24,2,0,2,0,3,3,Breakfast,1,2,105,Company TA/TO,Deluxe,Premium,0
+CUST_526,France,INN00302,Resort Hotel,Kolkata,25-Aug-24,40,4-Oct-24,2,0,2,0,2,2,Breakfast,0,2,166,Direct,Standard,Standard,0
+CUST_442,India,INN00303,Resort Hotel,Bangalore,16-Mar-24,59,14-May-24,2,2,4,2,1,3,Breakfast,0,0,111,Direct,Deluxe,Deluxe,2
+CUST_320,India,INN00304,Resort Hotel,Hyderabad,31-Dec-23,79,19-Mar-24,2,0,2,1,2,3,Breakfast,0,1,214,Direct,Premium,Premium,0
+CUST_068,Australia,INN00305,Resort Hotel,Mumbai,23-Mar-24,32,24-Apr-24,3,0,3,1,0,1,Breakfast,1,2,178,Online Self / TA,Premium,Premium,0
+CUST_548,Australia,INN00306,City Hotel,Goa,22-Nov-23,110,11-Mar-24,2,0,2,2,1,3,Breakfast,0,1,114,Online Self / TA,Standard,Deluxe,1
+CUST_354,UK,INN00307,City Hotel,Chandigarh,13-Apr-24,33,16-May-24,2,0,2,0,2,2,Breakfast,1,1,129,Online Self / TA,Premium,Premium,0
+CUST_587,UAE,INN00308,City Hotel,Goa,29-Dec-23,53,20-Feb-24,2,2,4,0,4,4,Breakfast,1,2,153,Online Self / TA,Premium,Premium,0
+CUST_266,France,INN00309,City Hotel,Bhopal,20-May-24,2,22-May-24,2,0,2,0,1,1,Breakfast & Dinner,0,0,98,Online Self / TA,Standard,Standard,2
+CUST_316,France,INN00310,Resort Hotel,Jaipur,20-Oct-24,8,28-Oct-24,2,0,2,1,3,4,Breakfast,1,1,169,Online Self / TA,Standard,Standard,2
+CUST_091,India,INN00311,Resort Hotel,Jaipur,2-Aug-24,72,13-Oct-24,2,0,2,1,0,1,Breakfast,1,1,93,Online Self / TA,Standard,Standard,2
+CUST_166,France,INN00312,Resort Hotel,Kolkata,27-Feb-24,12,10-Mar-24,1,0,1,0,2,2,Breakfast,0,1,132,Direct,Standard,Standard,0
+CUST_559,Canada,INN00313,Resort Hotel,Kolkata,31-May-24,48,18-Jul-24,2,0,2,2,1,3,Breakfast,0,2,123,Company TA/TO,Deluxe,Premium,1
+CUST_522,India,INN00314,Resort Hotel,Hyderabad,26-Apr-24,90,25-Jul-24,2,0,2,2,5,7,Breakfast,1,1,117,Online Self / TA,Standard,Deluxe,1
+CUST_489,Canada,INN00315,Resort Hotel,Kolkata,15-Jun-24,34,19-Jul-24,2,0,2,2,1,3,Breakfast,0,1,149,Online Self / TA,Deluxe,Deluxe,1
+CUST_178,Australia,INN00316,Resort Hotel,Hyderabad,15-Oct-24,58,12-Dec-24,2,0,2,1,0,1,Breakfast,1,1,165,Online Self / TA,Deluxe,Deluxe,1
+CUST_134,UK,INN00317,Resort Hotel,Bhopal,28-Dec-23,59,25-Feb-24,2,0,2,0,2,2,Breakfast & Dinner,1,2,107,Online Self / TA,Standard,Deluxe,0
+CUST_315,Germany,INN00318,City Hotel,Mumbai,11-Aug-24,90,9-Nov-24,2,0,2,1,1,2,Breakfast & Dinner,0,2,117,Direct,Standard,Standard,2
+CUST_216,France,INN00319,City Hotel,Mumbai,1-Nov-23,116,25-Feb-24,2,0,2,2,3,5,Breakfast,0,0,119,Online Self / TA,Premium,Premium,0
+CUST_306,France,INN00320,City Hotel,Lucknow,28-Oct-24,31,28-Nov-24,2,0,2,0,2,2,Breakfast & Dinner,1,1,123,Direct,Deluxe,Premium,0
+CUST_180,India,INN00321,City Hotel,Chennai,6-Mar-24,51,26-Apr-24,2,0,2,1,2,3,Breakfast,0,0,106,Online Self / TA,Standard,Standard,0
+CUST_305,Germany,INN00322,Resort Hotel,Pune,29-Jul-24,48,15-Sep-24,2,0,2,1,0,1,Breakfast,1,1,123,Online Self / TA,Deluxe,Deluxe,1
+CUST_045,Germany,INN00323,Resort Hotel,Bangalore,30-Dec-23,59,27-Feb-24,1,0,1,0,2,2,Breakfast,0,1,144,Company TA/TO,Premium,Premium,2
+CUST_490,India,INN00324,Resort Hotel,Ahmedabad,22-Jun-24,97,27-Sep-24,1,2,3,1,2,3,Breakfast,0,1,126,Company TA/TO,Premium,Premium,1
+CUST_211,India,INN00325,Resort Hotel,Chennai,8-Sep-24,12,20-Sep-24,2,0,2,2,0,2,Breakfast,0,0,148,Online Self / TA,Standard,Standard,2
+CUST_506,France,INN00326,Resort Hotel,Goa,17-Sep-24,64,20-Nov-24,2,0,2,0,2,2,Not Selected,1,1,125,Online Self / TA,Standard,Standard,1
+CUST_030,India,INN00327,Resort Hotel,Delhi,25-Oct-24,31,25-Nov-24,2,0,2,2,1,3,Breakfast,0,0,123,Direct,Deluxe,Deluxe,0
+CUST_525,Germany,INN00328,Resort Hotel,Ahmedabad,29-Jan-24,59,28-Mar-24,2,0,2,0,2,2,Breakfast,0,0,130,Online Self / TA,Standard,Standard,1
+CUST_116,France,INN00329,Resort Hotel,Jaipur,28-Sep-24,55,22-Nov-24,2,0,2,0,3,3,Breakfast,0,0,133,Company TA/TO,Deluxe,Deluxe,1
+CUST_140,India,INN00330,City Hotel,Indore,4-Jul-24,81,23-Sep-24,2,0,2,0,2,2,Breakfast,0,0,79,Online Self / TA,Standard,Standard,0
+CUST_540,India,INN00331,City Hotel,Indore,2-Sep-24,1,3-Sep-24,2,0,2,0,1,1,Breakfast,1,3,80,Online Self / TA,Standard,Standard,0
+CUST_568,Australia,INN00332,Resort Hotel,Jaipur,11-Apr-24,34,15-May-24,2,2,4,0,2,2,Breakfast & Dinner,1,2,193,Direct,Premium,Premium,1
+CUST_599,Canada,INN00333,Resort Hotel,Kolkata,21-Feb-24,13,5-Mar-24,2,0,2,2,1,3,Breakfast & Dinner,0,2,88,Online Self / TA,Standard,Standard,0
+CUST_352,India,INN00334,Resort Hotel,Indore,9-Dec-23,40,18-Jan-24,2,0,2,0,1,1,Breakfast,1,1,91,Company TA/TO,Premium,Premium,0
+CUST_505,Germany,INN00335,Resort Hotel,Goa,19-Oct-24,1,20-Oct-24,2,0,2,1,2,3,Breakfast,0,0,115,Online Self / TA,Standard,Standard,1
+CUST_058,Australia,INN00336,Resort Hotel,Lucknow,9-Nov-24,34,13-Dec-24,3,0,3,2,1,3,Breakfast,0,1,120,Company TA/TO,Standard,Deluxe,1
+CUST_153,USA,INN00337,City Hotel,Ahmedabad,28-May-24,88,24-Aug-24,2,0,2,2,2,4,Breakfast,0,0,80,Online Self / TA,Deluxe,Deluxe,0
+CUST_575,Germany,INN00338,City Hotel,Kochi,7-Oct-24,9,16-Oct-24,2,0,2,1,1,2,Not Selected,0,1,118,Online Self / TA,Standard,Standard,3
+CUST_519,Canada,INN00339,Resort Hotel,Delhi,5-Jan-24,24,29-Jan-24,2,0,2,0,3,3,Breakfast,1,1,128,Company TA/TO,Standard,Standard,0
+CUST_491,India,INN00340,Resort Hotel,Kochi,4-Jun-24,97,9-Sep-24,2,0,2,2,2,4,Breakfast,0,1,91,Company TA/TO,Standard,Standard,0
+CUST_286,France,INN00341,City Hotel,Lucknow,15-Apr-24,60,14-Jun-24,2,0,2,0,1,1,Breakfast,1,3,107,Online Self / TA,Premium,Premium,2
+CUST_145,Germany,INN00342,City Hotel,Chandigarh,19-Apr-24,100,28-Jul-24,2,0,2,2,5,7,Breakfast,0,0,130,Online Self / TA,Premium,Premium,1
+CUST_301,India,INN00343,Resort Hotel,Indore,28-Jun-24,50,17-Aug-24,2,0,2,1,2,3,Breakfast,1,1,123,Online Self / TA,Deluxe,Deluxe,0
+CUST_332,India,INN00344,Resort Hotel,Chandigarh,11-Dec-23,47,27-Jan-24,2,1,3,0,3,3,Breakfast,0,0,104,Direct,Premium,Premium,0
+CUST_249,Canada,INN00345,Resort Hotel,Kochi,28-Jan-24,8,5-Feb-24,2,0,2,1,1,2,Breakfast,0,0,196,Direct,Premium,Premium,1
+CUST_213,USA,INN00346,Resort Hotel,Kochi,1-Apr-24,34,5-May-24,2,0,2,0,1,1,Not Selected,1,1,149,Online Self / TA,Deluxe,Premium,0
+CUST_299,Canada,INN00347,Resort Hotel,Hyderabad,17-Dec-23,47,2-Feb-24,2,0,2,0,2,2,Breakfast,1,1,176,Online Self / TA,Premium,Premium,0
+CUST_217,UAE,INN00348,Resort Hotel,Kolkata,25-Dec-23,115,18-Apr-24,2,0,2,0,2,2,Breakfast & Dinner,0,2,120,Company TA/TO,Standard,Standard,2
+CUST_104,UK,INN00349,Resort Hotel,Kochi,30-Sep-24,79,18-Dec-24,2,0,2,0,1,1,Breakfast,0,1,101,Online Self / TA,Standard,Deluxe,1
+CUST_572,India,INN00350,City Hotel,Goa,30-Nov-23,91,29-Feb-24,3,0,3,1,1,2,Breakfast,0,2,101,Online Self / TA,Standard,Standard,0
+CUST_361,India,INN00351,City Hotel,Bhopal,13-Feb-24,98,21-May-24,2,0,2,0,4,4,Breakfast,1,1,82,Online Self / TA,Standard,Deluxe,3
+CUST_598,Australia,INN00352,City Hotel,Chandigarh,17-Jul-24,109,3-Nov-24,2,0,2,0,1,1,Breakfast,1,1,74,Online Self / TA,Standard,Standard,1
+CUST_574,UK,INN00353,Resort Hotel,Ahmedabad,28-Nov-24,0,28-Nov-24,2,0,2,2,6,8,Breakfast,1,1,118,Direct,Standard,Standard,0
+CUST_428,Australia,INN00354,Resort Hotel,Jaipur,31-Mar-24,98,7-Jul-24,2,0,2,1,1,2,Breakfast,1,1,82,Online Self / TA,Standard,Standard,3
+CUST_307,UAE,INN00355,Resort Hotel,Kochi,6-Dec-24,0,6-Dec-24,2,2,4,2,2,4,Breakfast,0,0,150,Online Self / TA,Premium,Premium,0
+CUST_540,India,INN00356,Resort Hotel,Kochi,19-Jun-24,9,28-Jun-24,2,0,2,1,1,2,Breakfast,1,3,161,Online Self / TA,Standard,Standard,2
+CUST_512,India,INN00357,Resort Hotel,Hyderabad,15-Mar-24,62,16-May-24,2,1,3,2,1,3,Breakfast,1,1,64,Online Self / TA,Standard,Standard,2
+CUST_031,India,INN00358,City Hotel,Indore,9-Mar-24,45,23-Apr-24,2,0,2,1,3,4,Breakfast,0,1,123,Online Self / TA,Premium,Premium,0
+CUST_577,UAE,INN00359,City Hotel,Delhi,16-Sep-24,42,28-Oct-24,2,0,2,1,2,3,Breakfast,0,1,110,Online Self / TA,Deluxe,Deluxe,0
+CUST_166,France,INN00360,City Hotel,Mumbai,2-Feb-24,54,27-Mar-24,2,0,2,2,0,2,Breakfast,1,1,88,Online Self / TA,Standard,Standard,1
+CUST_276,France,INN00361,Resort Hotel,Pune,18-Sep-24,51,8-Nov-24,2,0,2,2,2,4,Breakfast,0,0,130,Online Self / TA,Standard,Standard,0
+CUST_448,Australia,INN00362,Resort Hotel,Goa,1-Jul-24,54,24-Aug-24,2,0,2,0,2,2,Breakfast,0,1,88,Online Self / TA,Standard,Standard,1
+CUST_534,UK,INN00363,Resort Hotel,Delhi,16-Apr-24,58,13-Jun-24,2,0,2,0,1,1,Breakfast,1,2,165,Online Self / TA,Premium,Premium,1
+CUST_134,UK,INN00364,Resort Hotel,Chandigarh,25-Nov-24,0,25-Nov-24,2,0,2,0,2,2,Breakfast,0,2,114,Company TA/TO,Standard,Standard,0
+CUST_547,UAE,INN00365,Resort Hotel,Delhi,10-Jan-24,60,10-Mar-24,4,0,4,0,1,1,Breakfast,0,0,80,Corporate,Deluxe,Deluxe,0
+CUST_175,Germany,INN00366,Resort Hotel,Ahmedabad,12-Nov-23,321,28-Sep-24,2,2,4,1,4,5,Breakfast,1,1,133,Online Self / TA,Standard,Standard,1
+CUST_333,USA,INN00367,Resort Hotel,Chennai,17-Oct-24,40,26-Nov-24,1,0,1,2,3,5,Breakfast & Dinner,0,1,120,Corporate,Deluxe,Deluxe,2
+CUST_022,India,INN00368,City Hotel,Lucknow,28-Apr-24,51,18-Jun-24,2,0,2,1,1,2,Breakfast,0,2,80,Company TA/TO,Deluxe,Premium,0
+CUST_186,France,INN00369,City Hotel,Indore,13-Mar-24,38,20-Apr-24,3,0,3,2,3,5,Breakfast & Dinner,0,0,120,Online Self / TA,Deluxe,Deluxe,0
+CUST_578,Australia,INN00370,City Hotel,Chandigarh,20-May-24,75,3-Aug-24,2,0,2,2,0,2,Breakfast & Dinner,0,2,144,Direct,Deluxe,Deluxe,1
+CUST_339,Canada,INN00371,City Hotel,Bhopal,17-Aug-24,101,26-Nov-24,3,0,3,0,5,5,Breakfast,0,1,107,Company TA/TO,Standard,Standard,0
+CUST_156,France,INN00372,City Hotel,Ahmedabad,2-May-24,42,13-Jun-24,2,0,2,2,2,4,Breakfast,0,0,120,Online Self / TA,Deluxe,Premium,0
+CUST_234,UK,INN00373,City Hotel,Jaipur,26-Oct-24,40,5-Dec-24,2,0,2,0,3,3,Breakfast,0,1,120,Company TA/TO,Deluxe,Deluxe,2
+CUST_333,USA,INN00374,City Hotel,Bangalore,30-Oct-23,109,16-Feb-24,2,0,2,2,2,4,Breakfast,0,1,164,Online Self / TA,Premium,Premium,1
+CUST_430,India,INN00375,City Hotel,Pune,29-Nov-23,81,18-Feb-24,2,0,2,2,6,8,Breakfast,0,0,99,Online Self / TA,Standard,Standard,2
+CUST_431,India,INN00376,City Hotel,Chandigarh,13-Aug-24,98,19-Nov-24,2,0,2,0,3,3,Breakfast,0,0,131,Online Self / TA,Standard,Standard,0
+CUST_443,USA,INN00377,City Hotel,Lucknow,3-Mar-24,32,4-Apr-24,2,2,4,0,2,2,Breakfast,0,0,153,Online Self / TA,Deluxe,Premium,0
+CUST_251,India,INN00378,Resort Hotel,Kolkata,25-Nov-23,72,5-Feb-24,2,1,3,0,1,1,Breakfast,0,1,99,Direct,Standard,Deluxe,2
+CUST_421,India,INN00379,Resort Hotel,Hyderabad,20-Feb-24,115,14-Jun-24,2,0,2,1,3,4,Not Selected,0,1,120,Online Self / TA,Standard,Standard,2
+CUST_471,India,INN00380,Resort Hotel,Delhi,28-Sep-23,118,24-Jan-24,1,0,1,2,1,3,Breakfast,0,0,185,Groups,Deluxe,Deluxe,1
+CUST_492,India,INN00381,Resort Hotel,Bhopal,19-Feb-24,81,10-May-24,1,0,1,4,11,15,Breakfast,0,0,181,Company TA/TO,Premium,Premium,2
+CUST_570,India,INN00382,Resort Hotel,Kolkata,10-Jul-24,95,13-Oct-24,2,0,2,0,4,4,Breakfast,0,1,101,Online Self / TA,Standard,Standard,1
+CUST_484,UK,INN00383,Resort Hotel,Lucknow,29-Oct-24,16,14-Nov-24,2,0,2,2,2,4,Breakfast,1,1,100,Direct,Standard,Deluxe,3
+CUST_233,USA,INN00384,Resort Hotel,Bhopal,8-Aug-24,56,3-Oct-24,2,0,2,2,0,2,Not Selected,0,0,134,Online Self / TA,Standard,Deluxe,0
+CUST_331,India,INN00385,Resort Hotel,Chandigarh,23-Oct-23,88,19-Jan-24,2,0,2,2,1,3,Breakfast,0,0,96,Online Self / TA,Standard,Standard,0
+CUST_591,India,INN00386,Resort Hotel,Lucknow,19-Sep-24,41,30-Oct-24,2,0,2,0,2,2,Breakfast & Dinner,0,1,83,Online Self / TA,Deluxe,Deluxe,2
+CUST_498,Australia,INN00387,Resort Hotel,Bhopal,16-Jul-24,40,25-Aug-24,2,0,2,2,1,3,Breakfast,0,1,106,Company TA/TO,Deluxe,Premium,0
+CUST_485,Germany,INN00388,Resort Hotel,Lucknow,14-Mar-24,1,15-Mar-24,2,0,2,1,3,4,Breakfast,0,0,134,Online Self / TA,Standard,Deluxe,0
+CUST_128,Australia,INN00389,Resort Hotel,Indore,4-Nov-24,1,5-Nov-24,2,0,2,0,1,1,Breakfast,1,1,8,Online Self / TA,Standard,Standard,1
+CUST_338,Australia,INN00390,Resort Hotel,Chennai,3-Apr-24,1,4-Apr-24,2,0,2,0,3,3,Breakfast,0,0,146,Direct,Deluxe,Deluxe,1
+CUST_418,Australia,INN00391,Resort Hotel,Delhi,3-May-24,76,18-Jul-24,2,0,2,0,1,1,Breakfast,0,1,126,Company TA/TO,Premium,Premium,2
+CUST_098,Australia,INN00392,Resort Hotel,Jaipur,27-Aug-24,0,27-Aug-24,2,0,2,1,4,5,Breakfast,1,1,111,Direct,Standard,Deluxe,1
+CUST_009,Canada,INN00393,Resort Hotel,Indore,28-Aug-24,49,16-Oct-24,2,0,2,0,1,1,Breakfast,0,0,136,Online Self / TA,Premium,Premium,2
+CUST_269,Canada,INN00394,Resort Hotel,Kolkata,5-Dec-23,76,19-Feb-24,2,0,2,0,2,2,Breakfast,1,1,102,Company TA/TO,Standard,Deluxe,0
+CUST_202,India,INN00395,Resort Hotel,Kochi,4-Apr-24,73,16-Jun-24,2,0,2,2,1,3,Not Selected,0,0,127,Online Self / TA,Standard,Deluxe,1
+CUST_335,Germany,INN00396,Resort Hotel,Kolkata,1-Apr-24,73,13-Jun-24,2,0,2,2,3,5,Breakfast,0,0,162,Direct,Premium,Premium,2
+CUST_453,USA,INN00397,Resort Hotel,Goa,9-Feb-24,317,22-Dec-24,2,0,2,0,2,2,Breakfast,1,3,231,Online Self / TA,Premium,Premium,2
+CUST_192,India,INN00398,Resort Hotel,Hyderabad,20-Mar-24,112,10-Jul-24,2,0,2,0,4,4,Breakfast & Dinner,0,0,66,Direct,Standard,Standard,1
+CUST_427,UAE,INN00399,Resort Hotel,Jaipur,5-Nov-24,6,11-Nov-24,2,0,2,1,2,3,Breakfast,0,1,180,Online Self / TA,Standard,Deluxe,2
+CUST_179,Canada,INN00400,Resort Hotel,Goa,6-Feb-24,8,14-Feb-24,2,0,2,0,1,1,Not Selected,1,1,169,Direct,Standard,Standard,1
+CUST_346,France,INN00401,Resort Hotel,Kolkata,28-Feb-24,96,3-Jun-24,2,0,2,0,1,1,Breakfast,0,2,108,Online Self / TA,Standard,Deluxe,1
+CUST_038,Australia,INN00402,Resort Hotel,Ahmedabad,15-Apr-24,96,20-Jul-24,2,0,2,2,2,4,Breakfast,1,2,97,Online Self / TA,Standard,Standard,1
+CUST_048,Australia,INN00403,City Hotel,Chennai,16-Jul-24,99,23-Oct-24,2,0,2,1,2,3,Breakfast,0,1,107,Company TA/TO,Standard,Standard,1
+CUST_134,UK,INN00404,City Hotel,Kochi,15-Sep-24,66,20-Nov-24,2,0,2,1,2,3,Breakfast,0,2,73,Online Self / TA,Standard,Standard,0
+CUST_025,Germany,INN00405,City Hotel,Hyderabad,7-Jan-24,38,14-Feb-24,2,0,2,0,1,1,Not Selected,0,1,110,Corporate,Deluxe,Deluxe,2
+CUST_407,UAE,INN00406,City Hotel,Lucknow,20-Feb-24,38,29-Mar-24,2,0,2,0,3,3,Breakfast,0,0,110,Direct,Deluxe,Premium,2
+CUST_541,India,INN00407,Resort Hotel,Chennai,17-Dec-23,113,8-Apr-24,2,0,2,2,1,3,Breakfast,1,2,188,Company TA/TO,Premium,Premium,3
+CUST_109,Canada,INN00408,Resort Hotel,Goa,3-Aug-24,0,3-Aug-24,2,0,2,1,3,4,Breakfast,1,1,134,Online Self / TA,Standard,Deluxe,0
+CUST_219,Canada,INN00409,Resort Hotel,Ahmedabad,20-Nov-23,62,21-Jan-24,2,0,2,0,3,3,Breakfast,0,0,92,Company TA/TO,Standard,Standard,0
+CUST_228,Australia,INN00410,Resort Hotel,Delhi,18-Jan-24,39,26-Feb-24,2,0,2,0,1,1,Breakfast,1,2,132,Online Self / TA,Deluxe,Deluxe,0
+CUST_065,Germany,INN00411,City Hotel,Kolkata,3-Nov-24,37,10-Dec-24,2,0,2,1,3,4,Breakfast,1,2,107,Online Self / TA,Deluxe,Premium,0
+CUST_518,Australia,INN00412,Resort Hotel,Ahmedabad,24-Jun-24,58,21-Aug-24,2,0,2,0,2,2,Breakfast,0,0,132,Online Self / TA,Deluxe,Deluxe,0
+CUST_538,Australia,INN00413,Resort Hotel,Chennai,16-Apr-24,37,23-May-24,2,0,2,0,1,1,Not Selected,1,2,216,Online Self / TA,Premium,Premium,0
+CUST_079,Canada,INN00414,Resort Hotel,Pune,11-Dec-23,57,6-Feb-24,2,0,2,2,2,4,Breakfast,1,2,107,Online Self / TA,Standard,Standard,0
+CUST_470,India,INN00415,Resort Hotel,Bhopal,28-Oct-24,57,24-Dec-24,2,0,2,0,1,1,Breakfast,0,0,107,Direct,Standard,Standard,0
+CUST_490,India,INN00416,Resort Hotel,Chennai,14-Dec-23,57,9-Feb-24,2,0,2,1,0,1,Breakfast,1,1,107,Online Self / TA,Standard,Deluxe,0
+CUST_401,India,INN00417,Resort Hotel,Ahmedabad,21-May-24,57,17-Jul-24,3,0,3,1,2,3,Breakfast,0,0,107,Company TA/TO,Standard,Deluxe,0
+CUST_286,France,INN00418,Resort Hotel,Kochi,28-Jun-24,57,24-Aug-24,2,1,3,0,1,1,Breakfast,0,3,107,Company TA/TO,Standard,Standard,0
+CUST_453,USA,INN00419,Resort Hotel,Kochi,20-Jul-24,83,11-Oct-24,2,0,2,2,0,2,Breakfast & Dinner,1,3,190,Online Self / TA,Premium,Premium,1
+CUST_083,USA,INN00420,Resort Hotel,Chandigarh,20-Sep-24,57,16-Nov-24,2,0,2,1,1,2,Breakfast,1,1,107,Online Self / TA,Standard,Deluxe,0
+CUST_063,USA,INN00421,City Hotel,Chandigarh,18-Jul-24,57,13-Sep-24,2,0,2,1,3,4,Not Selected,0,0,94,Online Self / TA,Standard,Standard,0
+CUST_448,Australia,INN00422,Resort Hotel,Goa,9-Sep-24,57,5-Nov-24,2,1,3,1,2,3,Breakfast,1,1,0,Online Self / TA,Standard,Standard,0
+CUST_548,Australia,INN00423,City Hotel,Lucknow,10-Jan-24,57,7-Mar-24,2,1,3,2,2,4,Breakfast,0,1,99,Online Self / TA,Standard,Standard,0
+CUST_325,Germany,INN00424,City Hotel,Hyderabad,9-Feb-24,57,6-Apr-24,2,0,2,2,2,4,Breakfast,0,0,148,Company TA/TO,Standard,Standard,0
+CUST_485,Germany,INN00425,City Hotel,Mumbai,28-Jun-24,57,24-Aug-24,2,0,2,1,1,2,Breakfast,0,0,94,Company TA/TO,Standard,Deluxe,0
+CUST_552,India,INN00426,Resort Hotel,Lucknow,27-Oct-24,57,23-Dec-24,2,0,2,0,1,1,Breakfast,0,0,107,Company TA/TO,Standard,Standard,0
+CUST_368,Australia,INN00427,Resort Hotel,Chennai,11-Jan-24,57,8-Mar-24,2,0,2,0,4,4,Not Selected,0,1,107,Company TA/TO,Standard,Standard,0
+CUST_466,France,INN00428,Resort Hotel,Goa,20-May-24,57,16-Jul-24,2,2,4,2,3,5,Breakfast,1,2,148,Online Self / TA,Standard,Standard,0
+CUST_375,Germany,INN00429,Resort Hotel,Goa,28-Mar-24,57,24-May-24,2,0,2,1,3,4,Breakfast & Dinner,1,2,0,Online Self / TA,Standard,Standard,0
+CUST_116,France,INN00430,Resort Hotel,Bhopal,14-Feb-24,57,11-Apr-24,2,1,3,2,4,6,Breakfast,0,0,107,Online Self / TA,Standard,Deluxe,0
+CUST_564,UK,INN00431,Resort Hotel,Hyderabad,27-Jan-24,57,24-Mar-24,2,0,2,0,4,4,Breakfast & Dinner,1,1,107,Online Self / TA,Standard,Standard,0
+CUST_022,India,INN00432,Resort Hotel,Pune,21-Jan-24,57,18-Mar-24,2,0,2,0,2,2,Breakfast,1,2,107,Direct,Standard,Standard,0
+CUST_085,Germany,INN00433,Resort Hotel,Jaipur,23-Jan-24,57,20-Mar-24,2,0,2,0,1,1,Breakfast,0,2,107,Online Self / TA,Standard,Standard,0
+CUST_031,India,INN00434,Resort Hotel,Jaipur,17-Aug-24,57,13-Oct-24,2,0,2,0,3,3,Breakfast,1,1,99,Online Self / TA,Standard,Deluxe,0
+CUST_076,France,INN00435,Resort Hotel,Bhopal,7-Aug-24,66,12-Oct-24,2,0,2,0,2,2,Breakfast,0,1,195,Online Self / TA,Premium,Premium,1
+CUST_569,Canada,INN00436,Resort Hotel,Pune,18-Jul-24,13,31-Jul-24,2,0,2,0,5,5,Breakfast & Dinner,0,1,121,Direct,Standard,Deluxe,1
+CUST_052,India,INN00437,City Hotel,Mumbai,12-Sep-24,50,1-Nov-24,2,1,3,0,4,4,Breakfast,0,1,123,Direct,Premium,Premium,0
+CUST_007,UAE,INN00438,City Hotel,Jaipur,4-Sep-24,48,22-Oct-24,2,0,2,0,1,1,Breakfast,0,1,112,Company TA/TO,Standard,Deluxe,0
+CUST_001,India,INN00439,City Hotel,Chennai,23-Jun-24,0,23-Jun-24,2,0,2,1,3,4,Breakfast & Dinner,0,1,123,Online Self / TA,Premium,Premium,0
+CUST_538,Australia,INN00440,Resort Hotel,Delhi,27-Jun-24,7,4-Jul-24,2,0,2,2,1,3,Not Selected,1,2,169,Online Self / TA,Deluxe,Deluxe,1
+CUST_052,India,INN00441,Resort Hotel,Hyderabad,15-Sep-24,0,15-Sep-24,2,1,3,1,4,5,Breakfast,0,1,198,Online Self / TA,Premium,Premium,0
+CUST_282,India,INN00442,Resort Hotel,Pune,17-Nov-23,66,22-Jan-24,2,0,2,2,1,3,Breakfast,0,1,104,Online Self / TA,Standard,Deluxe,1
+CUST_496,France,INN00443,Resort Hotel,Indore,27-Sep-24,13,10-Oct-24,2,2,4,1,3,4,Breakfast,0,0,136,Online Self / TA,Standard,Deluxe,1
+CUST_561,India,INN00444,Resort Hotel,Hyderabad,28-Dec-23,66,3-Mar-24,2,0,2,0,4,4,Breakfast,0,1,104,Company TA/TO,Standard,Standard,1
+CUST_399,Canada,INN00445,Resort Hotel,Pune,7-Jun-24,10,17-Jun-24,1,0,1,0,1,1,Breakfast,0,1,184,Online Self / TA,Deluxe,Deluxe,0
+CUST_041,India,INN00446,Resort Hotel,Hyderabad,18-Aug-24,10,28-Aug-24,2,0,2,0,1,1,Breakfast,0,0,134,Online Self / TA,Standard,Standard,0
+CUST_361,India,INN00447,City Hotel,Kolkata,4-Mar-24,58,1-May-24,3,0,3,2,2,4,Breakfast,0,1,147,Online Self / TA,Standard,Standard,0
+CUST_196,France,INN00448,Resort Hotel,Pune,9-Feb-24,17,26-Feb-24,2,0,2,0,1,1,Breakfast,0,0,151,Company TA/TO,Standard,Standard,0
+CUST_239,Canada,INN00449,Resort Hotel,Indore,30-Nov-24,19,19-Dec-24,2,0,2,3,5,8,Breakfast,0,0,121,Direct,Standard,Standard,1
+CUST_466,France,INN00450,Resort Hotel,Hyderabad,27-Dec-23,10,6-Jan-24,2,0,2,1,1,2,Breakfast & Dinner,1,2,150,Online Self / TA,Deluxe,Premium,1
+CUST_264,UK,INN00451,Resort Hotel,Indore,29-Feb-24,12,12-Mar-24,2,0,2,2,1,3,Not Selected,0,0,139,Direct,Premium,Premium,0
+CUST_460,India,INN00452,Resort Hotel,Hyderabad,22-Nov-24,10,2-Dec-24,2,1,3,0,1,1,Breakfast,0,0,150,Direct,Deluxe,Premium,1
+CUST_366,France,INN00453,Resort Hotel,Mumbai,11-Aug-24,63,13-Oct-24,2,0,2,2,1,3,Breakfast,1,1,75,Company TA/TO,Standard,Standard,1
+CUST_266,France,INN00454,Resort Hotel,Lucknow,23-Jun-24,35,28-Jul-24,1,0,1,0,1,1,Breakfast,0,0,135,Company TA/TO,Deluxe,Deluxe,0
+CUST_206,France,INN00455,City Hotel,Kolkata,10-Oct-23,113,31-Jan-24,2,2,4,0,1,1,Breakfast,1,1,166,Online Self / TA,Standard,Deluxe,1
+CUST_421,India,INN00456,City Hotel,Chandigarh,14-Sep-24,35,19-Oct-24,2,0,2,0,5,5,Breakfast,1,1,135,Online Self / TA,Deluxe,Premium,0
+CUST_069,Canada,INN00457,City Hotel,Chennai,18-Jul-24,68,24-Sep-24,2,0,2,1,3,4,Breakfast,0,0,130,Online Self / TA,Standard,Deluxe,0
+CUST_575,Germany,INN00458,City Hotel,Goa,21-Mar-24,113,12-Jul-24,2,0,2,0,3,3,Not Selected,1,1,96,Online Self / TA,Standard,Standard,0
+CUST_243,USA,INN00459,Resort Hotel,Kochi,16-Jul-24,21,6-Aug-24,2,0,2,0,2,2,Breakfast & Dinner,1,3,160,Company TA/TO,Premium,Premium,0
+CUST_445,Germany,INN00460,Resort Hotel,Kolkata,25-Jun-24,6,1-Jul-24,3,0,3,0,1,1,Not Selected,0,0,135,Direct,Standard,Standard,1
+CUST_021,India,INN00461,Resort Hotel,Goa,31-Aug-24,7,7-Sep-24,2,0,2,0,3,3,Breakfast,0,0,127,Online Self / TA,Standard,Deluxe,1
+CUST_121,India,INN00462,Resort Hotel,Kolkata,23-Nov-24,17,10-Dec-24,2,0,2,2,2,4,Breakfast,0,0,164,Online Self / TA,Premium,Premium,2
+CUST_088,Australia,INN00463,Resort Hotel,Chennai,30-Nov-24,1,1-Dec-24,2,0,2,0,1,1,Breakfast,1,1,145,Direct,Deluxe,Deluxe,0
+CUST_047,UAE,INN00464,Resort Hotel,Chennai,21-Dec-24,2,23-Dec-24,3,0,3,2,6,8,Breakfast,1,1,112,Direct,Standard,Standard,0
+CUST_530,India,INN00465,Resort Hotel,Pune,11-Jan-24,15,26-Jan-24,2,0,2,1,3,4,Breakfast & Dinner,1,1,134,Company TA/TO,Standard,Standard,1
+CUST_592,India,INN00466,Resort Hotel,Lucknow,21-Jul-24,7,28-Jul-24,2,0,2,1,2,3,Breakfast & Dinner,0,0,127,Company TA/TO,Standard,Standard,1
+CUST_311,India,INN00467,Resort Hotel,Kochi,28-Jan-24,11,8-Feb-24,2,1,3,1,3,4,Breakfast & Dinner,1,2,156,Direct,Standard,Standard,0
+CUST_589,Canada,INN00468,Resort Hotel,Chennai,16-Oct-24,6,22-Oct-24,2,0,2,1,3,4,Not Selected,1,1,111,Online Self / TA,Standard,Standard,1
+CUST_453,USA,INN00469,City Hotel,Jaipur,23-Jun-24,1,24-Jun-24,2,0,2,0,1,1,Breakfast,1,3,145,Online Self / TA,Deluxe,Deluxe,0
+CUST_468,Australia,INN00470,City Hotel,Kolkata,7-Sep-24,1,8-Sep-24,2,0,2,2,1,3,Breakfast,1,1,145,Online Self / TA,Deluxe,Deluxe,0
+CUST_498,Australia,INN00471,City Hotel,Mumbai,19-Mar-24,48,6-May-24,2,0,2,2,1,3,Breakfast & Dinner,0,1,123,Online Self / TA,Deluxe,Deluxe,0
+CUST_540,India,INN00472,Resort Hotel,Indore,6-Jun-24,15,21-Jun-24,2,0,2,0,4,4,Breakfast,0,3,121,Company TA/TO,Standard,Standard,1
+CUST_351,India,INN00473,Resort Hotel,Mumbai,25-Feb-24,3,28-Feb-24,2,0,2,0,1,1,Breakfast,0,0,108,Online Self / TA,Standard,Standard,0
+CUST_299,Canada,INN00474,Resort Hotel,Pune,21-Aug-24,23,13-Sep-24,2,0,2,2,3,5,Breakfast,0,1,121,Direct,Standard,Standard,1
+CUST_439,Canada,INN00475,Resort Hotel,Hyderabad,5-Sep-24,53,28-Oct-24,2,0,2,1,1,2,Not Selected,0,2,107,Company TA/TO,Standard,Deluxe,0
+CUST_259,Canada,INN00476,Resort Hotel,Lucknow,8-Feb-24,53,1-Apr-24,2,0,2,2,1,3,Breakfast,1,1,134,Online Self / TA,Standard,Standard,0
+CUST_155,Germany,INN00477,Resort Hotel,Goa,17-Dec-23,94,20-Mar-24,2,0,2,0,1,1,Breakfast,0,3,104,Online Self / TA,Standard,Standard,0
+CUST_585,Germany,INN00478,Resort Hotel,Goa,27-Feb-24,64,1-May-24,2,0,2,3,7,10,Not Selected,0,1,85,Online Self / TA,Standard,Standard,1
+CUST_117,UAE,INN00479,Resort Hotel,Lucknow,3-Apr-24,53,26-May-24,2,0,2,0,3,3,Breakfast,0,1,107,Direct,Standard,Deluxe,0
+CUST_272,India,INN00480,Resort Hotel,Delhi,14-Jul-24,53,5-Sep-24,2,2,4,0,3,3,Not Selected,0,0,107,Direct,Standard,Standard,0
+CUST_282,India,INN00481,Resort Hotel,Chennai,25-Jan-24,64,29-Mar-24,2,0,2,0,2,2,Breakfast,0,1,85,Direct,Standard,Deluxe,1
+CUST_375,Germany,INN00482,City Hotel,Hyderabad,5-Sep-24,53,28-Oct-24,2,0,2,2,2,4,Breakfast,1,2,107,Online Self / TA,Standard,Standard,0
+CUST_214,UK,INN00483,City Hotel,Bhopal,12-Jan-24,24,5-Feb-24,2,0,2,0,2,2,Breakfast,1,1,195,Online Self / TA,Premium,Premium,1
+CUST_582,India,INN00484,City Hotel,Goa,27-Dec-23,24,20-Jan-24,2,0,2,2,2,4,Breakfast,1,2,164,Online Self / TA,Premium,Premium,0
+CUST_069,Canada,INN00485,City Hotel,Kolkata,2-Mar-24,23,25-Mar-24,2,0,2,0,3,3,Breakfast,0,0,195,Direct,Premium,Premium,0
+CUST_440,India,INN00486,Resort Hotel,Bhopal,14-Jun-24,53,6-Aug-24,2,0,2,1,0,1,Not Selected,1,2,125,Online Self / TA,Standard,Standard,2
+CUST_580,India,INN00487,Resort Hotel,Bhopal,22-Sep-24,23,15-Oct-24,2,0,2,2,0,2,Breakfast,1,1,195,Company TA/TO,Premium,Premium,0
+CUST_517,UAE,INN00488,Resort Hotel,Mumbai,30-Apr-24,90,29-Jul-24,2,0,2,0,1,1,Breakfast,1,1,132,Online Self / TA,Standard,Standard,3
+CUST_139,Canada,INN00489,Resort Hotel,Pune,20-Dec-23,79,8-Mar-24,2,0,2,1,3,4,Breakfast,0,0,145,Online Self / TA,Premium,Premium,2
+CUST_218,Australia,INN00490,Resort Hotel,Jaipur,29-Jun-24,43,11-Aug-24,2,0,2,2,2,4,Not Selected,0,0,92,Online Self / TA,Standard,Standard,0
+CUST_100,India,INN00491,Resort Hotel,Bangalore,24-Oct-23,90,22-Jan-24,2,0,2,1,2,3,Breakfast,0,0,132,Online Self / TA,Standard,Standard,3
+CUST_320,India,INN00492,Resort Hotel,Chandigarh,6-Feb-24,65,11-Apr-24,1,0,1,0,3,3,Breakfast,1,1,147,Direct,Standard,Standard,2
+CUST_232,India,INN00493,Resort Hotel,Kochi,13-May-24,65,17-Jul-24,2,0,2,2,5,7,Breakfast,1,1,167,Online Self / TA,Deluxe,Deluxe,2
+CUST_133,USA,INN00494,Resort Hotel,Chennai,6-Aug-24,99,13-Nov-24,2,0,2,1,3,4,Breakfast,0,0,210,Company TA/TO,Premium,Premium,1
+CUST_154,UK,INN00495,City Hotel,Ahmedabad,8-Nov-24,25,3-Dec-24,2,0,2,0,2,2,Not Selected,0,0,195,Online Self / TA,Premium,Premium,2
+CUST_380,India,INN00496,City Hotel,Chandigarh,20-May-24,92,20-Aug-24,2,0,2,2,1,3,Breakfast,1,1,104,Online Self / TA,Standard,Deluxe,3
+CUST_436,France,INN00497,City Hotel,Jaipur,8-Aug-24,91,7-Nov-24,2,1,3,0,3,3,Breakfast,0,1,119,Online Self / TA,Standard,Standard,3
+CUST_026,France,INN00498,City Hotel,Goa,26-Feb-24,38,4-Apr-24,2,0,2,1,1,2,Breakfast,0,0,192,Online Self / TA,Premium,Premium,1
+CUST_103,USA,INN00499,City Hotel,Chandigarh,20-Mar-24,6,26-Mar-24,2,0,2,0,1,1,Breakfast & Dinner,1,1,128,Online Self / TA,Deluxe,Premium,0
+CUST_252,India,INN00500,Resort Hotel,Lucknow,14-Apr-24,38,22-May-24,2,0,2,0,3,3,Breakfast,0,1,135,Company TA/TO,Deluxe,Deluxe,0
+CUST_529,Canada,INN00501,Resort Hotel,Delhi,31-Oct-24,13,13-Nov-24,2,2,4,2,1,3,Breakfast,1,1,126,Online Self / TA,Standard,Standard,2
+CUST_550,India,INN00502,Resort Hotel,Chandigarh,13-Dec-23,32,14-Jan-24,2,0,2,2,1,3,Breakfast & Dinner,0,1,154,Online Self / TA,Deluxe,Deluxe,0
+CUST_231,India,INN00503,Resort Hotel,Bangalore,9-Apr-23,315,18-Feb-24,2,0,2,1,0,1,Breakfast,0,0,96,Online Self / TA,Standard,Standard,0
+CUST_043,USA,INN00504,Resort Hotel,Bhopal,21-Dec-24,8,29-Dec-24,2,0,2,0,2,2,Breakfast,0,0,126,Direct,Standard,Deluxe,2
+CUST_153,USA,INN00505,Resort Hotel,Chandigarh,25-May-24,0,25-May-24,2,0,2,2,4,6,Breakfast,0,0,136,Direct,Premium,Premium,0
+CUST_460,India,INN00506,Resort Hotel,Ahmedabad,18-Jun-24,91,17-Sep-24,2,2,4,0,4,4,Breakfast,0,0,119,Online Self / TA,Standard,Standard,3
+CUST_022,India,INN00507,Resort Hotel,Chennai,31-Jul-24,3,3-Aug-24,2,0,2,2,3,5,Breakfast,1,2,116,Online Self / TA,Standard,Standard,1
+CUST_114,UK,INN00508,City Hotel,Mumbai,23-Jan-24,9,1-Feb-24,1,0,1,2,3,5,Breakfast,0,0,164,Online Self / TA,Standard,Deluxe,1
+CUST_167,UAE,INN00509,City Hotel,Pune,18-Sep-24,19,7-Oct-24,2,0,2,1,2,3,Breakfast,0,0,148,Online Self / TA,Deluxe,Deluxe,2
+CUST_397,UAE,INN00510,City Hotel,Kochi,24-Dec-23,25,18-Jan-24,2,0,2,1,2,3,Breakfast,1,1,145,Company TA/TO,Premium,Premium,0
+CUST_134,UK,INN00511,Resort Hotel,Kochi,3-Oct-23,108,19-Jan-24,2,0,2,0,3,3,Breakfast,0,2,147,Company TA/TO,Standard,Standard,2
+CUST_042,India,INN00512,Resort Hotel,Hyderabad,15-Jul-24,37,21-Aug-24,2,0,2,2,1,3,Not Selected,1,1,168,Online Self / TA,Deluxe,Deluxe,0
+CUST_375,Germany,INN00513,Resort Hotel,Delhi,1-Aug-24,45,15-Sep-24,2,0,2,0,2,2,Breakfast,0,2,167,Online Self / TA,Deluxe,Premium,0
+CUST_541,India,INN00514,Resort Hotel,Jaipur,24-Apr-24,64,27-Jun-24,2,0,2,2,1,3,Breakfast,1,2,138,Online Self / TA,Premium,Premium,1
+CUST_263,USA,INN00515,Resort Hotel,Lucknow,3-Jan-24,44,16-Feb-24,2,0,2,0,1,1,Breakfast & Dinner,0,0,145,Company TA/TO,Premium,Premium,0
+CUST_476,France,INN00516,Resort Hotel,Chandigarh,26-Nov-24,26,22-Dec-24,2,0,2,0,4,4,Breakfast,0,0,133,Online Self / TA,Standard,Standard,0
+CUST_284,UK,INN00517,Resort Hotel,Bangalore,19-Jan-24,96,24-Apr-24,2,0,2,2,4,6,Breakfast,0,0,147,Direct,Standard,Deluxe,0
+CUST_562,India,INN00518,Resort Hotel,Pune,25-Aug-24,123,26-Dec-24,2,0,2,0,2,2,Breakfast,0,0,157,Online Self / TA,Premium,Premium,2
+CUST_259,Canada,INN00519,City Hotel,Jaipur,25-Aug-24,42,6-Oct-24,1,2,3,0,1,1,Not Selected,0,1,210,Online Self / TA,Premium,Premium,0
+CUST_044,UK,INN00520,City Hotel,Chennai,13-Nov-23,59,11-Jan-24,2,0,2,1,3,4,Breakfast,0,0,133,Online Self / TA,Premium,Premium,0
+CUST_248,Australia,INN00521,City Hotel,Bangalore,31-Jul-24,28,28-Aug-24,2,0,2,2,1,3,Breakfast,0,0,98,Company TA/TO,Standard,Standard,1
+CUST_587,UAE,INN00522,City Hotel,Bangalore,12-Mar-24,106,26-Jun-24,1,0,1,1,3,4,Breakfast,1,2,126,Online Self / TA,Deluxe,Deluxe,2
+CUST_498,Australia,INN00523,Resort Hotel,Goa,20-Apr-24,1,21-Apr-24,2,0,2,0,4,4,Breakfast,1,1,173,Direct,Deluxe,Premium,1
+CUST_528,Australia,INN00524,Resort Hotel,Goa,20-Nov-24,0,20-Nov-24,2,0,2,0,3,3,Breakfast,0,1,249,Online Self / TA,Deluxe,Premium,0
+CUST_415,Germany,INN00525,Resort Hotel,Kolkata,5-Jul-24,4,9-Jul-24,2,0,2,2,0,2,Breakfast,0,0,187,Company TA/TO,Premium,Premium,0
+CUST_477,UAE,INN00526,Resort Hotel,Delhi,13-Nov-24,3,16-Nov-24,3,0,3,0,3,3,Breakfast,0,0,95,Direct,Deluxe,Deluxe,1
+CUST_119,Canada,INN00527,Resort Hotel,Indore,25-Jul-24,73,6-Oct-24,2,0,2,0,1,1,Not Selected,0,2,242,Direct,Deluxe,Premium,2
+CUST_152,India,INN00528,Resort Hotel,Bangalore,14-Apr-24,44,28-May-24,2,0,2,0,1,1,Breakfast & Dinner,0,0,177,Direct,Premium,Premium,0
+CUST_081,India,INN00529,Resort Hotel,Bhopal,19-Jun-24,95,22-Sep-24,2,0,2,2,1,3,Breakfast,0,0,154,Online Self / TA,Standard,Deluxe,0
+CUST_366,France,INN00530,Resort Hotel,Chennai,18-Nov-23,94,20-Feb-24,2,0,2,2,3,5,Breakfast,0,1,115,Direct,Standard,Standard,1
+CUST_232,India,INN00531,City Hotel,Delhi,22-Jun-24,40,1-Aug-24,3,0,3,0,1,1,Breakfast,0,1,127,Groups,Deluxe,Deluxe,2
+CUST_246,France,INN00532,City Hotel,Ahmedabad,28-Jan-24,64,1-Apr-24,2,0,2,0,3,3,Breakfast,0,0,128,Company TA/TO,Deluxe,Deluxe,1
+CUST_116,France,INN00533,City Hotel,Kolkata,18-Feb-24,64,22-Apr-24,2,0,2,0,3,3,Breakfast,0,0,128,Direct,Deluxe,Deluxe,1
+CUST_119,Canada,INN00534,Resort Hotel,Mumbai,9-Oct-23,94,11-Jan-24,2,0,2,1,3,4,Breakfast,0,2,115,Online Self / TA,Standard,Deluxe,1
+CUST_229,Canada,INN00535,Resort Hotel,Kolkata,27-Dec-23,57,22-Feb-24,2,0,2,0,2,2,Breakfast,0,0,135,Groups,Standard,Deluxe,1
+CUST_102,India,INN00536,Resort Hotel,Bhopal,27-Oct-24,60,26-Dec-24,2,0,2,1,3,4,Breakfast,0,0,167,Company TA/TO,Deluxe,Deluxe,0
+CUST_155,Germany,INN00537,Resort Hotel,Pune,6-Apr-24,57,2-Jun-24,2,0,2,0,2,2,Breakfast,1,3,135,Online Self / TA,Standard,Standard,1
+CUST_141,India,INN00538,Resort Hotel,Hyderabad,9-Oct-23,87,4-Jan-24,2,1,3,1,3,4,Not Selected,0,0,125,Company TA/TO,Standard,Deluxe,0
+CUST_077,UAE,INN00539,Resort Hotel,Chandigarh,15-Jul-24,0,15-Jul-24,2,1,3,0,1,1,Breakfast,0,1,98,Online Self / TA,Standard,Standard,0
+CUST_001,India,INN00540,City Hotel,Kochi,7-Feb-24,0,7-Feb-24,2,0,2,6,15,21,Breakfast,0,1,98,Online Self / TA,Standard,Deluxe,0
+CUST_382,India,INN00541,City Hotel,Delhi,20-Jan-24,6,26-Jan-24,2,0,2,0,1,1,Breakfast,1,3,135,Online Self / TA,Deluxe,Deluxe,0
+CUST_436,France,INN00542,City Hotel,Mumbai,21-Jan-24,0,21-Jan-24,2,2,4,0,1,1,Breakfast,1,1,88,Online Self / TA,Standard,Deluxe,0
+CUST_112,India,INN00543,Resort Hotel,Kochi,22-Aug-24,19,10-Sep-24,2,0,2,0,4,4,Breakfast,0,1,121,Company TA/TO,Standard,Deluxe,1
+CUST_279,Canada,INN00544,Resort Hotel,Bhopal,25-Dec-24,4,29-Dec-24,2,0,2,2,3,5,Not Selected,1,2,155,Online Self / TA,Premium,Premium,2
+CUST_145,Germany,INN00545,Resort Hotel,Bangalore,14-Jan-24,59,13-Mar-24,2,1,3,0,2,2,Breakfast,0,0,145,Company TA/TO,Premium,Premium,0
+CUST_508,Australia,INN00546,Resort Hotel,Hyderabad,29-Nov-23,44,12-Jan-24,2,0,2,0,1,1,Breakfast,1,2,92,Online Self / TA,Standard,Standard,0
+CUST_286,France,INN00547,Resort Hotel,Delhi,22-Mar-24,37,28-Apr-24,2,0,2,2,2,4,Not Selected,1,3,154,Company TA/TO,Deluxe,Deluxe,0
+CUST_400,India,INN00548,Resort Hotel,Goa,26-Nov-23,66,31-Jan-24,2,0,2,0,2,2,Breakfast & Dinner,0,1,115,Online Self / TA,Standard,Standard,1
+CUST_251,India,INN00549,Resort Hotel,Bangalore,18-Nov-24,38,26-Dec-24,2,0,2,1,0,1,Breakfast,0,1,111,Company TA/TO,Deluxe,Premium,0
+CUST_528,Australia,INN00550,City Hotel,Delhi,27-Mar-24,62,28-May-24,2,0,2,0,4,4,Breakfast,1,1,159,Online Self / TA,Premium,Premium,1
+CUST_436,France,INN00551,City Hotel,Pune,27-Feb-24,41,8-Apr-24,2,0,2,0,1,1,Breakfast,0,1,131,Company TA/TO,Deluxe,Deluxe,1
+CUST_222,India,INN00552,City Hotel,Goa,29-Jan-24,60,29-Mar-24,2,1,3,0,1,1,Breakfast,0,0,118,Online Self / TA,Standard,Standard,0
+CUST_034,UK,INN00553,City Hotel,Chennai,4-Sep-24,104,17-Dec-24,2,0,2,1,2,3,Breakfast,0,0,123,Company TA/TO,Deluxe,Deluxe,1
+CUST_591,India,INN00554,Resort Hotel,Jaipur,26-Apr-24,62,27-Jun-24,1,0,1,0,1,1,Breakfast,1,1,159,Online Self / TA,Premium,Premium,1
+CUST_451,India,INN00555,Resort Hotel,Bangalore,31-Aug-24,117,26-Dec-24,2,2,4,4,9,13,Breakfast,1,1,118,Company TA/TO,Standard,Standard,2
+CUST_505,Germany,INN00556,Resort Hotel,Bhopal,23-Sep-24,31,24-Oct-24,2,0,2,2,0,2,Not Selected,0,0,154,Online Self / TA,Deluxe,Premium,0
+CUST_322,India,INN00557,Resort Hotel,Lucknow,26-May-24,34,29-Jun-24,2,0,2,1,1,2,Breakfast,0,0,117,Company TA/TO,Deluxe,Deluxe,0
+CUST_264,UK,INN00558,Resort Hotel,Bhopal,3-Jun-24,47,20-Jul-24,3,0,3,2,2,4,Breakfast,0,0,129,Company TA/TO,Standard,Standard,1
+CUST_079,Canada,INN00559,Resort Hotel,Delhi,30-Mar-24,24,23-Apr-24,2,0,2,0,2,2,Breakfast,1,2,214,Online Self / TA,Premium,Premium,0
+CUST_031,India,INN00560,Resort Hotel,Chandigarh,5-Jun-24,104,17-Sep-24,2,0,2,2,0,2,Breakfast & Dinner,0,1,115,Direct,Standard,Standard,2
+CUST_522,India,INN00561,Resort Hotel,Kochi,1-Oct-23,104,13-Jan-24,3,1,4,0,2,2,Breakfast & Dinner,0,1,123,Direct,Deluxe,Premium,1
+CUST_388,Australia,INN00562,City Hotel,Ahmedabad,13-Nov-24,32,15-Dec-24,2,0,2,0,1,1,Breakfast,1,1,123,Online Self / TA,Deluxe,Deluxe,0
+CUST_211,India,INN00563,City Hotel,Jaipur,24-Apr-24,47,10-Jun-24,2,0,2,2,5,7,Breakfast,0,0,195,Company TA/TO,Premium,Premium,0
+CUST_529,Canada,INN00564,City Hotel,Pune,24-Jun-24,29,23-Jul-24,2,2,4,1,3,4,Breakfast,0,1,135,Direct,Deluxe,Deluxe,0
+CUST_502,India,INN00565,City Hotel,Chennai,3-Jul-24,30,2-Aug-24,2,0,2,0,2,2,Breakfast,1,2,123,Direct,Deluxe,Deluxe,2
+CUST_374,UK,INN00566,City Hotel,Kolkata,13-Apr-24,123,14-Aug-24,2,0,2,0,2,2,Breakfast & Dinner,1,1,131,Online Self / TA,Premium,Premium,1
+CUST_039,Canada,INN00567,Resort Hotel,Hyderabad,3-Jan-24,14,17-Jan-24,3,0,3,2,2,4,Breakfast,0,0,123,Direct,Standard,Standard,0
+CUST_060,India,INN00568,Resort Hotel,Chennai,13-Jul-24,118,8-Nov-24,2,0,2,0,1,1,Breakfast,0,0,179,Online Self / TA,Premium,Premium,2
+CUST_505,Germany,INN00569,Resort Hotel,Chennai,22-Aug-24,0,22-Aug-24,2,0,2,2,2,4,Breakfast,0,0,135,Online Self / TA,Standard,Standard,0
+CUST_561,India,INN00570,Resort Hotel,Bhopal,25-May-24,0,25-May-24,2,0,2,2,2,4,Breakfast,1,1,0,Online Self / TA,Standard,Standard,1
+CUST_382,India,INN00571,Resort Hotel,Goa,16-Jul-24,79,3-Oct-24,2,0,2,0,2,2,Breakfast,1,3,115,Company TA/TO,Standard,Deluxe,3
+CUST_253,USA,INN00572,City Hotel,Kochi,15-Jan-24,63,18-Mar-24,2,0,2,0,3,3,Breakfast,1,1,115,Online Self / TA,Standard,Deluxe,0
+CUST_392,India,INN00573,City Hotel,Jaipur,19-Apr-24,68,26-Jun-24,2,0,2,2,1,3,Breakfast,0,0,104,Online Self / TA,Standard,Standard,2
+CUST_002,India,INN00574,City Hotel,Kolkata,24-Feb-24,96,30-May-24,2,1,3,0,1,1,Breakfast,0,1,157,Online Self / TA,Standard,Standard,0
+CUST_470,India,INN00575,City Hotel,Lucknow,16-Sep-24,41,27-Oct-24,1,0,1,0,2,2,Breakfast,0,0,135,Online Self / TA,Deluxe,Deluxe,1
+CUST_412,India,INN00576,City Hotel,Chennai,9-Nov-24,46,25-Dec-24,2,0,2,2,1,3,Breakfast,0,0,112,Online Self / TA,Premium,Premium,0
+CUST_129,Canada,INN00577,City Hotel,Goa,14-May-24,41,24-Jun-24,2,2,4,0,1,1,Not Selected,1,1,135,Online Self / TA,Deluxe,Deluxe,1
+CUST_326,France,INN00578,City Hotel,Chandigarh,10-Jan-24,60,10-Mar-24,2,0,2,0,3,3,Breakfast,1,2,195,Company TA/TO,Premium,Premium,0
+CUST_452,India,INN00579,City Hotel,Bangalore,7-Apr-24,41,18-May-24,2,0,2,0,3,3,Breakfast,1,1,104,Online Self / TA,Standard,Standard,0
+CUST_162,India,INN00580,City Hotel,Hyderabad,7-Jul-24,69,14-Sep-24,2,1,3,1,4,5,Breakfast,0,0,135,Direct,Deluxe,Premium,0
+CUST_126,France,INN00581,City Hotel,Jaipur,25-Oct-24,41,5-Dec-24,2,1,3,1,1,2,Not Selected,0,0,214,Online Self / TA,Premium,Premium,1
+CUST_238,Australia,INN00582,City Hotel,Chennai,12-Apr-24,52,3-Jun-24,2,0,2,2,5,7,Breakfast,0,0,133,Online Self / TA,Standard,Standard,0
+CUST_063,USA,INN00583,City Hotel,Kochi,22-Jan-24,41,3-Mar-24,2,0,2,1,3,4,Breakfast,0,0,141,Company TA/TO,Deluxe,Premium,1
+CUST_097,UAE,INN00584,Resort Hotel,Pune,8-Sep-24,89,6-Dec-24,2,2,4,0,2,2,Breakfast & Dinner,0,0,121,Company TA/TO,Premium,Premium,1
+CUST_089,Canada,INN00585,Resort Hotel,Pune,11-Sep-24,28,9-Oct-24,2,0,2,2,5,7,Breakfast,0,0,241,Online Self / TA,Premium,Premium,0
+CUST_258,Australia,INN00586,Resort Hotel,Bhopal,1-Sep-24,65,5-Nov-24,1,0,1,1,2,3,Breakfast,0,1,168,Corporate,Deluxe,Premium,0
+CUST_553,USA,INN00587,Resort Hotel,Bhopal,20-Dec-23,82,11-Mar-24,2,0,2,2,2,4,Breakfast & Dinner,1,1,152,Online Self / TA,Standard,Standard,3
+CUST_439,Canada,INN00588,Resort Hotel,Lucknow,22-Sep-24,42,3-Nov-24,2,0,2,2,2,4,Breakfast,0,2,148,Direct,Standard,Deluxe,0
+CUST_186,France,INN00589,Resort Hotel,Mumbai,16-Oct-24,62,17-Dec-24,3,0,3,0,2,2,Breakfast,0,0,167,Company TA/TO,Deluxe,Deluxe,1
+CUST_137,UAE,INN00590,Resort Hotel,Chandigarh,17-Jul-24,86,11-Oct-24,2,0,2,0,1,1,Breakfast,0,3,173,Direct,Standard,Deluxe,1
+CUST_565,Germany,INN00591,Resort Hotel,Hyderabad,29-Apr-24,118,25-Aug-24,2,0,2,0,1,1,Not Selected,0,0,179,Online Self / TA,Premium,Premium,1
+CUST_092,India,INN00592,Resort Hotel,Kolkata,9-Nov-24,28,7-Dec-24,2,0,2,0,3,3,Breakfast,0,0,193,Company TA/TO,Premium,Premium,1
+CUST_593,USA,INN00593,Resort Hotel,Kochi,29-Feb-24,52,21-Apr-24,2,0,2,0,4,4,Breakfast,1,1,92,Direct,Standard,Standard,0
+CUST_173,USA,INN00594,Resort Hotel,Bangalore,16-Mar-24,49,4-May-24,2,0,2,2,5,7,Breakfast,0,0,111,Online Self / TA,Deluxe,Deluxe,0
+CUST_550,India,INN00595,Resort Hotel,Delhi,13-Jun-24,39,22-Jul-24,2,0,2,2,1,3,Breakfast,0,1,142,Company TA/TO,Deluxe,Premium,1
+CUST_329,Canada,INN00596,Resort Hotel,Bhopal,31-Dec-23,39,8-Feb-24,2,0,2,1,4,5,Breakfast,0,1,142,Direct,Deluxe,Deluxe,1
+CUST_100,India,INN00597,Resort Hotel,Indore,19-Jun-24,39,28-Jul-24,1,0,1,0,2,2,Breakfast,0,0,142,Direct,Deluxe,Deluxe,1
+CUST_034,UK,INN00598,Resort Hotel,Mumbai,23-Jul-24,7,30-Jul-24,2,0,2,0,3,3,Breakfast,0,0,200,Online Self / TA,Standard,Deluxe,0
+CUST_147,UAE,INN00599,Resort Hotel,Delhi,2-Oct-24,7,9-Oct-24,2,0,2,3,7,10,Breakfast,1,3,200,Online Self / TA,Standard,Standard,0
+CUST_265,Germany,INN00600,Resort Hotel,Delhi,23-Feb-24,42,5-Apr-24,2,0,2,1,2,3,Breakfast,0,0,157,Online Self / TA,Premium,Premium,0
+CUST_540,India,INN00601,Resort Hotel,Hyderabad,13-May-24,5,18-May-24,3,0,3,0,2,2,Not Selected,1,3,100,Online Self / TA,Standard,Deluxe,0
+CUST_381,India,INN00602,Resort Hotel,Indore,1-Jul-24,81,20-Sep-24,2,0,2,2,3,5,Breakfast,0,0,115,Company TA/TO,Standard,Standard,2
+CUST_463,USA,INN00603,Resort Hotel,Delhi,7-Jun-24,63,9-Aug-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,195,Online Self / TA,Premium,Premium,0
+CUST_496,France,INN00604,Resort Hotel,Ahmedabad,26-Dec-23,61,25-Feb-24,2,0,2,2,3,5,Breakfast,0,0,104,Direct,Standard,Standard,0
+CUST_239,Canada,INN00605,Resort Hotel,Ahmedabad,7-Dec-24,8,15-Dec-24,2,0,2,0,1,1,Breakfast,0,0,207,Online Self / TA,Premium,Premium,0
+CUST_156,France,INN00606,Resort Hotel,Chennai,10-Jul-24,89,7-Oct-24,2,0,2,0,2,2,Breakfast,0,0,163,Online Self / TA,Standard,Deluxe,1
+CUST_311,India,INN00607,Resort Hotel,Delhi,16-Mar-24,57,12-May-24,2,2,4,1,3,4,Breakfast,1,2,152,Online Self / TA,Premium,Premium,0
+CUST_073,USA,INN00608,Resort Hotel,Delhi,25-Feb-24,102,6-Jun-24,2,0,2,0,3,3,Breakfast,0,0,96,Online Self / TA,Standard,Deluxe,1
+CUST_045,Germany,INN00609,Resort Hotel,Chandigarh,29-Sep-23,108,15-Jan-24,2,0,2,0,4,4,Breakfast,1,1,112,Corporate,Standard,Standard,1
+CUST_383,USA,INN00610,Resort Hotel,Bangalore,25-Sep-24,28,23-Oct-24,2,0,2,1,3,4,Breakfast,0,1,160,Company TA/TO,Premium,Premium,1
+CUST_562,India,INN00611,Resort Hotel,Kolkata,26-Apr-24,29,25-May-24,2,0,2,2,5,7,Breakfast,0,0,103,Company TA/TO,Standard,Deluxe,1
+CUST_396,France,INN00612,Resort Hotel,Bhopal,4-Nov-24,0,4-Nov-24,2,0,2,0,1,1,Breakfast,0,0,153,Online Self / TA,Premium,Premium,0
+CUST_329,Canada,INN00613,City Hotel,Lucknow,20-Feb-24,96,26-May-24,2,0,2,2,1,3,Breakfast,0,1,120,Online Self / TA,Standard,Deluxe,1
+CUST_058,Australia,INN00614,City Hotel,Hyderabad,25-Jan-24,44,9-Mar-24,2,0,2,1,2,3,Breakfast,0,1,135,Online Self / TA,Deluxe,Deluxe,1
+CUST_156,France,INN00615,City Hotel,Mumbai,3-Oct-24,44,16-Nov-24,2,1,3,2,4,6,Breakfast,0,0,168,Online Self / TA,Deluxe,Deluxe,1
+CUST_532,India,INN00616,City Hotel,Kolkata,10-Nov-24,44,24-Dec-24,1,0,1,2,1,3,Breakfast,0,0,195,Corporate,Premium,Premium,1
+CUST_568,Australia,INN00617,Resort Hotel,Kolkata,14-May-24,44,27-Jun-24,2,0,2,1,1,2,Breakfast,1,2,135,Online Self / TA,Deluxe,Deluxe,1
+CUST_020,India,INN00618,Resort Hotel,Hyderabad,7-Mar-24,41,17-Apr-24,2,0,2,2,1,3,Not Selected,0,0,178,Online Self / TA,Deluxe,Premium,0
+CUST_248,Australia,INN00619,Resort Hotel,Chandigarh,3-Feb-24,16,19-Feb-24,2,0,2,1,0,1,Breakfast & Dinner,0,0,135,Online Self / TA,Deluxe,Deluxe,0
+CUST_187,UAE,INN00620,City Hotel,Jaipur,4-Nov-23,73,16-Jan-24,2,2,4,2,1,3,Breakfast,1,1,0,Online Self / TA,Deluxe,Deluxe,1
+CUST_399,Canada,INN00621,Resort Hotel,Bangalore,16-Sep-24,3,19-Sep-24,2,0,2,0,1,1,Breakfast & Dinner,0,1,154,Company TA/TO,Deluxe,Deluxe,1
+CUST_365,Germany,INN00622,Resort Hotel,Bhopal,16-Oct-24,0,16-Oct-24,1,0,1,1,2,3,Breakfast,0,0,134,Online Self / TA,Deluxe,Premium,0
+CUST_582,India,INN00623,Resort Hotel,Hyderabad,13-Nov-23,55,7-Jan-24,2,2,4,0,2,2,Breakfast,1,2,112,Online Self / TA,Standard,Standard,0
+CUST_253,USA,INN00624,City Hotel,Lucknow,6-Jul-24,33,8-Aug-24,2,0,2,1,1,2,Breakfast,0,1,194,Direct,Premium,Premium,1
+CUST_056,France,INN00625,Resort Hotel,Delhi,30-Dec-23,19,18-Jan-24,2,1,3,0,2,2,Breakfast,1,2,153,Online Self / TA,Standard,Standard,0
+CUST_417,UAE,INN00626,Resort Hotel,Goa,15-Dec-23,55,8-Feb-24,2,0,2,0,4,4,Breakfast,0,0,135,Online Self / TA,Deluxe,Deluxe,0
+CUST_364,UK,INN00627,Resort Hotel,Delhi,17-Jan-24,33,19-Feb-24,2,2,4,0,2,2,Breakfast,0,1,184,Online Self / TA,Deluxe,Deluxe,1
+CUST_088,Australia,INN00628,Resort Hotel,Bangalore,27-Dec-23,19,15-Jan-24,2,1,3,2,2,4,Breakfast,0,1,210,Online Self / TA,Premium,Premium,0
+CUST_462,India,INN00629,Resort Hotel,Ahmedabad,11-Apr-24,19,30-Apr-24,2,0,2,0,3,3,Not Selected,0,0,139,Direct,Premium,Premium,0
+CUST_059,Canada,INN00630,City Hotel,Chennai,17-Nov-23,117,13-Mar-24,2,2,4,1,2,3,Breakfast,1,1,101,Online Self / TA,Deluxe,Premium,0
+CUST_358,Australia,INN00631,City Hotel,Kolkata,4-Feb-24,72,16-Apr-24,2,0,2,0,3,3,Breakfast,1,2,145,Online Self / TA,Premium,Premium,0
+CUST_131,India,INN00632,City Hotel,Indore,22-Oct-24,19,10-Nov-24,2,0,2,0,2,2,Breakfast,1,2,173,Online Self / TA,Deluxe,Deluxe,0
+CUST_472,India,INN00633,Resort Hotel,Lucknow,1-Apr-24,34,5-May-24,2,0,2,0,1,1,Not Selected,0,0,217,Direct,Deluxe,Premium,1
+CUST_454,UK,INN00634,Resort Hotel,Kolkata,24-Apr-24,9,3-May-24,1,0,1,0,2,2,Breakfast,0,0,164,Company TA/TO,Premium,Premium,2
+CUST_541,India,INN00635,Resort Hotel,Pune,8-Sep-24,8,16-Sep-24,2,0,2,0,3,3,Breakfast,0,2,173,Company TA/TO,Deluxe,Premium,2
+CUST_427,UAE,INN00636,Resort Hotel,Chennai,17-May-24,36,22-Jun-24,2,0,2,0,2,2,Breakfast,1,1,113,Online Self / TA,Standard,Deluxe,0
+CUST_172,India,INN00637,Resort Hotel,Jaipur,20-Jan-24,22,11-Feb-24,2,0,2,0,2,2,Breakfast,0,0,153,Groups,Standard,Deluxe,2
+CUST_083,USA,INN00638,City Hotel,Kolkata,26-Aug-24,22,17-Sep-24,2,0,2,1,3,4,Breakfast,0,1,173,Online Self / TA,Deluxe,Deluxe,2
+CUST_339,Canada,INN00639,City Hotel,Mumbai,21-Dec-23,22,12-Jan-24,1,0,1,0,4,4,Breakfast,0,1,153,Groups,Standard,Deluxe,2
+CUST_204,UK,INN00640,City Hotel,Kochi,3-Nov-24,36,9-Dec-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,134,Company TA/TO,Standard,Deluxe,0
+CUST_223,USA,INN00641,Resort Hotel,Indore,30-Sep-24,22,22-Oct-24,2,0,2,2,1,3,Breakfast,0,0,153,Company TA/TO,Standard,Standard,2
+CUST_197,UAE,INN00642,Resort Hotel,Chandigarh,1-Feb-24,22,23-Feb-24,3,0,3,2,2,4,Breakfast,1,1,233,Company TA/TO,Premium,Premium,2
+CUST_136,France,INN00643,Resort Hotel,Delhi,19-Jul-24,18,6-Aug-24,2,0,2,2,1,3,Breakfast,1,1,154,Online Self / TA,Deluxe,Deluxe,0
+CUST_378,Australia,INN00644,Resort Hotel,Bhopal,5-Dec-24,8,13-Dec-24,2,0,2,2,4,6,Breakfast,1,4,173,Company TA/TO,Deluxe,Deluxe,2
+CUST_439,Canada,INN00645,Resort Hotel,Jaipur,4-Feb-24,67,11-Apr-24,2,0,2,2,2,4,Not Selected,1,2,135,Online Self / TA,Deluxe,Deluxe,1
+CUST_217,UAE,INN00646,Resort Hotel,Bhopal,1-Jun-24,105,14-Sep-24,2,0,2,1,1,2,Breakfast,1,2,133,Online Self / TA,Premium,Premium,0
+CUST_446,France,INN00647,Resort Hotel,Bangalore,7-Dec-24,1,8-Dec-24,2,0,2,1,4,5,Breakfast,0,0,223,Online Self / TA,Premium,Premium,0
+CUST_549,Canada,INN00648,City Hotel,Pune,11-Nov-23,67,17-Jan-24,2,0,2,0,3,3,Breakfast,0,0,135,Online Self / TA,Deluxe,Deluxe,1
+CUST_552,India,INN00649,City Hotel,Hyderabad,25-Mar-24,39,3-May-24,2,0,2,0,3,3,Breakfast,0,0,107,Company TA/TO,Standard,Standard,0
+CUST_127,UAE,INN00650,City Hotel,Mumbai,29-Sep-24,45,13-Nov-24,2,0,2,2,3,5,Breakfast,0,0,127,Online Self / TA,Standard,Standard,0
+CUST_058,Australia,INN00651,Resort Hotel,Bangalore,9-Dec-23,45,23-Jan-24,2,0,2,0,1,1,Not Selected,1,1,135,Direct,Deluxe,Deluxe,0
+CUST_125,Germany,INN00652,Resort Hotel,Ahmedabad,22-Feb-24,14,7-Mar-24,2,0,2,1,2,3,Breakfast,0,0,150,Online Self / TA,Standard,Standard,1
+CUST_143,USA,INN00653,Resort Hotel,Chandigarh,12-Apr-24,53,4-Jun-24,2,0,2,0,1,1,Not Selected,0,0,161,Online Self / TA,Standard,Standard,0
+CUST_283,USA,INN00654,Resort Hotel,Goa,6-Dec-23,28,3-Jan-24,3,0,3,1,2,3,Breakfast,0,0,107,Direct,Standard,Standard,0
+CUST_001,India,INN00655,Resort Hotel,Jaipur,8-Jul-24,55,1-Sep-24,2,0,2,1,2,3,Breakfast,1,1,75,Online Self / TA,Standard,Standard,1
+CUST_243,USA,INN00656,City Hotel,Jaipur,6-Jun-24,55,31-Jul-24,2,0,2,0,2,2,Breakfast & Dinner,1,3,75,Online Self / TA,Standard,Standard,1
+CUST_501,India,INN00657,City Hotel,Goa,10-Oct-24,25,4-Nov-24,2,2,4,2,1,3,Breakfast,1,2,115,Online Self / TA,Standard,Standard,0
+CUST_092,India,INN00658,City Hotel,Ahmedabad,6-Nov-24,43,19-Dec-24,2,2,4,0,2,2,Breakfast,0,0,159,Online Self / TA,Standard,Deluxe,1
+CUST_534,UK,INN00659,City Hotel,Kochi,10-Apr-24,109,28-Jul-24,2,0,2,1,2,3,Breakfast,0,2,163,Online Self / TA,Standard,Standard,2
+CUST_560,India,INN00660,City Hotel,Goa,1-Jan-24,62,3-Mar-24,2,0,2,1,2,3,Breakfast,1,1,210,Direct,Premium,Premium,0
+CUST_452,India,INN00661,City Hotel,Delhi,27-Jul-24,25,21-Aug-24,2,0,2,1,0,1,Breakfast,0,1,154,Direct,Deluxe,Deluxe,2
+CUST_138,Australia,INN00662,Resort Hotel,Mumbai,17-Dec-23,43,29-Jan-24,2,0,2,0,1,1,Breakfast,0,0,166,Online Self / TA,Standard,Deluxe,0
+CUST_130,India,INN00663,Resort Hotel,Bangalore,22-Jun-24,35,27-Jul-24,1,0,1,0,1,1,Breakfast,0,1,133,Direct,Premium,Premium,0
+CUST_559,Canada,INN00664,Resort Hotel,Kolkata,10-Jun-24,42,22-Jul-24,2,0,2,0,3,3,Breakfast,1,2,107,Online Self / TA,Standard,Standard,0
+CUST_229,Canada,INN00665,Resort Hotel,Delhi,27-Nov-23,312,4-Oct-24,2,0,2,1,1,2,Breakfast,0,0,122,Online Self / TA,Standard,Standard,1
+CUST_323,USA,INN00666,Resort Hotel,Mumbai,22-Jul-24,30,21-Aug-24,2,0,2,2,0,2,Breakfast & Dinner,0,0,135,Company TA/TO,Deluxe,Deluxe,0
+CUST_227,UAE,INN00667,Resort Hotel,Kochi,10-Oct-24,47,26-Nov-24,2,0,2,0,1,1,Breakfast & Dinner,0,1,133,Online Self / TA,Standard,Deluxe,0
+CUST_155,Germany,INN00668,Resort Hotel,Kolkata,30-May-24,40,9-Jul-24,2,1,3,2,1,3,Not Selected,1,3,107,Company TA/TO,Standard,Deluxe,0
+CUST_556,France,INN00669,City Hotel,Bangalore,21-Feb-24,11,3-Mar-24,1,0,1,0,3,3,Breakfast,0,0,118,Company TA/TO,Standard,Standard,0
+CUST_216,France,INN00670,City Hotel,Chennai,2-May-24,39,10-Jun-24,2,0,2,2,3,5,Breakfast,0,0,107,Online Self / TA,Standard,Standard,0
+CUST_526,France,INN00671,City Hotel,Bangalore,14-Jun-24,39,23-Jul-24,2,0,2,0,2,2,Breakfast & Dinner,1,2,121,Online Self / TA,Standard,Standard,0
+CUST_108,Australia,INN00672,Resort Hotel,Delhi,4-Mar-24,1,5-Mar-24,2,0,2,1,1,2,Not Selected,0,0,147,Direct,Deluxe,Deluxe,0
+CUST_178,Australia,INN00673,Resort Hotel,Delhi,22-Dec-23,12,3-Jan-24,2,0,2,0,3,3,Breakfast,0,1,153,Company TA/TO,Standard,Standard,2
+CUST_349,Canada,INN00674,Resort Hotel,Delhi,29-May-24,16,14-Jun-24,2,0,2,1,0,1,Breakfast & Dinner,1,2,153,Online Self / TA,Standard,Standard,1
+CUST_444,UK,INN00675,Resort Hotel,Mumbai,25-Jun-24,16,11-Jul-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,134,Company TA/TO,Standard,Deluxe,0
+CUST_199,Canada,INN00676,Resort Hotel,Lucknow,13-Nov-24,12,25-Nov-24,2,0,2,2,0,2,Not Selected,0,0,153,Direct,Standard,Deluxe,1
+CUST_035,Germany,INN00677,Resort Hotel,Lucknow,1-Oct-24,51,21-Nov-24,2,0,2,0,1,1,Breakfast,0,0,118,Direct,Standard,Standard,0
+CUST_369,Canada,INN00678,City Hotel,Bangalore,26-Aug-24,67,1-Nov-24,2,0,2,2,0,2,Not Selected,0,2,134,Company TA/TO,Standard,Standard,1
+CUST_384,UK,INN00679,City Hotel,Delhi,27-Sep-24,52,18-Nov-24,1,0,1,2,5,7,Not Selected,0,0,135,Direct,Standard,Standard,2
+CUST_415,Germany,INN00680,City Hotel,Delhi,8-Jul-24,25,2-Aug-24,2,0,2,2,2,4,Breakfast,0,0,159,Online Self / TA,Deluxe,Deluxe,2
+CUST_561,India,INN00681,City Hotel,Indore,18-Jul-24,94,20-Oct-24,2,0,2,2,0,2,Not Selected,0,1,134,Online Self / TA,Standard,Deluxe,1
+CUST_227,UAE,INN00682,City Hotel,Jaipur,28-Sep-24,54,21-Nov-24,2,0,2,2,3,5,Breakfast,1,1,134,Online Self / TA,Standard,Standard,0
+CUST_347,UAE,INN00683,City Hotel,Hyderabad,1-Feb-24,33,5-Mar-24,2,0,2,0,3,3,Breakfast,0,0,142,Online Self / TA,Deluxe,Deluxe,1
+CUST_360,India,INN00684,Resort Hotel,Hyderabad,22-Sep-24,47,8-Nov-24,2,0,2,1,2,3,Breakfast & Dinner,0,1,240,Online Self / TA,Premium,Premium,0
+CUST_378,Australia,INN00685,Resort Hotel,Hyderabad,6-Nov-24,43,19-Dec-24,2,0,2,0,1,1,Not Selected,0,4,134,Online Self / TA,Standard,Deluxe,0
+CUST_286,France,INN00686,Resort Hotel,Mumbai,19-Jan-24,87,15-Apr-24,2,0,2,1,3,4,Breakfast,0,3,134,Online Self / TA,Standard,Standard,3
+CUST_299,Canada,INN00687,Resort Hotel,Kolkata,16-May-24,54,9-Jul-24,1,0,1,1,2,3,Breakfast,0,1,147,Online Self / TA,Standard,Standard,0
+CUST_336,France,INN00688,Resort Hotel,Bhopal,26-Apr-24,32,28-May-24,2,0,2,2,5,7,Not Selected,1,1,176,Online Self / TA,Premium,Premium,0
+CUST_398,Australia,INN00689,Resort Hotel,Kochi,9-Jul-24,29,7-Aug-24,1,0,1,0,3,3,Not Selected,0,0,121,Groups,Standard,Deluxe,1
+CUST_258,Australia,INN00690,City Hotel,Kolkata,6-Aug-24,96,10-Nov-24,2,0,2,0,2,2,Breakfast,1,1,166,Company TA/TO,Standard,Standard,1
+CUST_417,UAE,INN00691,City Hotel,Mumbai,30-Mar-24,100,8-Jul-24,2,0,2,0,2,2,Breakfast,0,0,134,Online Self / TA,Standard,Standard,0
+CUST_255,Germany,INN00692,City Hotel,Mumbai,24-Aug-24,54,17-Oct-24,2,0,2,0,4,4,Breakfast,1,1,147,Company TA/TO,Standard,Standard,0
+CUST_165,Germany,INN00693,City Hotel,Bhopal,6-Apr-24,75,20-Jun-24,2,0,2,2,4,6,Breakfast,0,0,167,Online Self / TA,Deluxe,Deluxe,1
+CUST_118,Australia,INN00694,City Hotel,Lucknow,25-Mar-24,31,25-Apr-24,2,0,2,1,2,3,Breakfast,0,0,107,Online Self / TA,Standard,Standard,0
+CUST_248,Australia,INN00695,City Hotel,Lucknow,17-Jan-24,25,11-Feb-24,2,0,2,2,1,3,Breakfast,0,0,132,Company TA/TO,Standard,Standard,0
+CUST_493,USA,INN00696,Resort Hotel,Chandigarh,16-Apr-24,61,16-Jun-24,2,0,2,0,2,2,Breakfast & Dinner,1,1,233,Online Self / TA,Premium,Premium,0
+CUST_243,USA,INN00697,Resort Hotel,Pune,4-Jul-24,60,2-Sep-24,2,0,2,2,4,6,Not Selected,0,3,90,Online Self / TA,Standard,Standard,1
+CUST_273,USA,INN00698,Resort Hotel,Ahmedabad,19-Sep-24,31,20-Oct-24,2,2,4,2,2,4,Breakfast,0,1,121,Direct,Standard,Standard,1
+CUST_373,USA,INN00699,Resort Hotel,Jaipur,3-Jul-24,107,18-Oct-24,2,0,2,0,3,3,Not Selected,0,1,125,Online Self / TA,Standard,Standard,2
+CUST_078,Australia,INN00700,Resort Hotel,Lucknow,24-Aug-24,31,24-Sep-24,2,0,2,0,1,1,Breakfast,0,0,154,Company TA/TO,Deluxe,Premium,1
+CUST_126,France,INN00701,City Hotel,Ahmedabad,12-Jun-24,115,5-Oct-24,3,1,4,1,2,3,Breakfast,0,0,121,Direct,Standard,Standard,2
+CUST_099,Canada,INN00702,City Hotel,Kolkata,10-Jun-24,59,8-Aug-24,2,0,2,0,1,1,Not Selected,0,1,114,Online Self / TA,Deluxe,Deluxe,1
+CUST_329,Canada,INN00703,Resort Hotel,Pune,2-Jul-24,85,25-Sep-24,2,2,4,0,1,1,Breakfast,0,1,107,Direct,Standard,Standard,0
+CUST_048,Australia,INN00704,Resort Hotel,Kochi,12-Jun-24,0,12-Jun-24,2,0,2,2,2,4,Breakfast,0,1,89,Online Self / TA,Standard,Deluxe,0
+CUST_334,UK,INN00705,Resort Hotel,Kolkata,19-Feb-24,299,14-Dec-24,2,1,3,0,3,3,Not Selected,0,0,149,Online Self / TA,Standard,Standard,1
+CUST_368,Australia,INN00706,Resort Hotel,Ahmedabad,9-Jun-24,50,29-Jul-24,2,0,2,2,0,2,Not Selected,1,1,195,Online Self / TA,Premium,Premium,0
+CUST_094,UK,INN00707,Resort Hotel,Kolkata,14-Mar-24,50,3-May-24,2,1,3,2,3,5,Breakfast & Dinner,0,0,164,Online Self / TA,Premium,Premium,0
+CUST_087,UAE,INN00708,Resort Hotel,Kochi,2-Nov-23,88,29-Jan-24,2,0,2,0,3,3,Not Selected,1,1,154,Online Self / TA,Deluxe,Premium,1
+CUST_294,UK,INN00709,Resort Hotel,Pune,24-Sep-23,116,18-Jan-24,2,0,2,0,2,2,Breakfast,0,0,121,Online Self / TA,Standard,Standard,1
+CUST_497,UAE,INN00710,Resort Hotel,Chandigarh,27-Jun-24,47,13-Aug-24,2,0,2,2,1,3,Breakfast,1,3,104,Corporate,Standard,Standard,0
+CUST_295,Germany,INN00711,City Hotel,Chennai,27-Feb-24,48,15-Apr-24,2,0,2,0,4,4,Breakfast,0,1,115,Online Self / TA,Standard,Deluxe,3
+CUST_085,Germany,INN00712,City Hotel,Hyderabad,4-Feb-24,54,29-Mar-24,2,0,2,1,3,4,Breakfast,1,2,95,Online Self / TA,Standard,Standard,2
+CUST_421,India,INN00713,City Hotel,Pune,3-Jun-24,33,6-Jul-24,2,0,2,0,1,1,Breakfast,0,1,133,Online Self / TA,Premium,Premium,0
+CUST_289,Canada,INN00714,Resort Hotel,Hyderabad,20-Nov-23,73,1-Feb-24,2,0,2,0,2,2,Breakfast,0,2,209,Online Self / TA,Premium,Premium,1
+CUST_251,India,INN00715,Resort Hotel,Bhopal,26-Jun-24,54,19-Aug-24,2,0,2,0,3,3,Breakfast,1,1,95,Online Self / TA,Standard,Standard,2
+CUST_091,India,INN00716,Resort Hotel,Chennai,11-Sep-24,33,14-Oct-24,2,0,2,1,0,1,Breakfast,0,1,133,Direct,Premium,Premium,0
+CUST_368,Australia,INN00717,Resort Hotel,Bhopal,31-Dec-23,38,7-Feb-24,2,1,3,2,0,2,Not Selected,0,1,180,Online Self / TA,Deluxe,Deluxe,0
+CUST_371,India,INN00718,Resort Hotel,Jaipur,5-Jun-24,34,9-Jul-24,2,2,4,2,5,7,Breakfast,0,1,103,Company TA/TO,Standard,Standard,0
+CUST_052,India,INN00719,Resort Hotel,Jaipur,18-Jan-24,130,27-May-24,2,0,2,0,3,3,Breakfast,0,1,174,Online Self / TA,Premium,Premium,1
+CUST_426,France,INN00720,City Hotel,Bangalore,20-Sep-24,39,29-Oct-24,2,0,2,0,1,1,Breakfast,0,1,133,Company TA/TO,Standard,Standard,1
+CUST_497,UAE,INN00721,City Hotel,Bangalore,14-Aug-24,39,22-Sep-24,2,0,2,2,0,2,Breakfast,1,3,133,Online Self / TA,Standard,Standard,1
+CUST_226,France,INN00722,City Hotel,Kolkata,1-Jun-24,45,16-Jul-24,2,0,2,2,3,5,Breakfast,1,1,107,Company TA/TO,Standard,Standard,0
+CUST_105,Germany,INN00723,City Hotel,Bhopal,5-Mar-24,31,5-Apr-24,2,0,2,2,2,4,Not Selected,0,0,135,Online Self / TA,Standard,Standard,0
+CUST_234,UK,INN00724,City Hotel,Indore,6-Sep-24,48,24-Oct-24,2,0,2,0,2,2,Breakfast & Dinner,0,1,210,Company TA/TO,Premium,Premium,1
+CUST_195,Germany,INN00725,Resort Hotel,Chennai,28-Aug-24,59,26-Oct-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,145,Company TA/TO,Premium,Premium,0
+CUST_378,Australia,INN00726,Resort Hotel,Bhopal,6-Dec-23,48,23-Jan-24,2,0,2,1,3,4,Breakfast,1,4,195,Online Self / TA,Premium,Premium,1
+CUST_452,India,INN00727,Resort Hotel,Delhi,7-Jun-24,48,25-Jul-24,2,0,2,2,1,3,Breakfast,0,1,124,Online Self / TA,Standard,Deluxe,1
+CUST_244,UK,INN00728,Resort Hotel,Jaipur,8-Jan-24,48,25-Feb-24,2,0,2,0,3,3,Breakfast,0,0,167,Online Self / TA,Deluxe,Deluxe,1
+CUST_585,Germany,INN00729,Resort Hotel,Mumbai,22-Aug-24,48,9-Oct-24,2,0,2,1,0,1,Breakfast,1,1,145,Company TA/TO,Premium,Premium,0
+CUST_525,Germany,INN00730,Resort Hotel,Delhi,9-Jun-24,96,13-Sep-24,2,0,2,0,3,3,Breakfast,0,0,166,Online Self / TA,Standard,Standard,2
+CUST_266,France,INN00731,Resort Hotel,Kochi,2-Dec-23,51,22-Jan-24,2,2,4,0,4,4,Breakfast & Dinner,0,0,115,Online Self / TA,Standard,Deluxe,0
+CUST_318,Australia,INN00732,City Hotel,Delhi,17-Nov-23,96,21-Feb-24,1,0,1,1,1,2,Breakfast,0,0,166,Direct,Standard,Deluxe,2
+CUST_395,Germany,INN00733,City Hotel,Kolkata,5-Jul-24,41,15-Aug-24,2,0,2,4,10,14,Breakfast,1,1,121,Online Self / TA,Standard,Deluxe,0
+CUST_005,Germany,INN00734,City Hotel,Lucknow,15-Feb-24,6,21-Feb-24,1,0,1,2,2,4,Breakfast,0,0,162,Direct,Premium,Premium,2
+CUST_252,India,INN00735,City Hotel,Pune,26-Mar-24,27,22-Apr-24,2,0,2,0,3,3,Breakfast & Dinner,1,1,153,Direct,Standard,Standard,0
+CUST_403,USA,INN00736,City Hotel,Mumbai,30-Jul-24,28,27-Aug-24,2,0,2,0,3,3,Breakfast,0,0,133,Online Self / TA,Standard,Standard,0
+CUST_303,USA,INN00737,Resort Hotel,Kochi,16-Oct-24,30,15-Nov-24,2,2,4,2,3,5,Breakfast,0,0,134,Direct,Standard,Deluxe,1
+CUST_373,USA,INN00738,Resort Hotel,Goa,13-Dec-23,45,27-Jan-24,2,0,2,2,5,7,Not Selected,0,1,107,Online Self / TA,Standard,Deluxe,2
+CUST_365,Germany,INN00739,Resort Hotel,Pune,13-Dec-23,52,3-Feb-24,2,0,2,1,2,3,Not Selected,0,0,145,Online Self / TA,Deluxe,Deluxe,2
+CUST_474,UK,INN00740,Resort Hotel,Jaipur,3-Nov-24,31,4-Dec-24,2,0,2,1,2,3,Breakfast,0,0,145,Direct,Standard,Deluxe,0
+CUST_333,USA,INN00741,Resort Hotel,Delhi,2-Nov-23,74,15-Jan-24,2,0,2,0,3,3,Breakfast,1,1,107,Online Self / TA,Standard,Standard,1
+CUST_164,UK,INN00742,Resort Hotel,Ahmedabad,4-Aug-24,31,4-Sep-24,2,2,4,0,1,1,Not Selected,0,1,167,Online Self / TA,Premium,Premium,0
+CUST_281,India,INN00743,Resort Hotel,Pune,10-Mar-24,87,5-Jun-24,2,1,3,2,4,6,Breakfast,0,0,134,Online Self / TA,Standard,Standard,2
+CUST_188,Australia,INN00744,City Hotel,Delhi,15-Dec-23,48,1-Feb-24,2,0,2,0,3,3,Breakfast,0,1,130,Online Self / TA,Standard,Standard,0
+CUST_272,India,INN00745,City Hotel,Delhi,14-Mar-24,41,24-Apr-24,2,0,2,2,1,3,Breakfast & Dinner,0,0,164,Online Self / TA,Premium,Premium,0
+CUST_475,Germany,INN00746,City Hotel,Lucknow,26-Oct-24,35,30-Nov-24,3,0,3,1,2,3,Breakfast,1,1,149,Company TA/TO,Deluxe,Deluxe,0
+CUST_346,France,INN00747,City Hotel,Chandigarh,25-May-24,28,22-Jun-24,2,0,2,0,4,4,Breakfast & Dinner,1,2,154,Direct,Deluxe,Deluxe,0
+CUST_113,USA,INN00748,Resort Hotel,Chandigarh,14-Aug-24,77,30-Oct-24,2,0,2,0,1,1,Breakfast,0,0,195,Direct,Premium,Premium,1
+CUST_365,Germany,INN00749,Resort Hotel,Bangalore,11-Apr-24,33,14-May-24,2,0,2,1,1,2,Breakfast,0,0,134,Online Self / TA,Standard,Deluxe,0
+CUST_031,India,INN00750,Resort Hotel,Goa,28-Sep-24,30,28-Oct-24,1,0,1,2,3,5,Breakfast & Dinner,0,1,107,Online Self / TA,Standard,Standard,0
+CUST_175,Germany,INN00751,Resort Hotel,Goa,18-Jul-24,34,21-Aug-24,1,0,1,0,2,2,Breakfast,0,1,164,Direct,Standard,Standard,0
+CUST_452,India,INN00752,Resort Hotel,Mumbai,30-Jan-24,298,23-Nov-24,2,1,3,1,1,2,Breakfast & Dinner,0,1,183,Direct,Standard,Deluxe,1
+CUST_378,Australia,INN00753,Resort Hotel,Ahmedabad,18-Jan-24,35,22-Feb-24,2,2,4,0,3,3,Breakfast,1,4,160,Online Self / TA,Standard,Deluxe,1
+CUST_467,UAE,INN00754,Resort Hotel,Hyderabad,28-Sep-24,40,7-Nov-24,2,0,2,2,1,3,Breakfast,0,0,121,Company TA/TO,Standard,Deluxe,0
+CUST_436,France,INN00755,Resort Hotel,Bhopal,12-Nov-23,101,21-Feb-24,2,0,2,0,3,3,Not Selected,0,1,164,Online Self / TA,Premium,Premium,2
+CUST_058,Australia,INN00756,Resort Hotel,Kochi,28-Mar-24,101,7-Jul-24,3,0,3,0,2,2,Breakfast,0,1,219,Direct,Premium,Premium,2
+CUST_456,France,INN00757,City Hotel,Kochi,26-Feb-24,101,6-Jun-24,2,0,2,0,4,4,Breakfast & Dinner,1,1,134,Online Self / TA,Standard,Standard,2
+CUST_569,Canada,INN00758,City Hotel,Delhi,13-Dec-23,101,23-Mar-24,2,0,2,1,1,2,Breakfast,1,1,164,Company TA/TO,Premium,Premium,2
+CUST_218,Australia,INN00759,City Hotel,Chennai,31-May-24,38,8-Jul-24,2,0,2,0,3,3,Breakfast,0,0,107,Online Self / TA,Standard,Standard,0
+CUST_147,UAE,INN00760,City Hotel,Chandigarh,9-Sep-24,76,24-Nov-24,2,1,3,0,3,3,Breakfast,1,3,103,Direct,Deluxe,Premium,1
+CUST_255,Germany,INN00761,City Hotel,Kochi,2-Apr-24,70,11-Jun-24,2,1,3,0,3,3,Breakfast,0,1,115,Direct,Deluxe,Deluxe,1
+CUST_588,Australia,INN00762,Resort Hotel,Delhi,7-Dec-23,70,15-Feb-24,2,1,3,2,2,4,Not Selected,1,1,115,Company TA/TO,Deluxe,Deluxe,1
+CUST_378,Australia,INN00763,Resort Hotel,Delhi,13-Oct-24,68,20-Dec-24,2,1,3,2,3,5,Breakfast,0,4,135,Online Self / TA,Deluxe,Deluxe,1
+CUST_308,Australia,INN00764,Resort Hotel,Pune,6-Oct-24,63,8-Dec-24,2,1,3,2,1,3,Breakfast,1,3,195,Direct,Premium,Premium,0
+CUST_012,India,INN00765,Resort Hotel,Kolkata,26-May-24,11,6-Jun-24,2,2,4,0,2,2,Breakfast & Dinner,0,0,173,Online Self / TA,Deluxe,Premium,0
+CUST_308,Australia,INN00766,Resort Hotel,Mumbai,5-Mar-24,32,6-Apr-24,1,0,1,1,1,2,Breakfast,1,3,107,Online Self / TA,Standard,Standard,1
+CUST_567,UAE,INN00767,City Hotel,Lucknow,25-Jul-24,29,23-Aug-24,2,2,4,0,4,4,Breakfast,1,1,107,Online Self / TA,Standard,Standard,1
+CUST_370,India,INN00768,City Hotel,Delhi,22-Feb-24,47,9-Apr-24,2,0,2,1,2,3,Breakfast,0,0,164,Corporate,Premium,Premium,2
+CUST_309,Canada,INN00769,City Hotel,Kolkata,3-Apr-24,50,23-May-24,2,0,2,2,2,4,Breakfast,1,1,139,Online Self / TA,Deluxe,Premium,1
+CUST_455,Germany,INN00770,Resort Hotel,Kochi,31-Jul-24,29,29-Aug-24,2,0,2,0,2,2,Breakfast & Dinner,1,1,154,Online Self / TA,Deluxe,Deluxe,2
+CUST_493,USA,INN00771,Resort Hotel,Jaipur,3-Aug-24,36,8-Sep-24,2,0,2,0,2,2,Breakfast,0,1,135,Groups,Deluxe,Deluxe,0
+CUST_422,India,INN00772,Resort Hotel,Bhopal,5-Oct-24,49,23-Nov-24,2,0,2,0,4,4,Not Selected,1,1,103,Online Self / TA,Standard,Standard,1
+CUST_305,Germany,INN00773,Resort Hotel,Chandigarh,24-Dec-23,70,3-Mar-24,2,0,2,3,9,12,Breakfast,0,1,116,Online Self / TA,Deluxe,Deluxe,0
+CUST_324,UK,INN00774,Resort Hotel,Indore,29-Jul-24,110,16-Nov-24,2,0,2,0,1,1,Not Selected,1,2,91,Company TA/TO,Standard,Deluxe,1
+CUST_475,Germany,INN00775,Resort Hotel,Delhi,10-Jan-24,8,18-Jan-24,2,0,2,0,1,1,Not Selected,0,1,135,Online Self / TA,Deluxe,Deluxe,0
+CUST_171,India,INN00776,City Hotel,Bangalore,21-May-24,119,17-Sep-24,2,2,4,1,3,4,Breakfast,1,1,109,Direct,Standard,Standard,1
+CUST_534,UK,INN00777,City Hotel,Chennai,18-Feb-24,30,19-Mar-24,1,0,1,0,3,3,Breakfast,1,2,146,Direct,Standard,Deluxe,2
+CUST_567,UAE,INN00778,City Hotel,Bhopal,21-Mar-24,29,19-Apr-24,2,0,2,0,1,1,Breakfast,0,1,165,Online Self / TA,Deluxe,Deluxe,1
+CUST_073,USA,INN00779,City Hotel,Lucknow,20-Dec-23,71,29-Feb-24,2,0,2,0,3,3,Breakfast,0,0,134,Direct,Standard,Standard,0
+CUST_076,France,INN00780,City Hotel,Hyderabad,10-Nov-24,37,17-Dec-24,3,0,3,1,2,3,Breakfast,1,1,133,Online Self / TA,Standard,Standard,1
+CUST_239,Canada,INN00781,Resort Hotel,Kochi,13-May-24,40,22-Jun-24,2,0,2,0,2,2,Breakfast,0,0,240,Online Self / TA,Premium,Premium,0
+CUST_097,UAE,INN00782,Resort Hotel,Ahmedabad,20-May-24,37,26-Jun-24,2,0,2,0,2,2,Breakfast,0,0,157,Online Self / TA,Standard,Standard,1
+CUST_312,India,INN00783,Resort Hotel,Jaipur,29-Sep-24,0,29-Sep-24,2,0,2,0,3,3,Breakfast,0,0,188,Online Self / TA,Premium,Premium,0
+CUST_378,Australia,INN00784,Resort Hotel,Goa,28-Sep-24,37,4-Nov-24,1,0,1,1,1,2,Breakfast,1,4,133,Online Self / TA,Standard,Deluxe,1
+CUST_550,India,INN00785,Resort Hotel,Jaipur,18-Dec-23,37,24-Jan-24,2,0,2,0,1,1,Breakfast,1,1,145,Online Self / TA,Standard,Deluxe,1
+CUST_277,UAE,INN00786,Resort Hotel,Pune,9-Feb-24,97,16-May-24,2,0,2,0,2,2,Breakfast & Dinner,0,1,134,Company TA/TO,Standard,Standard,2
+CUST_153,USA,INN00787,City Hotel,Chandigarh,22-Apr-24,71,2-Jul-24,3,0,3,3,5,8,Breakfast,0,0,134,Online Self / TA,Standard,Standard,0
+CUST_481,India,INN00788,City Hotel,Chennai,19-Jan-24,118,16-May-24,2,0,2,0,4,4,Breakfast,0,0,186,Online Self / TA,Deluxe,Deluxe,2
+CUST_349,Canada,INN00789,City Hotel,Bhopal,8-Feb-24,102,20-May-24,2,0,2,1,2,3,Breakfast,1,2,91,Online Self / TA,Standard,Deluxe,1
+CUST_286,France,INN00790,City Hotel,Indore,25-Feb-24,54,19-Apr-24,2,0,2,1,0,1,Breakfast,0,3,142,Online Self / TA,Premium,Premium,0
+CUST_289,Canada,INN00791,City Hotel,Goa,1-Sep-24,58,29-Oct-24,2,0,2,0,2,2,Breakfast,1,2,99,Online Self / TA,Deluxe,Deluxe,0
+CUST_581,India,INN00792,City Hotel,Chandigarh,31-Jan-24,34,5-Mar-24,2,0,2,2,2,4,Breakfast,0,1,108,Online Self / TA,Standard,Standard,1
+CUST_221,India,INN00793,City Hotel,Chandigarh,9-Mar-24,105,22-Jun-24,2,0,2,0,2,2,Breakfast,0,0,91,Online Self / TA,Standard,Standard,0
+CUST_559,Canada,INN00794,Resort Hotel,Chandigarh,15-Nov-23,47,1-Jan-24,1,0,1,2,2,4,Breakfast,1,2,149,Direct,Standard,Standard,1
+CUST_461,India,INN00795,Resort Hotel,Kolkata,25-Apr-24,15,10-May-24,2,0,2,1,1,2,Breakfast & Dinner,0,1,173,Online Self / TA,Deluxe,Deluxe,3
+CUST_321,India,INN00796,Resort Hotel,Ahmedabad,4-Jan-24,37,10-Feb-24,2,0,2,2,1,3,Breakfast,0,0,107,Online Self / TA,Standard,Standard,0
+CUST_066,France,INN00797,Resort Hotel,Delhi,18-Dec-24,0,18-Dec-24,2,0,2,0,1,1,Breakfast,0,1,114,Online Self / TA,Standard,Standard,0
+CUST_395,Germany,INN00798,City Hotel,Kochi,12-Nov-24,8,20-Nov-24,2,0,2,0,3,3,Breakfast,0,1,153,Direct,Standard,Standard,1
+CUST_178,Australia,INN00799,City Hotel,Kochi,13-Jan-24,17,30-Jan-24,2,0,2,0,4,4,Breakfast,0,1,153,Online Self / TA,Standard,Standard,1
+CUST_411,India,INN00800,City Hotel,Chennai,25-Jul-24,3,28-Jul-24,2,1,3,1,2,3,Breakfast,0,0,250,Direct,Premium,Premium,2
+CUST_363,USA,INN00801,City Hotel,Jaipur,27-May-24,30,26-Jun-24,2,0,2,0,1,1,Breakfast,0,1,147,Company TA/TO,Standard,Deluxe,2
+CUST_215,Germany,INN00802,City Hotel,Bangalore,5-Dec-23,31,5-Jan-24,2,0,2,0,2,2,Breakfast,0,0,154,Direct,Deluxe,Deluxe,2
+CUST_306,France,INN00803,City Hotel,Lucknow,27-May-24,66,1-Aug-24,2,0,2,0,1,1,Not Selected,0,1,121,Online Self / TA,Standard,Deluxe,0
+CUST_391,India,INN00804,City Hotel,Hyderabad,1-Oct-24,52,22-Nov-24,2,0,2,0,2,2,Breakfast,1,1,281,Online Self / TA,Deluxe,Deluxe,0
+CUST_440,India,INN00805,Resort Hotel,Hyderabad,28-Jan-24,20,17-Feb-24,2,2,4,2,3,5,Breakfast,1,2,193,Online Self / TA,Standard,Standard,1
+CUST_474,UK,INN00806,Resort Hotel,Lucknow,23-Aug-24,30,22-Sep-24,2,2,4,1,0,1,Breakfast,0,0,147,Direct,Standard,Standard,2
+CUST_245,Germany,INN00807,Resort Hotel,Chandigarh,14-Feb-24,31,16-Mar-24,2,0,2,0,3,3,Not Selected,0,1,154,Online Self / TA,Deluxe,Deluxe,2
+CUST_183,USA,INN00808,Resort Hotel,Kochi,5-Sep-24,62,6-Nov-24,2,0,2,1,1,2,Breakfast,0,0,155,Online Self / TA,Premium,Premium,0
+CUST_220,India,INN00809,Resort Hotel,Pune,11-Mar-24,65,15-May-24,2,0,2,0,1,1,Breakfast,0,0,121,Online Self / TA,Standard,Deluxe,0
+CUST_137,UAE,INN00810,City Hotel,Delhi,5-Jul-24,64,7-Sep-24,2,0,2,1,1,2,Breakfast,1,3,138,Online Self / TA,Standard,Standard,0
+CUST_110,India,INN00811,City Hotel,Bhopal,18-Apr-24,77,4-Jul-24,2,0,2,1,3,4,Not Selected,0,0,160,Company TA/TO,Premium,Premium,3
+CUST_097,UAE,INN00812,City Hotel,Pune,10-Apr-24,75,24-Jun-24,2,0,2,2,0,2,Breakfast,0,0,126,Company TA/TO,Deluxe,Premium,1
+CUST_064,UK,INN00813,City Hotel,Pune,24-Sep-24,75,8-Dec-24,2,0,2,2,3,5,Breakfast,0,0,126,Company TA/TO,Deluxe,Deluxe,1
+CUST_532,India,INN00814,City Hotel,Bangalore,10-Sep-24,62,11-Nov-24,2,1,3,1,2,3,Breakfast,0,0,127,Online Self / TA,Deluxe,Deluxe,0
+CUST_180,India,INN00815,City Hotel,Jaipur,12-Apr-24,42,24-May-24,2,0,2,0,2,2,Breakfast,0,0,135,Corporate,Standard,Deluxe,0
+CUST_319,Canada,INN00816,City Hotel,Delhi,6-Nov-24,46,22-Dec-24,2,0,2,2,1,3,Breakfast,0,0,135,Online Self / TA,Premium,Premium,0
+CUST_508,Australia,INN00817,City Hotel,Mumbai,16-Sep-24,0,16-Sep-24,2,0,2,4,6,10,Breakfast,1,2,188,Company TA/TO,Premium,Premium,0
+CUST_383,USA,INN00818,Resort Hotel,Lucknow,13-Feb-24,25,9-Mar-24,2,0,2,0,3,3,Breakfast,1,1,153,Online Self / TA,Standard,Deluxe,2
+CUST_415,Germany,INN00819,Resort Hotel,Kochi,29-Apr-24,16,15-May-24,2,0,2,0,3,3,Not Selected,0,0,173,Online Self / TA,Deluxe,Premium,3
+CUST_298,Australia,INN00820,Resort Hotel,Mumbai,15-Jan-24,16,31-Jan-24,2,2,4,0,2,2,Breakfast,1,1,173,Direct,Deluxe,Premium,3
+CUST_285,Germany,INN00821,Resort Hotel,Kolkata,10-Sep-24,16,26-Sep-24,2,0,2,2,1,3,Breakfast,0,0,120,Online Self / TA,Standard,Deluxe,1
+CUST_504,UK,INN00822,Resort Hotel,Chandigarh,11-Nov-24,4,15-Nov-24,2,0,2,1,1,2,Breakfast,0,0,155,Online Self / TA,Standard,Deluxe,3
+CUST_147,UAE,INN00823,Resort Hotel,Lucknow,30-Oct-24,4,3-Nov-24,2,0,2,0,1,1,Breakfast & Dinner,1,3,192,Online Self / TA,Deluxe,Premium,2
+CUST_328,Australia,INN00824,Resort Hotel,Chandigarh,3-Jun-24,25,28-Jun-24,2,0,2,1,1,2,Breakfast & Dinner,0,1,153,Direct,Standard,Standard,0
+CUST_005,Germany,INN00825,Resort Hotel,Ahmedabad,9-Feb-24,83,2-May-24,2,2,4,0,2,2,Breakfast & Dinner,0,0,121,Company TA/TO,Standard,Deluxe,1
+CUST_169,Canada,INN00826,Resort Hotel,Bangalore,18-Oct-24,4,22-Oct-24,2,0,2,0,1,1,Breakfast,0,0,192,Online Self / TA,Deluxe,Deluxe,2
+CUST_196,France,INN00827,Resort Hotel,Chandigarh,1-May-24,56,26-Jun-24,2,0,2,1,1,2,Breakfast,0,0,121,Direct,Standard,Deluxe,0
+CUST_154,UK,INN00828,City Hotel,Chandigarh,9-Jan-24,32,10-Feb-24,2,0,2,0,1,1,Breakfast,0,0,164,Online Self / TA,Premium,Premium,2
+CUST_547,UAE,INN00829,City Hotel,Bangalore,30-Jul-24,32,31-Aug-24,2,0,2,2,1,3,Breakfast & Dinner,0,0,220,Online Self / TA,Premium,Premium,0
+CUST_139,Canada,INN00830,City Hotel,Hyderabad,8-Mar-24,0,8-Mar-24,2,0,2,2,1,3,Not Selected,0,0,193,Company TA/TO,Standard,Standard,1
+CUST_438,Australia,INN00831,City Hotel,Chennai,9-Jul-24,18,27-Jul-24,2,0,2,0,3,3,Breakfast,1,2,150,Online Self / TA,Standard,Standard,1
+CUST_063,USA,INN00832,City Hotel,Mumbai,16-Dec-23,23,8-Jan-24,2,0,2,2,3,5,Breakfast,0,0,112,Online Self / TA,Standard,Standard,0
+CUST_188,Australia,INN00833,City Hotel,Lucknow,29-Apr-24,39,7-Jun-24,2,0,2,2,3,5,Breakfast,1,1,121,Company TA/TO,Standard,Deluxe,1
+CUST_250,India,INN00834,City Hotel,Bhopal,23-Feb-24,18,12-Mar-24,2,0,2,0,1,1,Breakfast,0,1,150,Direct,Standard,Deluxe,1
+CUST_010,India,INN00835,City Hotel,Ahmedabad,22-Jan-24,18,9-Feb-24,2,0,2,0,2,2,Breakfast,0,2,173,Direct,Deluxe,Deluxe,3
+CUST_359,Canada,INN00836,Resort Hotel,Lucknow,2-Apr-24,23,25-Apr-24,2,0,2,0,3,3,Breakfast,1,2,112,Online Self / TA,Standard,Deluxe,1
+CUST_245,Germany,INN00837,Resort Hotel,Bhopal,16-Dec-23,286,27-Sep-24,2,0,2,0,3,3,Breakfast,0,1,58,Online Self / TA,Standard,Deluxe,0
+CUST_159,Canada,INN00838,Resort Hotel,Delhi,16-Jul-24,72,26-Sep-24,2,0,2,0,4,4,Not Selected,1,1,214,Groups,Premium,Premium,0
+CUST_549,Canada,INN00839,Resort Hotel,Chennai,24-May-24,136,7-Oct-24,2,0,2,2,3,5,Breakfast,0,0,172,Online Self / TA,Standard,Standard,0
+CUST_122,India,INN00840,Resort Hotel,Pune,30-Dec-23,58,26-Feb-24,2,0,2,1,0,1,Breakfast,1,2,158,Online Self / TA,Deluxe,Premium,0
+CUST_196,France,INN00841,Resort Hotel,Ahmedabad,13-Oct-23,80,1-Jan-24,2,2,4,2,3,5,Breakfast,0,0,170,Online Self / TA,Premium,Premium,1
+CUST_077,UAE,INN00842,City Hotel,Kolkata,18-Feb-24,113,10-Jun-24,2,0,2,1,0,1,Breakfast,1,1,119,Online Self / TA,Premium,Premium,0
+CUST_092,India,INN00843,City Hotel,Bangalore,21-Aug-24,129,28-Dec-24,2,0,2,0,5,5,Breakfast,0,0,96,Online Self / TA,Standard,Standard,0
+CUST_113,USA,INN00844,City Hotel,Kolkata,12-Feb-24,84,6-May-24,2,0,2,2,1,3,Not Selected,0,0,118,Online Self / TA,Standard,Deluxe,0
+CUST_246,France,INN00845,City Hotel,Goa,7-Nov-23,84,30-Jan-24,2,1,3,0,2,2,Breakfast,0,0,118,Online Self / TA,Standard,Standard,0
+CUST_172,India,INN00846,City Hotel,Bangalore,18-Nov-23,89,15-Feb-24,1,0,1,0,2,2,Breakfast & Dinner,0,0,154,Direct,Deluxe,Deluxe,0
+CUST_459,Canada,INN00847,City Hotel,Mumbai,21-May-24,10,31-May-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,202,Online Self / TA,Premium,Premium,0
+CUST_219,Canada,INN00848,Resort Hotel,Bhopal,25-Dec-23,80,14-Mar-24,2,2,4,0,2,2,Breakfast,0,0,134,Direct,Standard,Standard,2
+CUST_526,France,INN00849,Resort Hotel,Chandigarh,22-Aug-24,10,1-Sep-24,2,2,4,0,1,1,Breakfast,1,2,202,Online Self / TA,Premium,Premium,0
+CUST_310,India,INN00850,Resort Hotel,Kochi,2-Jun-24,10,12-Jun-24,2,1,3,1,2,3,Breakfast & Dinner,0,0,252,Online Self / TA,Premium,Premium,0
+CUST_457,UAE,INN00851,Resort Hotel,Kolkata,24-Jul-24,24,17-Aug-24,3,2,5,0,1,1,Breakfast,0,0,233,Online Self / TA,Premium,Premium,1
+CUST_539,Canada,INN00852,Resort Hotel,Chennai,9-Apr-24,1,10-Apr-24,2,0,2,0,1,1,Breakfast,1,1,211,Online Self / TA,Deluxe,Premium,2
+CUST_350,India,INN00853,Resort Hotel,Pune,13-Jan-24,9,22-Jan-24,2,0,2,1,2,3,Breakfast,0,0,211,Company TA/TO,Deluxe,Deluxe,2
+CUST_355,Germany,INN00854,Resort Hotel,Chennai,31-Dec-23,3,3-Jan-24,2,1,3,0,1,1,Not Selected,0,0,237,Company TA/TO,Deluxe,Premium,1
+CUST_448,Australia,INN00855,Resort Hotel,Chandigarh,5-Jul-24,3,8-Jul-24,2,1,3,0,1,1,Breakfast,0,1,188,Company TA/TO,Standard,Standard,2
+CUST_495,Germany,INN00856,Resort Hotel,Delhi,7-Jan-24,124,10-May-24,2,0,2,0,2,2,Breakfast,1,1,121,Online Self / TA,Standard,Standard,1
+CUST_424,UK,INN00857,Resort Hotel,Jaipur,19-Feb-24,74,3-May-24,2,0,2,0,2,2,Breakfast,1,1,177,Online Self / TA,Deluxe,Deluxe,0
+CUST_385,Germany,INN00858,Resort Hotel,Indore,30-Apr-24,82,21-Jul-24,2,0,2,1,2,3,Not Selected,1,1,222,Direct,Premium,Premium,0
+CUST_593,USA,INN00859,City Hotel,Chennai,26-Nov-23,91,25-Feb-24,2,0,2,1,0,1,Breakfast,0,1,128,Online Self / TA,Standard,Standard,2
+CUST_365,Germany,INN00860,City Hotel,Delhi,6-Sep-24,77,22-Nov-24,2,0,2,1,4,5,Breakfast,0,0,194,Direct,Deluxe,Deluxe,0
+CUST_547,UAE,INN00861,City Hotel,Indore,27-Jan-24,130,5-Jun-24,2,0,2,0,3,3,Breakfast,0,0,121,Online Self / TA,Standard,Deluxe,2
+CUST_312,India,INN00862,City Hotel,Chandigarh,15-Feb-24,91,16-May-24,2,0,2,1,1,2,Not Selected,0,0,145,Online Self / TA,Standard,Deluxe,3
+CUST_114,UK,INN00863,City Hotel,Delhi,24-Apr-24,79,12-Jul-24,3,0,3,2,1,3,Not Selected,0,0,185,Direct,Premium,Premium,4
+CUST_083,USA,INN00864,City Hotel,Lucknow,12-Feb-24,130,21-Jun-24,2,0,2,0,2,2,Breakfast,0,1,96,Online Self / TA,Standard,Standard,0
+CUST_498,Australia,INN00865,City Hotel,Kochi,8-Oct-24,66,13-Dec-24,2,0,2,1,1,2,Breakfast,0,1,193,Company TA/TO,Deluxe,Deluxe,0
+CUST_190,India,INN00866,Resort Hotel,Bhopal,14-Apr-24,53,6-Jun-24,2,0,2,0,2,2,Breakfast,1,1,211,Online Self / TA,Premium,Premium,0
+CUST_119,Canada,INN00867,Resort Hotel,Bhopal,12-Jun-24,80,31-Aug-24,2,0,2,2,3,5,Breakfast,1,2,169,Online Self / TA,Deluxe,Deluxe,1
+CUST_494,UK,INN00868,Resort Hotel,Lucknow,23-Mar-24,77,8-Jun-24,2,0,2,0,2,2,Breakfast,1,1,175,Online Self / TA,Deluxe,Premium,3
+CUST_242,India,INN00869,Resort Hotel,Chandigarh,16-Nov-23,57,12-Jan-24,2,0,2,0,1,1,Breakfast,1,1,136,Online Self / TA,Deluxe,Deluxe,0
+CUST_031,India,INN00870,Resort Hotel,Goa,2-Jan-24,11,13-Jan-24,2,0,2,0,3,3,Breakfast,0,1,172,Online Self / TA,Standard,Standard,0
+CUST_434,UK,INN00871,Resort Hotel,Bangalore,30-Nov-24,25,25-Dec-24,2,0,2,2,2,4,Breakfast,0,0,144,Online Self / TA,Standard,Standard,2
+CUST_017,UAE,INN00872,Resort Hotel,Bhopal,28-Jul-24,2,30-Jul-24,2,0,2,1,2,3,Breakfast & Dinner,1,1,163,Online Self / TA,Standard,Standard,1
+CUST_600,India,INN00873,City Hotel,Hyderabad,5-Dec-23,36,10-Jan-24,2,0,2,2,0,2,Breakfast,1,1,210,Online Self / TA,Premium,Premium,2
+CUST_065,Germany,INN00874,City Hotel,Mumbai,16-Jun-24,36,22-Jul-24,2,2,4,0,1,1,Breakfast,0,2,210,Direct,Premium,Premium,2
+CUST_086,France,INN00875,City Hotel,Bhopal,11-Apr-24,115,4-Aug-24,2,1,3,0,2,2,Breakfast & Dinner,0,0,196,Online Self / TA,Premium,Premium,1
+CUST_597,UAE,INN00876,City Hotel,Kolkata,29-Apr-24,95,2-Aug-24,2,0,2,2,2,4,Not Selected,0,0,186,Company TA/TO,Standard,Deluxe,4
+CUST_005,Germany,INN00877,City Hotel,Pune,20-Apr-24,67,26-Jun-24,2,0,2,2,1,3,Not Selected,0,0,164,Groups,Deluxe,Deluxe,1
+CUST_219,Canada,INN00878,City Hotel,Jaipur,6-Aug-24,60,5-Oct-24,1,0,1,0,2,2,Breakfast,0,0,180,Direct,Standard,Standard,0
+CUST_234,UK,INN00879,City Hotel,Chandigarh,15-Jul-24,34,18-Aug-24,1,0,1,0,1,1,Not Selected,0,1,175,Company TA/TO,Deluxe,Deluxe,1
+CUST_277,UAE,INN00880,Resort Hotel,Hyderabad,7-Jun-24,78,24-Aug-24,2,0,2,2,2,4,Breakfast,1,1,117,Direct,Deluxe,Premium,0
+CUST_010,India,INN00881,Resort Hotel,Lucknow,16-Dec-23,93,18-Mar-24,2,0,2,2,0,2,Breakfast,0,2,159,Company TA/TO,Standard,Standard,0
+CUST_092,India,INN00882,Resort Hotel,Jaipur,13-May-23,327,4-Apr-24,2,1,3,0,1,1,Breakfast,0,0,105,Online Self / TA,Deluxe,Deluxe,0
+CUST_596,France,INN00883,Resort Hotel,Lucknow,31-Mar-24,21,21-Apr-24,2,0,2,2,3,5,Breakfast,1,1,0,Online Self / TA,Deluxe,Premium,0
+CUST_417,UAE,INN00884,City Hotel,Bangalore,11-Nov-24,0,11-Nov-24,2,0,2,1,2,3,Breakfast,0,0,145,Online Self / TA,Deluxe,Premium,0
+CUST_328,Australia,INN00885,City Hotel,Hyderabad,29-Oct-24,47,15-Dec-24,2,0,2,0,2,2,Breakfast,1,1,205,Online Self / TA,Deluxe,Deluxe,0
+CUST_057,UAE,INN00886,City Hotel,Jaipur,14-Nov-23,81,3-Feb-24,2,0,2,2,2,4,Breakfast,0,0,123,Online Self / TA,Deluxe,Premium,0
+CUST_198,Australia,INN00887,City Hotel,Pune,3-Feb-24,52,26-Mar-24,2,2,4,1,1,2,Breakfast,0,1,173,Direct,Deluxe,Premium,0
+CUST_171,India,INN00888,City Hotel,Bhopal,5-Jan-24,13,18-Jan-24,2,0,2,1,0,1,Breakfast,0,1,221,Online Self / TA,Deluxe,Premium,0
+CUST_475,Germany,INN00889,City Hotel,Mumbai,18-Nov-23,83,9-Feb-24,2,0,2,2,2,4,Breakfast,0,1,162,Direct,Deluxe,Premium,1
+CUST_358,Australia,INN00890,City Hotel,Goa,27-Apr-24,131,5-Sep-24,2,0,2,0,5,5,Breakfast,0,2,120,Online Self / TA,Standard,Standard,1
+CUST_134,UK,INN00891,City Hotel,Kochi,14-Aug-23,460,16-Nov-24,2,0,2,1,0,1,Breakfast,1,2,78,Company TA/TO,Premium,Premium,0
+CUST_051,India,INN00892,City Hotel,Bangalore,14-Aug-24,82,4-Nov-24,2,0,2,2,1,3,Breakfast & Dinner,1,1,121,Online Self / TA,Standard,Deluxe,0
+CUST_424,UK,INN00893,Resort Hotel,Hyderabad,8-Mar-24,61,8-May-24,3,0,3,0,3,3,Breakfast,0,1,153,Company TA/TO,Standard,Deluxe,0
+CUST_158,Australia,INN00894,Resort Hotel,Pune,25-May-24,94,27-Aug-24,2,0,2,2,4,6,Breakfast,0,0,135,Company TA/TO,Standard,Standard,1
+CUST_104,UK,INN00895,Resort Hotel,Kochi,5-Jul-24,1,6-Jul-24,2,10,12,1,0,1,Breakfast,0,1,135,Company TA/TO,Deluxe,Deluxe,2
+CUST_556,France,INN00896,Resort Hotel,Pune,22-Mar-24,0,22-Mar-24,2,0,2,0,2,2,Breakfast & Dinner,0,0,172,Online Self / TA,Standard,Deluxe,0
+CUST_219,Canada,INN00897,Resort Hotel,Chandigarh,24-May-24,36,29-Jun-24,2,0,2,2,1,3,Not Selected,0,0,221,Company TA/TO,Premium,Premium,0
+CUST_485,Germany,INN00898,Resort Hotel,Chennai,31-Dec-23,61,1-Mar-24,2,2,4,0,1,1,Breakfast,0,0,153,Company TA/TO,Standard,Standard,0
+CUST_348,Australia,INN00899,City Hotel,Ahmedabad,5-Jun-24,13,18-Jun-24,2,0,2,2,7,9,Breakfast,1,1,231,Online Self / TA,Deluxe,Deluxe,2
+CUST_177,UAE,INN00900,City Hotel,Chandigarh,3-Jul-24,13,16-Jul-24,2,2,4,0,3,3,Breakfast,0,1,231,Online Self / TA,Deluxe,Premium,2
+CUST_267,UAE,INN00901,City Hotel,Pune,17-Feb-24,15,3-Mar-24,2,0,2,1,2,3,Breakfast,0,0,211,Online Self / TA,Deluxe,Deluxe,1
+CUST_049,Canada,INN00902,City Hotel,Pune,8-Sep-24,14,22-Sep-24,1,0,1,0,3,3,Breakfast,0,0,241,Online Self / TA,Deluxe,Premium,2
+CUST_296,France,INN00903,City Hotel,Chennai,1-Nov-24,13,14-Nov-24,3,0,3,0,2,2,Breakfast & Dinner,1,1,211,Company TA/TO,Deluxe,Deluxe,1
+CUST_573,USA,INN00904,City Hotel,Chennai,27-Apr-24,140,14-Sep-24,2,0,2,2,5,7,Breakfast,0,0,91,Online Self / TA,Standard,Standard,0
+CUST_198,Australia,INN00905,City Hotel,Lucknow,3-Jan-24,6,9-Jan-24,2,0,2,0,3,3,Breakfast,0,1,188,Online Self / TA,Standard,Standard,2
+CUST_399,Canada,INN00906,City Hotel,Chennai,26-Jul-24,140,13-Dec-24,2,0,2,2,1,3,Breakfast,1,1,91,Online Self / TA,Standard,Standard,0
+CUST_413,USA,INN00907,City Hotel,Bhopal,22-Nov-23,81,11-Feb-24,2,0,2,1,2,3,Breakfast,0,0,188,Company TA/TO,Deluxe,Deluxe,1
+CUST_406,France,INN00908,City Hotel,Hyderabad,13-Feb-24,1,14-Feb-24,1,0,1,1,1,2,Breakfast,0,0,135,Corporate,Deluxe,Deluxe,2
+CUST_211,India,INN00909,Resort Hotel,Chennai,4-Jul-24,65,7-Sep-24,2,0,2,0,1,1,Not Selected,0,0,135,Company TA/TO,Deluxe,Deluxe,0
+CUST_085,Germany,INN00910,City Hotel,Pune,14-May-24,0,14-May-24,2,0,2,0,1,1,Breakfast & Dinner,0,2,172,Online Self / TA,Deluxe,Premium,1
+CUST_581,India,INN00911,City Hotel,Pune,12-Sep-24,2,14-Sep-24,2,0,2,1,0,1,Breakfast,0,1,172,Direct,Standard,Deluxe,0
+CUST_324,UK,INN00912,City Hotel,Mumbai,22-Aug-24,0,22-Aug-24,2,0,2,0,3,3,Breakfast,0,2,200,Online Self / TA,Premium,Premium,0
+CUST_202,India,INN00913,City Hotel,Hyderabad,2-Aug-24,114,24-Nov-24,2,0,2,2,0,2,Breakfast,0,0,149,Company TA/TO,Standard,Deluxe,0
+CUST_328,Australia,INN00914,City Hotel,Indore,24-Jun-24,111,13-Oct-24,2,0,2,0,1,1,Breakfast,0,1,154,Company TA/TO,Deluxe,Deluxe,1
+CUST_600,India,INN00915,City Hotel,Ahmedabad,2-Apr-24,44,16-May-24,2,0,2,0,2,2,Breakfast & Dinner,0,1,148,Online Self / TA,Standard,Standard,0
+CUST_022,India,INN00916,City Hotel,Lucknow,2-Dec-23,139,19-Apr-24,3,1,4,1,0,1,Breakfast,0,2,172,Direct,Standard,Deluxe,1
+CUST_468,Australia,INN00917,City Hotel,Delhi,28-Oct-24,57,24-Dec-24,2,2,4,2,0,2,Breakfast,0,1,183,Online Self / TA,Premium,Premium,0
+CUST_401,India,INN00918,City Hotel,Bhopal,29-Oct-24,16,14-Nov-24,2,0,2,0,1,1,Breakfast,0,0,243,Online Self / TA,Deluxe,Premium,1
+CUST_081,India,INN00919,Resort Hotel,Hyderabad,25-Aug-23,139,11-Jan-24,2,0,2,0,2,2,Breakfast,0,0,172,Company TA/TO,Standard,Standard,2
+CUST_049,Canada,INN00920,City Hotel,Kochi,24-Nov-23,84,16-Feb-24,2,0,2,1,2,3,Breakfast,0,0,169,Online Self / TA,Standard,Standard,3
+CUST_374,UK,INN00921,City Hotel,Pune,16-May-24,117,10-Sep-24,2,0,2,2,5,7,Breakfast,0,1,166,Company TA/TO,Standard,Standard,0
+CUST_521,India,INN00922,City Hotel,Chandigarh,26-Oct-23,69,3-Jan-24,2,0,2,0,3,3,Breakfast,1,1,112,Company TA/TO,Standard,Standard,0
+CUST_070,India,INN00923,City Hotel,Bhopal,7-Mar-24,2,9-Mar-24,1,0,1,1,1,2,Breakfast,0,0,172,Direct,Standard,Standard,0
+CUST_186,France,INN00924,City Hotel,Goa,5-Mar-24,118,1-Jul-24,2,0,2,0,3,3,Breakfast,0,0,121,Direct,Standard,Standard,0
+CUST_502,India,INN00925,City Hotel,Hyderabad,27-Jul-24,129,3-Dec-24,2,0,2,1,3,4,Breakfast,0,2,126,Online Self / TA,Premium,Premium,1
+CUST_505,Germany,INN00926,Resort Hotel,Bhopal,16-Jan-24,9,25-Jan-24,2,0,2,1,3,4,Breakfast,0,0,268,Direct,Premium,Premium,1
+CUST_503,USA,INN00927,Resort Hotel,Indore,31-Jul-24,52,21-Sep-24,2,0,2,1,0,1,Not Selected,1,1,173,Online Self / TA,Premium,Premium,0
+CUST_342,India,INN00928,Resort Hotel,Kochi,29-Nov-23,65,2-Feb-24,2,0,2,2,1,3,Breakfast & Dinner,0,0,149,Direct,Deluxe,Deluxe,0
+CUST_469,Canada,INN00929,Resort Hotel,Lucknow,1-Mar-24,7,8-Mar-24,2,2,4,1,2,3,Breakfast,1,1,217,Online Self / TA,Standard,Standard,4
+CUST_140,India,INN00930,Resort Hotel,Chennai,18-Sep-24,28,16-Oct-24,2,0,2,2,1,3,Breakfast,0,0,239,Company TA/TO,Deluxe,Deluxe,1
+CUST_440,India,INN00931,Resort Hotel,Indore,17-May-24,3,20-May-24,2,0,2,0,3,3,Breakfast,0,2,182,Direct,Standard,Standard,3
+CUST_170,India,INN00932,Resort Hotel,Pune,28-Jul-24,87,23-Oct-24,4,0,4,0,3,3,Breakfast,0,0,154,Direct,Deluxe,Deluxe,2
+CUST_313,USA,INN00933,Resort Hotel,Ahmedabad,16-Apr-24,51,6-Jun-24,2,0,2,2,2,4,Breakfast,0,0,173,Company TA/TO,Deluxe,Deluxe,0
+CUST_237,UAE,INN00934,Resort Hotel,Chandigarh,15-Jul-24,136,28-Nov-24,2,1,3,2,3,5,Breakfast,0,0,182,Company TA/TO,Premium,Premium,3
+CUST_479,Canada,INN00935,Resort Hotel,Delhi,20-Nov-24,4,24-Nov-24,3,0,3,0,2,2,Breakfast,0,0,135,Company TA/TO,Premium,Premium,2
+CUST_259,Canada,INN00936,Resort Hotel,Pune,2-Jun-24,1,3-Jun-24,2,0,2,0,3,3,Breakfast,0,1,114,Online Self / TA,Standard,Deluxe,0
+CUST_104,UK,INN00937,Resort Hotel,Hyderabad,18-Dec-23,49,5-Feb-24,2,2,4,0,3,3,Breakfast,1,1,267,Online Self / TA,Premium,Premium,0
+CUST_360,India,INN00938,Resort Hotel,Hyderabad,17-Sep-24,4,21-Sep-24,2,2,4,0,3,3,Breakfast,1,1,226,Online Self / TA,Deluxe,Deluxe,4
+CUST_421,India,INN00939,Resort Hotel,Hyderabad,11-Jan-24,45,25-Feb-24,2,0,2,0,2,2,Breakfast & Dinner,0,1,173,Company TA/TO,Deluxe,Deluxe,0
+CUST_199,Canada,INN00940,Resort Hotel,Indore,18-Jun-24,6,24-Jun-24,3,0,3,0,2,2,Breakfast,0,0,211,Online Self / TA,Deluxe,Deluxe,1
+CUST_359,Canada,INN00941,Resort Hotel,Chandigarh,18-Feb-24,4,22-Feb-24,2,0,2,2,1,3,Breakfast,0,2,191,Online Self / TA,Standard,Standard,3
+CUST_584,UK,INN00942,Resort Hotel,Chennai,19-Apr-24,53,11-Jun-24,2,0,2,0,3,3,Breakfast,0,0,173,Online Self / TA,Deluxe,Deluxe,0
+CUST_519,Canada,INN00943,City Hotel,Chandigarh,15-Apr-24,52,6-Jun-24,2,0,2,0,3,3,Breakfast,0,1,173,Online Self / TA,Premium,Premium,1
+CUST_551,India,INN00944,City Hotel,Kochi,13-May-24,4,17-May-24,1,0,1,2,3,5,Breakfast,0,0,278,Direct,Premium,Premium,2
+CUST_425,Germany,INN00945,City Hotel,Hyderabad,13-Aug-24,98,19-Nov-24,3,1,4,1,1,2,Breakfast,1,1,134,Direct,Standard,Standard,2
+CUST_002,India,INN00946,City Hotel,Jaipur,30-Sep-24,46,15-Nov-24,2,0,2,0,2,2,Breakfast,0,1,153,Company TA/TO,Standard,Standard,0
+CUST_588,Australia,INN00947,City Hotel,Indore,28-Feb-24,122,29-Jun-24,2,0,2,0,1,1,Breakfast,0,1,186,Online Self / TA,Deluxe,Deluxe,1
+CUST_168,Australia,INN00948,City Hotel,Chennai,14-Oct-23,83,5-Jan-24,2,0,2,0,2,2,Breakfast,0,0,107,Company TA/TO,Standard,Standard,2
+CUST_004,UK,INN00949,City Hotel,Bangalore,13-Jul-24,16,29-Jul-24,2,0,2,0,4,4,Breakfast,0,1,221,Online Self / TA,Premium,Premium,2
+CUST_572,India,INN00950,Resort Hotel,Indore,20-Aug-24,43,2-Oct-24,2,0,2,0,3,3,Breakfast & Dinner,0,2,202,Online Self / TA,Standard,Standard,0
+CUST_539,Canada,INN00951,Resort Hotel,Ahmedabad,6-Jun-24,73,18-Aug-24,1,0,1,1,1,2,Not Selected,0,1,169,Direct,Deluxe,Premium,0
+CUST_184,UK,INN00952,Resort Hotel,Bangalore,7-Jul-24,116,31-Oct-24,2,1,3,0,2,2,Breakfast,1,1,134,Online Self / TA,Deluxe,Deluxe,2
+CUST_545,Germany,INN00953,Resort Hotel,Mumbai,11-Aug-24,113,2-Dec-24,3,0,3,2,2,4,Breakfast,0,0,154,Direct,Standard,Standard,1
+CUST_438,Australia,INN00954,City Hotel,Chandigarh,23-May-24,113,13-Sep-24,2,0,2,2,1,3,Breakfast,0,2,154,Company TA/TO,Standard,Deluxe,1
+CUST_275,Germany,INN00955,City Hotel,Indore,17-Jun-24,51,7-Aug-24,2,0,2,1,1,2,Breakfast,1,1,205,Online Self / TA,Deluxe,Deluxe,2
+CUST_501,India,INN00956,City Hotel,Mumbai,13-Feb-24,65,18-Apr-24,2,0,2,0,1,1,Breakfast,1,2,121,Online Self / TA,Standard,Standard,1
+CUST_533,USA,INN00957,City Hotel,Lucknow,3-May-24,0,3-May-24,3,0,3,2,3,5,Breakfast,1,1,172,Direct,Standard,Standard,0
+CUST_437,UAE,INN00958,City Hotel,Mumbai,16-Mar-24,87,11-Jun-24,2,0,2,2,1,3,Breakfast & Dinner,0,0,164,Online Self / TA,Premium,Premium,1
+CUST_220,India,INN00959,Resort Hotel,Chennai,13-Feb-24,106,29-May-24,2,0,2,2,1,3,Breakfast,0,0,134,Company TA/TO,Standard,Standard,1
+CUST_282,India,INN00960,Resort Hotel,Chennai,31-Jul-24,5,5-Aug-24,2,0,2,0,1,1,Breakfast,0,1,250,Online Self / TA,Premium,Premium,1
+CUST_279,Canada,INN00961,Resort Hotel,Chandigarh,3-May-24,98,9-Aug-24,2,0,2,0,2,2,Breakfast,1,2,208,Company TA/TO,Premium,Premium,1
+CUST_004,UK,INN00962,Resort Hotel,Chennai,13-Aug-24,78,30-Oct-24,1,0,1,2,1,3,Not Selected,1,1,181,Online Self / TA,Deluxe,Deluxe,0
+CUST_557,UAE,INN00963,Resort Hotel,Delhi,22-Apr-24,4,26-Apr-24,2,0,2,1,0,1,Breakfast,1,1,172,Online Self / TA,Standard,Standard,3
+CUST_137,UAE,INN00964,Resort Hotel,Pune,6-Jul-24,5,11-Jul-24,2,0,2,1,2,3,Breakfast & Dinner,1,3,158,Company TA/TO,Deluxe,Deluxe,1
+CUST_324,UK,INN00965,Resort Hotel,Kolkata,17-Dec-24,3,20-Dec-24,1,0,1,0,4,4,Breakfast,1,2,212,Corporate,Standard,Deluxe,3
+CUST_390,India,INN00966,Resort Hotel,Bhopal,17-Jun-24,85,10-Sep-24,2,0,2,2,4,6,Breakfast,1,1,246,Online Self / TA,Premium,Premium,1
+CUST_030,India,INN00967,Resort Hotel,Lucknow,13-Aug-24,137,28-Dec-24,2,0,2,0,3,3,Not Selected,0,0,109,Online Self / TA,Standard,Standard,1
+CUST_348,Australia,INN00968,Resort Hotel,Lucknow,29-Apr-24,67,5-Jul-24,2,2,4,0,3,3,Breakfast & Dinner,0,1,186,Direct,Deluxe,Deluxe,0
+CUST_438,Australia,INN00969,City Hotel,Lucknow,13-Mar-24,54,6-May-24,2,0,2,0,1,1,Breakfast,1,2,205,Company TA/TO,Deluxe,Deluxe,1
+CUST_345,Germany,INN00970,City Hotel,Ahmedabad,23-Nov-23,87,18-Feb-24,2,0,2,0,2,2,Breakfast,0,0,154,Direct,Deluxe,Deluxe,1
+CUST_405,Germany,INN00971,City Hotel,Kochi,5-Apr-24,54,29-May-24,2,0,2,1,3,4,Breakfast,0,0,201,Online Self / TA,Standard,Standard,0
+CUST_590,India,INN00972,City Hotel,Chennai,9-Sep-24,12,21-Sep-24,2,1,3,0,4,4,Not Selected,0,0,252,Direct,Premium,Premium,1
+CUST_507,UAE,INN00973,City Hotel,Mumbai,27-May-24,60,26-Jul-24,2,0,2,0,3,3,Breakfast,0,0,135,Online Self / TA,Deluxe,Premium,0
+CUST_074,UK,INN00974,City Hotel,Bangalore,10-Aug-24,75,24-Oct-24,2,0,2,0,2,2,Breakfast,0,0,276,Company TA/TO,Deluxe,Deluxe,3
+CUST_288,Australia,INN00975,City Hotel,Chennai,12-Jun-24,54,5-Aug-24,2,2,4,0,2,2,Breakfast,0,0,228,Direct,Premium,Premium,0
+CUST_586,France,INN00976,City Hotel,Indore,2-Feb-24,126,7-Jun-24,2,0,2,2,2,4,Breakfast,0,0,133,Online Self / TA,Standard,Standard,2
+CUST_490,India,INN00977,City Hotel,Hyderabad,27-Jan-24,54,21-Mar-24,2,0,2,0,4,4,Breakfast,0,1,205,Online Self / TA,Deluxe,Premium,1
+CUST_435,Germany,INN00978,City Hotel,Goa,3-Dec-23,84,25-Feb-24,2,0,2,0,2,2,Breakfast,0,0,134,Groups,Standard,Standard,2
+CUST_295,Germany,INN00979,Resort Hotel,Chandigarh,7-Dec-23,106,22-Mar-24,2,0,2,0,2,2,Breakfast,0,1,120,Online Self / TA,Standard,Standard,1
+CUST_588,Australia,INN00980,Resort Hotel,Chandigarh,5-Dec-23,136,19-Apr-24,2,0,2,1,2,3,Not Selected,0,1,91,Company TA/TO,Standard,Standard,1
+CUST_025,Germany,INN00981,Resort Hotel,Ahmedabad,30-Apr-24,98,6-Aug-24,2,0,2,2,1,3,Breakfast,1,1,138,Online Self / TA,Standard,Standard,0
+CUST_337,UAE,INN00982,Resort Hotel,Goa,18-Mar-24,91,17-Jun-24,2,0,2,0,2,2,Breakfast,0,0,134,Groups,Standard,Standard,1
+CUST_002,India,INN00983,Resort Hotel,Pune,18-Aug-24,58,15-Oct-24,2,2,4,1,2,3,Breakfast,1,1,173,Online Self / TA,Premium,Premium,0
+CUST_311,India,INN00984,Resort Hotel,Bangalore,9-Jun-24,61,9-Aug-24,2,2,4,2,5,7,Breakfast,0,2,166,Direct,Deluxe,Deluxe,0
+CUST_158,Australia,INN00985,Resort Hotel,Chennai,24-Oct-24,0,24-Oct-24,2,1,3,1,1,2,Breakfast,0,0,195,Online Self / TA,Premium,Premium,0
+CUST_405,Germany,INN00986,City Hotel,Pune,7-Sep-24,5,12-Sep-24,2,0,2,2,2,4,Not Selected,0,0,127,Online Self / TA,Standard,Deluxe,0
+CUST_037,UAE,INN00987,City Hotel,Hyderabad,24-Oct-24,2,26-Oct-24,2,0,2,0,4,4,Breakfast,0,0,134,Online Self / TA,Deluxe,Deluxe,1
+CUST_122,India,INN00988,City Hotel,Ahmedabad,14-Jun-24,9,23-Jun-24,2,0,2,1,3,4,Breakfast,1,2,207,Online Self / TA,Deluxe,Deluxe,2
+CUST_501,India,INN00989,Resort Hotel,Kolkata,13-Jun-24,10,23-Jun-24,2,0,2,1,0,1,Breakfast,0,2,212,Online Self / TA,Premium,Premium,1
+CUST_112,India,INN00990,Resort Hotel,Mumbai,6-Dec-23,62,6-Feb-24,1,0,1,1,2,3,Not Selected,1,1,210,Company TA/TO,Premium,Premium,2
+CUST_343,USA,INN00991,Resort Hotel,Ahmedabad,11-Mar-24,34,14-Apr-24,2,0,2,0,2,2,Not Selected,1,1,211,Online Self / TA,Deluxe,Deluxe,1
+CUST_548,Australia,INN00992,Resort Hotel,Ahmedabad,8-Feb-24,82,30-Apr-24,2,1,3,2,2,4,Breakfast,1,1,154,Online Self / TA,Deluxe,Deluxe,0
+CUST_273,USA,INN00993,City Hotel,Jaipur,14-Oct-24,65,18-Dec-24,2,0,2,2,3,5,Not Selected,1,1,145,Company TA/TO,Standard,Standard,0
+CUST_204,UK,INN00994,City Hotel,Goa,5-Jun-24,129,12-Oct-24,2,0,2,1,2,3,Breakfast,0,0,101,Online Self / TA,Standard,Standard,0
+CUST_010,India,INN00995,City Hotel,Delhi,21-May-24,55,15-Jul-24,2,0,2,1,1,2,Breakfast,1,2,179,Online Self / TA,Deluxe,Deluxe,0
+CUST_517,UAE,INN00996,City Hotel,Bangalore,12-Sep-23,122,12-Jan-24,2,0,2,1,2,3,Breakfast,0,1,166,Company TA/TO,Standard,Standard,2
+CUST_137,UAE,INN00997,Resort Hotel,Delhi,18-Jan-24,41,28-Feb-24,2,0,2,0,1,1,Breakfast,0,3,202,Online Self / TA,Premium,Premium,2
+CUST_529,Canada,INN00998,Resort Hotel,Ahmedabad,12-Feb-24,41,24-Mar-24,2,0,2,0,1,1,Breakfast,0,1,172,Online Self / TA,Standard,Deluxe,2
+CUST_404,UK,INN00999,Resort Hotel,Kochi,4-Oct-24,81,24-Dec-24,2,0,2,2,3,5,Not Selected,0,0,277,Company TA/TO,Deluxe,Deluxe,1
+CUST_503,USA,INN01000,Resort Hotel,Ahmedabad,18-Apr-24,59,16-Jun-24,2,0,2,2,5,7,Breakfast,0,1,104,Online Self / TA,Standard,Standard,0
