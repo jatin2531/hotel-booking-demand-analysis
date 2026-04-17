@@ -1,0 +1,1001 @@
+Hotel,Customer Country,Customer ID,Booking_ID,Booking Date,Lead Time,Arrival Date,Weekend Nights,Week Nights,Adults,Children,is_canceled,Meal,Market Segment,is_repeated_guest,previous_cancellations,previous_bookings_not_canceled,reserved_room_type,assigned_room_type,booking_changes,Customer Cancel Count,adr,required_car_parking_spaces,total_of_special_requests,reservation_status
+Resort Hotel - Chandigarh,India,CUST_570,INN00001,20-Aug-23,342,27-Jul-24,0,0,2,0,0,BB,Direct,0,0,0,C,C,3,1,135,0,0,Check-Out
+Resort Hotel - Mumbai,UK,CUST_164,INN00002,20-Mar-23,737,28-Apr-24,0,0,2,0,0,BB,Direct,0,0,0,C,C,4,1,0,0,0,Check-Out
+Resort Hotel - Delhi,India,CUST_420,INN00003,3-Sep-24,7,10-Sep-24,0,1,1,0,0,BB,Direct,0,0,0,A,C,0,0,75,0,0,Check-Out
+Resort Hotel - Kolkata,Australia,CUST_278,INN00004,1-Aug-24,13,14-Aug-24,0,1,1,0,0,BB,Corporate,0,0,0,A,A,0,1,75,0,0,Check-Out
+Resort Hotel - Lucknow,India,CUST_572,INN00005,31-Aug-24,14,14-Sep-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,2,98,0,1,Check-Out
+Resort Hotel - Delhi,Australia,CUST_198,INN00006,9-Oct-24,14,23-Oct-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,98,0,1,Check-Out
+Resort Hotel - Indore,India,CUST_441,INN00007,7-Jan-24,0,7-Jan-24,0,2,2,0,0,BB,Direct,0,0,0,C,C,0,0,107,0,0,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_371,INN00008,30-Jul-24,9,8-Aug-24,0,2,2,0,0,FB,Direct,0,0,0,C,C,0,1,103,0,1,Check-Out
+Resort Hotel - Delhi,India,CUST_401,INN00009,1-Jun-24,85,25-Aug-24,0,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,82,0,1,Canceled
+Resort Hotel - Pune,India,CUST_250,INN00010,4-Oct-24,75,18-Dec-24,0,3,2,0,1,HB,Offline TA/TO,0,0,0,D,D,0,1,105.5,0,0,Canceled
+Resort Hotel - Chennai,India,CUST_271,INN00011,1-Aug-24,23,24-Aug-24,0,4,2,0,1,BB,Online TA,0,0,0,E,E,0,0,123,0,0,Canceled
+Resort Hotel - Chennai,India,CUST_350,INN00012,21-Feb-24,35,27-Mar-24,0,4,2,0,0,HB,Online TA,0,0,0,D,D,0,0,145,0,0,Check-Out
+Resort Hotel - Bhopal,Australia,CUST_188,INN00013,25-Dec-23,68,2-Mar-24,0,4,2,0,0,BB,Online TA,0,0,0,D,E,0,1,97,0,3,Check-Out
+Resort Hotel - Lucknow,Australia,CUST_048,INN00014,22-May-24,18,9-Jun-24,0,4,2,1,0,HB,Online TA,0,0,0,G,G,1,1,154.77,0,1,Check-Out
+Resort Hotel - Hyderabad,UAE,CUST_307,INN00015,9-May-24,37,15-Jun-24,0,4,2,0,0,BB,Online TA,0,0,0,E,E,0,0,94.71,0,0,Check-Out
+Resort Hotel - Mumbai,France,CUST_516,INN00016,17-Apr-24,68,24-Jun-24,0,4,2,0,0,BB,Online TA,0,0,0,D,E,0,0,97,0,3,Check-Out
+Resort Hotel - Kochi,UAE,CUST_007,INN00017,12-Dec-23,37,18-Jan-24,0,4,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,1,97.5,0,0,Check-Out
+Resort Hotel - Chennai,Germany,CUST_315,INN00018,5-Dec-24,12,17-Dec-24,0,1,2,0,0,BB,Online TA,0,0,0,A,E,0,2,88.2,0,0,Check-Out
+Resort Hotel - Mumbai,UAE,CUST_287,INN00019,17-Apr-24,0,17-Apr-24,0,1,2,0,0,BB,Corporate,0,0,0,A,G,0,1,107.42,0,0,Check-Out
+Resort Hotel - Delhi,Australia,CUST_528,INN00020,4-Nov-24,7,11-Nov-24,0,4,2,0,0,BB,Direct,0,0,0,G,G,0,1,153,0,1,Check-Out
+Resort Hotel - Pune,India,CUST_070,INN00021,17-Oct-24,37,23-Nov-24,1,4,1,0,0,BB,Online TA,0,0,0,F,F,0,0,97.29,0,1,Check-Out
+Resort Hotel - Bangalore,Australia,CUST_418,INN00022,2-Nov-23,72,13-Jan-24,2,4,2,0,0,BB,Direct,0,0,0,A,A,1,1,84.67,0,1,Check-Out
+Resort Hotel - Bhopal,India,CUST_060,INN00023,23-Apr-24,72,4-Jul-24,2,4,2,0,0,BB,Direct,0,0,0,A,A,1,0,84.67,0,1,Check-Out
+Resort Hotel - Chennai,Australia,CUST_168,INN00024,10-Jan-24,72,22-Mar-24,2,4,2,0,0,BB,Direct,0,0,0,D,D,1,0,99.67,0,1,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_221,INN00025,21-Oct-23,127,25-Feb-24,2,5,2,0,0,HB,Offline TA/TO,0,0,0,D,I,0,0,94.95,0,1,Check-Out
+Resort Hotel - Pune,UK,CUST_164,INN00026,7-May-24,78,24-Jul-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,63.6,1,0,Check-Out
+Resort Hotel - Pune,France,CUST_046,INN00027,14-Oct-24,48,1-Dec-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,79.5,0,0,Check-Out
+Resort Hotel - Chennai,USA,CUST_513,INN00028,4-Sep-24,60,3-Nov-24,2,5,2,0,1,BB,Online TA,0,0,0,E,E,0,1,107,0,2,Canceled
+Resort Hotel - Kochi,India,CUST_072,INN00029,14-Aug-24,77,30-Oct-24,2,5,2,0,0,BB,Online TA,0,0,0,A,A,0,2,94,0,0,Check-Out
+Resort Hotel - Chennai,Germany,CUST_155,INN00030,6-Dec-23,99,14-Mar-24,2,5,2,0,0,BB,Online TA,0,0,0,D,D,0,3,87.3,1,1,Check-Out
+Resort Hotel - Kochi,USA,CUST_023,INN00031,15-Aug-24,118,11-Dec-24,4,10,1,0,0,BB,Direct,0,0,0,A,A,2,0,62,0,2,Check-Out
+Resort Hotel - Kochi,Germany,CUST_535,INN00032,26-Sep-24,95,30-Dec-24,4,11,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,63.86,0,0,Check-Out
+Resort Hotel - Delhi,Canada,CUST_369,INN00033,3-Oct-23,96,7-Jan-24,2,8,2,0,1,BB,Direct,0,0,0,E,E,0,2,108.3,0,2,Canceled
+Resort Hotel - Kolkata,Canada,CUST_239,INN00034,2-Mar-24,69,10-May-24,2,4,2,0,0,BB,Offline TA/TO,0,0,0,A,C,0,0,65.5,0,0,Check-Out
+Resort Hotel - Hyderabad,UAE,CUST_497,INN00035,24-Jun-24,45,8-Aug-24,1,3,3,0,1,BB,Online TA,0,0,0,D,D,0,3,108.8,0,1,Canceled
+Resort Hotel - Mumbai,Germany,CUST_205,INN00036,13-Mar-24,40,22-Apr-24,1,3,3,0,1,BB,Online TA,0,0,0,D,D,0,0,108.8,0,1,Canceled
+Resort Hotel - Mumbai,Canada,CUST_339,INN00037,6-Feb-24,15,21-Feb-24,1,3,2,0,0,BB,Online TA,0,0,0,A,C,0,1,98,0,0,Check-Out
+Resort Hotel - Chennai,Australia,CUST_578,INN00038,23-Jan-24,36,28-Feb-24,1,3,3,0,0,BB,Online TA,0,0,0,D,D,0,2,108.8,0,1,Check-Out
+Resort Hotel - Jaipur,Canada,CUST_389,INN00039,5-Dec-23,43,17-Jan-24,1,3,3,0,1,BB,Online TA,0,0,0,D,D,0,0,108.8,0,0,Canceled
+Resort Hotel - Bangalore,UAE,CUST_227,INN00040,6-Nov-23,70,15-Jan-24,2,3,2,0,0,HB,Direct,0,0,0,E,E,0,1,137,0,1,Check-Out
+Resort Hotel - Jaipur,Germany,CUST_055,INN00041,20-Dec-23,45,3-Feb-24,2,3,2,0,1,BB,Online TA,0,0,0,G,G,0,0,117.81,0,0,Canceled
+Resort Hotel - Pune,Australia,CUST_308,INN00042,9-Dec-23,45,23-Jan-24,2,3,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,3,79.5,0,0,Check-Out
+Resort Hotel - Kochi,Canada,CUST_599,INN00043,24-Apr-24,16,10-May-24,2,3,2,0,0,BB,Direct,0,0,0,F,F,0,2,123,0,0,Check-Out
+Resort Hotel - Chandigarh,India,CUST_160,INN00044,23-Aug-24,70,1-Nov-24,2,3,2,0,0,HB,Direct,0,0,0,E,E,0,1,137,0,1,Check-Out
+Resort Hotel - Pune,India,CUST_242,INN00045,28-Feb-24,107,14-Jun-24,2,5,2,0,0,BB,Online TA,0,0,0,A,A,0,1,110.7,0,2,Check-Out
+Resort Hotel - Delhi,UAE,CUST_107,INN00046,17-May-24,47,3-Jul-24,2,5,2,2,1,BB,Online TA,0,0,0,G,G,0,1,153,0,0,Canceled
+Resort Hotel - Kolkata,USA,CUST_543,INN00047,1-May-24,96,5-Aug-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,58.95,0,1,Check-Out
+Resort Hotel - Bhopal,Australia,CUST_038,INN00048,14-Oct-23,113,4-Feb-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,2,82.88,0,2,Check-Out
+Resort Hotel - Mumbai,Australia,CUST_308,INN00049,20-Jan-24,90,19-Apr-24,2,5,2,0,0,HB,Offline TA/TO,0,0,0,A,B,1,3,82.35,0,0,Check-Out
+Resort Hotel - Goa,France,CUST_346,INN00050,8-Nov-24,50,28-Dec-24,2,5,2,0,0,HB,Online TA,0,0,0,E,F,1,2,119.35,0,1,Check-Out
+Resort Hotel - Mumbai,UAE,CUST_217,INN00051,2-Dec-23,113,24-Mar-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,2,67.58,0,2,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_391,INN00052,25-Oct-23,93,26-Jan-24,3,8,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,56.01,0,0,Check-Out
+Resort Hotel - Lucknow,France,CUST_366,INN00053,17-Apr-24,76,2-Jul-24,4,10,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,110.7,0,0,Check-Out
+Resort Hotel - Pune,UAE,CUST_017,INN00054,24-Aug-24,3,27-Aug-24,0,1,2,0,0,BB,Online TA,0,0,0,A,C,0,1,88.2,1,0,Check-Out
+Resort Hotel - Bhopal,UK,CUST_294,INN00055,4-Nov-24,1,5-Nov-24,0,1,2,0,0,BB,Online TA,0,0,0,H,H,0,0,147,1,0,Check-Out
+Resort Hotel - Bangalore,Germany,CUST_465,INN00056,26-Jan-24,1,27-Jan-24,0,1,2,2,0,BB,Direct,0,0,0,C,C,0,0,107,1,2,Check-Out
+Resort Hotel - Bangalore,India,CUST_431,INN00057,15-Jul-24,0,15-Jul-24,0,1,2,0,0,BB,Direct,0,0,0,H,H,0,0,147,0,0,Check-Out
+Resort Hotel - Delhi,India,CUST_502,INN00058,14-Oct-24,0,14-Oct-24,0,1,2,0,0,BB,Online TA,0,0,0,A,D,0,2,117.9,0,2,Check-Out
+Resort Hotel - Mumbai,India,CUST_301,INN00059,21-Nov-24,0,21-Nov-24,0,1,2,0,0,BB,Direct,0,0,0,G,G,0,1,123,0,0,Check-Out
+Resort Hotel - Chennai,India,CUST_132,INN00060,18-Apr-24,14,2-May-24,0,2,2,0,0,BB,Online TA,0,0,0,A,C,0,0,98,0,1,Check-Out
+Resort Hotel - Delhi,Germany,CUST_405,INN00061,31-Jul-24,10,10-Aug-24,0,2,2,0,0,BB,Online TA,0,0,0,G,G,0,0,117.81,0,0,Check-Out
+Resort Hotel - Jaipur,Germany,CUST_295,INN00062,25-May-24,5,30-May-24,0,2,2,0,0,BB,Online TA,0,0,0,E,E,0,1,135,1,2,Check-Out
+Resort Hotel - Delhi,India,CUST_071,INN00063,15-Apr-24,17,2-May-24,0,3,2,0,0,BB,Direct,0,0,0,F,F,0,0,133,0,1,Check-Out
+Resort Hotel - Kochi,Australia,CUST_068,INN00064,4-Apr-24,93,6-Jul-24,0,3,2,0,0,BB,Offline TA/TO,0,0,0,A,C,0,2,58.95,0,0,Check-Out
+Resort Hotel - Kochi,Canada,CUST_289,INN00065,28-Jul-24,3,31-Jul-24,0,3,2,0,1,HB,Online TA,0,0,0,A,A,0,2,136.33,0,2,Canceled
+Resort Hotel - Chandigarh,UK,CUST_234,INN00066,13-Nov-24,10,23-Nov-24,0,2,2,2,0,BB,Online TA,0,0,0,G,H,0,1,153,1,0,Check-Out
+Resort Hotel - Lucknow,UK,CUST_464,INN00067,5-Jan-24,3,8-Jan-24,0,2,2,0,0,BB,Online TA,0,0,0,A,C,0,0,110.5,0,0,Check-Out
+Resort Hotel - Kochi,UK,CUST_164,INN00068,12-Apr-24,51,2-Jun-24,0,2,2,0,0,BB,Online TA,0,0,0,D,D,0,1,97,0,0,Check-Out
+Resort Hotel - Chandigarh,Canada,CUST_359,INN00069,15-Jun-24,71,25-Aug-24,0,2,3,0,1,BB,Offline TA/TO,0,0,0,A,A,0,2,110.3,0,2,Canceled
+Resort Hotel - Kolkata,India,CUST_142,INN00070,1-Dec-23,63,2-Feb-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,82,0,2,Canceled
+Resort Hotel - Kolkata,France,CUST_326,INN00071,3-Jul-24,62,3-Sep-24,0,2,2,0,1,BB,Online TA,0,0,0,D,D,0,2,97,0,1,Canceled
+Resort Hotel - Jaipur,India,CUST_561,INN00072,21-May-24,101,30-Aug-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,73.8,0,1,Canceled
+Resort Hotel - Jaipur,Australia,CUST_488,INN00073,22-Oct-24,2,24-Oct-24,0,2,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,0,91.5,0,0,Check-Out
+Resort Hotel - Ahmedabad,Germany,CUST_395,INN00074,15-Dec-24,15,30-Dec-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,114.5,0,0,Check-Out
+Resort Hotel - Lucknow,India,CUST_300,INN00075,23-Dec-23,51,12-Feb-24,0,2,3,0,1,BB,Online TA,0,0,0,A,A,0,1,110.3,0,0,Canceled
+Resort Hotel - Lucknow,Australia,CUST_468,INN00076,11-Aug-24,3,14-Aug-24,1,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,90.9,1,0,Check-Out
+Resort Hotel - Kochi,France,CUST_546,INN00077,16-Nov-23,48,3-Jan-24,1,2,2,0,1,BB,Online TA,0,0,0,E,E,0,0,123,0,0,Canceled
+Resort Hotel - Mumbai,India,CUST_390,INN00078,4-Jul-24,2,6-Jul-24,2,2,1,0,0,BB,Online TA,0,0,0,A,A,0,1,122,0,0,Check-Out
+Resort Hotel - Chennai,UAE,CUST_517,INN00079,14-Nov-23,72,25-Jan-24,2,2,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,110.7,1,0,Check-Out
+Resort Hotel - Bhopal,Germany,CUST_035,INN00080,29-Feb-24,81,20-May-24,2,6,3,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,85.86,0,0,Check-Out
+Resort Hotel - Kolkata,India,CUST_262,INN00081,5-May-24,99,12-Aug-24,2,7,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,2,58.95,0,0,Check-Out
+Resort Hotel - Jaipur,UAE,CUST_247,INN00082,26-Dec-23,368,28-Dec-24,3,7,2,0,1,BB,Offline TA/TO,0,0,0,A,A,0,0,55.68,0,0,Canceled
+Resort Hotel - Pune,Germany,CUST_065,INN00083,11-Nov-23,364,9-Nov-24,3,7,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,2,55.68,0,0,Check-Out
+Resort Hotel - Jaipur,UAE,CUST_477,INN00084,7-Mar-24,81,27-May-24,3,7,2,0,1,HB,Direct,0,0,0,A,A,2,0,124,0,1,Canceled
+Resort Hotel - Pune,Australia,CUST_358,INN00085,13-Jul-24,99,20-Oct-24,3,7,2,0,0,HB,Offline TA/TO,0,0,0,E,E,0,2,111.15,0,0,Check-Out
+Resort Hotel - Jaipur,Australia,CUST_488,INN00086,3-May-23,324,22-Mar-24,4,10,2,0,0,HB,Offline TA/TO,0,0,0,E,E,0,0,134.73,0,0,Check-Out
+Resort Hotel - Bhopal,Germany,CUST_595,INN00087,22-Sep-24,69,30-Nov-24,4,10,2,0,0,BB,Online TA,0,0,0,F,F,1,1,92.45,0,1,Check-Out
+Resort Hotel - Chandigarh,Australia,CUST_308,INN00088,9-Dec-23,79,26-Feb-24,6,15,2,1,1,BB,Offline TA/TO,0,0,0,A,A,0,3,108.73,0,2,Canceled
+Resort Hotel - Chennai,France,CUST_236,INN00089,1-Jun-24,12,13-Jun-24,0,1,2,0,0,BB,Online TA,0,0,0,A,C,0,1,73.8,0,0,Check-Out
+Resort Hotel - Delhi,France,CUST_106,INN00090,16-Sep-24,9,25-Sep-24,0,1,2,0,0,BB,Online TA,0,0,0,A,C,0,0,98,1,2,Check-Out
+Resort Hotel - Chennai,France,CUST_136,INN00091,5-Sep-24,1,6-Sep-24,0,1,2,0,0,BB,Online TA,0,0,0,A,C,0,1,131,0,1,Check-Out
+Resort Hotel - Ahmedabad,Canada,CUST_389,INN00092,14-Apr-24,21,5-May-24,0,1,2,0,0,BB,Online TA,0,0,0,E,E,0,0,123,0,0,Check-Out
+Resort Hotel - Delhi,India,CUST_560,INN00093,15-Sep-24,9,24-Sep-24,0,1,2,0,0,BB,Online TA,0,0,0,C,C,0,1,94.71,0,0,Check-Out
+Resort Hotel - Hyderabad,Australia,CUST_218,INN00094,30-Apr-24,109,17-Aug-24,0,1,2,0,0,BB,Online TA,0,0,0,A,A,0,0,123,0,2,Check-Out
+Resort Hotel - Bangalore,UK,CUST_274,INN00095,20-May-24,109,6-Sep-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,123,0,1,Canceled
+Resort Hotel - Bhopal,India,CUST_500,INN00096,9-Jan-24,72,21-Mar-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,73.8,0,1,Canceled
+Resort Hotel - Hyderabad,Australia,CUST_578,INN00097,18-Jul-24,63,19-Sep-24,2,5,2,0,1,BB,Online TA,0,0,0,F,F,0,2,117,0,1,Canceled
+Resort Hotel - Hyderabad,Canada,CUST_069,INN00098,19-Sep-24,63,21-Nov-24,2,5,3,0,0,HB,Offline TA/TO,0,0,0,E,E,0,0,196.54,0,1,Check-Out
+Resort Hotel - Lucknow,UK,CUST_004,INN00099,12-Oct-23,101,21-Jan-24,2,5,2,1,0,BB,Online TA,0,0,0,D,D,0,1,99.3,1,2,Check-Out
+Resort Hotel - Mumbai,Canada,CUST_329,INN00100,22-Sep-23,102,2-Jan-24,2,5,2,0,0,BB,Direct,0,0,0,E,E,0,1,90.95,0,0,Check-Out
+Resort Hotel - Chandigarh,UAE,CUST_357,INN00101,1-Aug-24,4,5-Aug-24,2,1,2,0,0,BB,Direct,0,0,0,A,C,0,0,92.67,0,1,Check-Out
+Resort Hotel - Lucknow,USA,CUST_293,INN00102,8-Jan-24,98,15-Apr-24,2,1,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,71.55,1,0,Check-Out
+Resort Hotel - Ahmedabad,USA,CUST_513,INN00103,30-Jan-24,92,1-May-24,2,4,1,2,0,BB,Offline TA/TO,0,0,0,F,F,0,1,96.49,0,2,Check-Out
+Resort Hotel - Indore,UAE,CUST_117,INN00104,7-Jun-24,95,10-Sep-24,2,4,2,0,0,BB,Online TA,0,0,0,A,C,0,1,85.8,1,2,Check-Out
+Resort Hotel - Kochi,Germany,CUST_205,INN00105,6-Jun-24,102,16-Sep-24,2,5,2,0,0,BB,Online TA,0,0,0,E,E,0,0,96.3,0,1,Check-Out
+Resort Hotel - Jaipur,Australia,CUST_448,INN00106,21-Jan-24,26,16-Feb-24,2,5,2,2,1,BB,Online TA,0,0,0,H,H,0,1,163,0,0,Canceled
+Resort Hotel - Lucknow,India,CUST_090,INN00107,4-Oct-24,73,16-Dec-24,2,5,3,0,1,HB,Direct,0,0,0,D,D,0,0,172,0,1,Canceled
+Resort Hotel - Goa,India,CUST_312,INN00108,26-Dec-23,102,6-Apr-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,0,110.7,0,1,Canceled
+Resort Hotel - Hyderabad,France,CUST_346,INN00109,15-Feb-24,115,9-Jun-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,2,58.95,0,1,Check-Out
+Resort Hotel - Chennai,Canada,CUST_309,INN00110,13-Sep-24,102,24-Dec-24,2,5,2,1,0,BB,Online TA,0,0,0,A,A,0,1,73.8,0,2,Check-Out
+Resort Hotel - Bangalore,India,CUST_390,INN00111,3-Apr-24,86,28-Jun-24,2,5,2,0,0,BB,Online TA,0,0,0,D,D,0,1,97,0,2,Check-Out
+Resort Hotel - Kochi,India,CUST_270,INN00112,22-Aug-24,78,8-Nov-24,2,5,2,1,0,HB,Online TA,0,0,0,E,F,0,0,139,0,2,Check-Out
+Resort Hotel - Chandigarh,UK,CUST_454,INN00113,3-Apr-24,52,25-May-24,2,5,2,0,0,BB,Online TA,0,0,0,A,A,0,0,67.24,0,0,Check-Out
+Resort Hotel - Goa,Germany,CUST_055,INN00114,14-Apr-24,29,13-May-24,2,6,3,0,0,BB,Online TA,0,0,0,E,E,0,0,116.5,0,1,Check-Out
+Resort Hotel - Delhi,Canada,CUST_249,INN00115,4-Jan-24,101,14-Apr-24,2,6,2,0,1,BB,Online TA,0,0,0,E,E,0,0,96.3,0,1,Canceled
+Resort Hotel - Delhi,India,CUST_501,INN00116,6-Oct-23,109,23-Jan-24,2,6,2,0,0,BB,Online TA,0,0,0,A,A,0,2,123,0,1,Check-Out
+Resort Hotel - Delhi,India,CUST_451,INN00117,25-Feb-24,92,27-May-24,4,6,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,71.55,0,1,Check-Out
+Resort Hotel - Mumbai,India,CUST_491,INN00118,7-Jun-24,92,7-Sep-24,4,6,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,71.55,0,1,Check-Out
+Resort Hotel - Bangalore,Germany,CUST_085,INN00119,12-Nov-23,79,30-Jan-24,4,6,2,1,0,HB,Direct,0,0,0,D,D,1,2,149,0,1,Check-Out
+Resort Hotel - Ahmedabad,UAE,CUST_177,INN00120,1-Oct-24,2,3-Oct-24,0,1,2,2,0,BB,Online TA,0,0,0,H,G,1,1,163,1,0,Check-Out
+Resort Hotel - Bangalore,Germany,CUST_595,INN00121,5-Dec-23,30,4-Jan-24,0,1,2,0,0,BB,Offline TA/TO,0,0,0,D,C,0,1,79.5,0,0,Check-Out
+Resort Hotel - Chennai,Australia,CUST_048,INN00122,28-Oct-24,51,18-Dec-24,0,1,1,0,1,HB,Online TA,0,0,0,A,A,0,1,105,0,0,Canceled
+Resort Hotel - Bangalore,USA,CUST_363,INN00123,2-Oct-24,36,7-Nov-24,0,1,1,0,1,BB,Direct,0,0,0,E,G,1,1,123,0,0,No-Show
+Resort Hotel - Ahmedabad,Australia,CUST_198,INN00124,21-Mar-24,73,2-Jun-24,0,1,2,0,1,BB,Online TA,0,0,0,A,A,0,1,73.8,0,2,Canceled
+Resort Hotel - Bhopal,USA,CUST_083,INN00125,19-Jun-24,33,22-Jul-24,0,1,2,0,1,BB,Online TA,0,0,0,D,D,0,1,113,0,0,Canceled
+Resort Hotel - Delhi,India,CUST_010,INN00126,15-Apr-24,32,17-May-24,0,1,4,0,0,FB,Complementary,0,0,0,H,H,2,2,0,0,1,Check-Out
+Resort Hotel - Jaipur,India,CUST_462,INN00127,2-Jan-24,8,10-Jan-24,0,1,2,0,0,BB,Online TA,0,0,0,E,E,0,0,123,0,0,Check-Out
+Resort Hotel - Goa,Canada,CUST_099,INN00128,13-Apr-24,100,22-Jul-24,1,1,2,0,0,BB,Online TA,0,0,0,A,C,0,1,73.8,1,1,Check-Out
+Resort Hotel - Pune,India,CUST_282,INN00129,30-Sep-24,1,1-Oct-24,1,1,2,0,0,BB,Online TA,0,0,0,A,A,0,1,114.5,0,0,Check-Out
+Resort Hotel - Bhopal,Australia,CUST_208,INN00130,17-Apr-24,100,26-Jul-24,1,1,2,0,0,BB,Online TA,0,0,0,A,A,0,0,73.8,0,2,Check-Out
+Resort Hotel - Chandigarh,India,CUST_162,INN00131,9-May-24,100,17-Aug-24,1,1,2,0,0,BB,Online TA,0,0,0,A,C,0,0,73.8,0,1,Check-Out
+Resort Hotel - Pune,India,CUST_181,INN00132,17-Oct-24,9,26-Oct-24,1,0,2,0,0,BB,Online TA,0,0,0,A,C,0,0,88.2,0,1,Check-Out
+Resort Hotel - Mumbai,Australia,CUST_108,INN00133,11-Dec-24,5,16-Dec-24,1,0,2,0,1,BB,Online TA,0,0,0,D,D,0,0,97,0,0,Canceled
+Resort Hotel - Goa,UAE,CUST_417,INN00134,4-May-24,0,4-May-24,1,0,2,0,0,BB,Online TA,0,0,0,A,C,1,0,85.1,0,0,Check-Out
+Resort Hotel - Lucknow,UAE,CUST_067,INN00135,22-Jul-24,9,31-Jul-24,1,0,1,0,0,BB,Online TA,0,0,0,A,A,0,1,89,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_362,INN00136,3-Oct-24,2,5-Oct-24,1,0,1,0,0,BB,Online TA,0,0,0,A,D,0,1,80.1,0,0,Check-Out
+Resort Hotel - Delhi,Germany,CUST_225,INN00137,25-Mar-24,2,27-Mar-24,1,0,2,0,0,BB,Online TA,0,0,0,A,E,0,0,98,0,0,Check-Out
+Resort Hotel - Pune,UAE,CUST_447,INN00138,5-Jun-24,9,14-Jun-24,1,0,1,0,0,BB,Online TA,0,0,0,A,A,0,0,101,1,0,Check-Out
+Resort Hotel - Goa,UAE,CUST_397,INN00139,21-Jun-24,5,26-Jun-24,1,0,2,0,1,BB,Online TA,0,0,0,D,D,0,1,97,0,0,Canceled
+Resort Hotel - Chandigarh,France,CUST_516,INN00140,17-May-24,2,19-May-24,1,0,2,0,0,BB,Direct,0,0,0,G,G,0,0,167,0,1,Check-Out
+Resort Hotel - Indore,Canada,CUST_369,INN00141,5-Apr-24,44,19-May-24,2,0,3,0,0,HB,Online TA,0,0,0,G,G,3,2,225,2,0,Check-Out
+Resort Hotel - Goa,Australia,CUST_058,INN00142,7-Apr-24,80,26-Jun-24,2,0,2,0,0,BB,Online TA,0,0,0,D,E,0,1,97,1,0,Check-Out
+Resort Hotel - Bangalore,UAE,CUST_127,INN00143,25-Oct-23,97,30-Jan-24,2,2,2,0,0,BB,Online TA,0,0,0,D,D,0,0,87.3,0,2,Check-Out
+Resort Hotel - Chandigarh,UK,CUST_084,INN00144,23-Jul-24,109,9-Nov-24,2,3,2,1,0,BB,Offline TA/TO,0,0,0,A,D,0,0,85.59,1,2,Check-Out
+Resort Hotel - Bhopal,France,CUST_286,INN00145,23-Aug-24,30,22-Sep-24,2,3,2,0,0,BB,Online TA,0,0,0,E,E,0,3,123,0,0,Check-Out
+Resort Hotel - Pune,Germany,CUST_095,INN00146,22-Oct-24,64,25-Dec-24,2,3,2,0,0,BB,Online TA,0,0,0,E,E,0,1,107,0,0,Check-Out
+Resort Hotel - Hyderabad,France,CUST_396,INN00147,25-Oct-24,39,3-Dec-24,2,4,2,0,0,BB,Online TA,0,0,0,H,H,0,0,163,0,0,Check-Out
+Resort Hotel - Mumbai,UK,CUST_554,INN00148,1-Jul-24,90,29-Sep-24,2,4,2,0,0,BB,Online TA,0,0,0,A,A,0,0,82,0,0,Check-Out
+Resort Hotel - Hyderabad,India,CUST_452,INN00149,3-Nov-24,34,7-Dec-24,2,4,2,2,1,BB,Online TA,0,0,0,H,H,0,1,163,0,0,Canceled
+Resort Hotel - Ahmedabad,Australia,CUST_328,INN00150,14-Nov-23,93,15-Feb-24,2,5,2,0,1,HB,Offline TA/TO,0,0,0,D,D,0,1,105.5,0,0,Canceled
+Resort Hotel - Chandigarh,France,CUST_076,INN00151,29-Oct-23,97,3-Feb-24,2,5,2,2,0,HB,Direct,0,0,0,C,C,1,1,164.2,1,1,Check-Out
+Resort Hotel - Chennai,UAE,CUST_597,INN00152,4-Jul-24,29,2-Aug-24,2,5,2,0,0,BB,Online TA,0,0,0,F,F,0,0,97.29,0,1,Check-Out
+Resort Hotel - Pune,India,CUST_370,INN00153,27-Jul-24,101,5-Nov-24,2,5,2,0,1,HB,Online TA,0,0,0,A,A,0,0,114,0,1,Canceled
+Resort Hotel - Bangalore,UK,CUST_304,INN00154,24-Nov-24,27,21-Dec-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,0,98.4,0,0,Check-Out
+Resort Hotel - Delhi,India,CUST_421,INN00155,12-Aug-24,8,20-Aug-24,4,5,2,2,0,BB,Online TA,0,0,0,H,H,1,1,175,1,1,Check-Out
+Resort Hotel - Kochi,France,CUST_146,INN00156,1-May-24,82,22-Jul-24,4,6,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,63.6,1,2,Check-Out
+Resort Hotel - Delhi,India,CUST_131,INN00157,13-Oct-23,94,15-Jan-24,4,6,3,0,0,BB,Direct,0,0,0,D,C,3,2,124.45,1,1,Check-Out
+Resort Hotel - Lucknow,India,CUST_322,INN00158,17-Oct-23,110,4-Feb-24,4,7,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,110.7,0,0,Check-Out
+Resort Hotel - Kochi,USA,CUST_473,INN00159,30-Sep-23,96,4-Jan-24,4,10,1,0,0,HB,Offline TA/TO,0,0,0,A,A,0,0,74.07,0,0,Check-Out
+Resort Hotel - Chennai,UK,CUST_064,INN00160,25-Sep-24,79,13-Dec-24,4,10,2,0,0,HB,Offline TA/TO,0,0,0,D,D,0,0,134.1,0,0,Check-Out
+Resort Hotel - Indore,India,CUST_022,INN00161,18-Dec-23,115,11-Apr-24,1,4,2,2,0,BB,Online TA,0,0,0,G,G,1,2,167,0,0,Check-Out
+Resort Hotel - Bangalore,Germany,CUST_595,INN00162,14-Mar-24,111,3-Jul-24,1,3,2,0,0,BB,Online TA,0,0,0,A,C,0,1,123,0,2,Check-Out
+Resort Hotel - Mumbai,India,CUST_572,INN00163,9-Mar-24,51,29-Apr-24,1,3,2,0,0,BB,Online TA,0,0,0,G,G,0,2,117.81,1,2,Check-Out
+Resort Hotel - Kochi,USA,CUST_083,INN00164,2-Oct-23,94,4-Jan-24,1,3,3,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,171.32,0,1,Check-Out
+Resort Hotel - Hyderabad,India,CUST_281,INN00165,26-Nov-23,81,15-Feb-24,1,3,2,2,0,HB,Direct,0,0,0,G,G,0,0,210,1,0,Check-Out
+Resort Hotel - Kolkata,Canada,CUST_439,INN00166,8-May-24,84,31-Jul-24,1,3,2,1,0,BB,Online TA,0,0,0,D,E,1,2,97,0,2,Check-Out
+Resort Hotel - Jaipur,UK,CUST_364,INN00167,20-Feb-24,51,11-Apr-24,1,3,3,0,0,BB,Online TA,0,0,0,G,G,0,1,117.81,0,2,Check-Out
+Resort Hotel - Kochi,India,CUST_172,INN00168,4-Jul-24,111,23-Oct-24,0,0,2,0,0,BB,Online TA,0,0,0,A,H,0,0,0,0,2,Check-Out
+Resort Hotel - Goa,India,CUST_001,INN00169,5-Oct-24,0,5-Oct-24,0,0,1,0,0,BB,Direct,0,0,0,E,H,0,1,0,0,0,Check-Out
+Resort Hotel - Kochi,Canada,CUST_579,INN00170,7-Oct-24,2,9-Oct-24,1,0,2,1,0,BB,Direct,0,0,0,A,E,0,1,131,0,0,Check-Out
+Resort Hotel - Chandigarh,UAE,CUST_137,INN00171,16-Dec-24,7,23-Dec-24,1,1,2,0,0,BB,Online TA,0,0,0,A,E,0,3,98,0,2,Check-Out
+Resort Hotel - Chennai,India,CUST_500,INN00172,5-Aug-24,98,11-Nov-24,1,1,2,0,0,BB,Online TA,0,0,0,D,F,0,1,87.3,1,1,Check-Out
+Resort Hotel - Kochi,India,CUST_410,INN00173,16-Apr-24,95,20-Jul-24,1,2,2,0,0,BB,Online TA,0,0,0,D,D,0,1,97,0,1,Check-Out
+Resort Hotel - Indore,UAE,CUST_207,INN00174,17-Oct-24,48,4-Dec-24,1,3,2,0,1,HB,Online TA,0,0,0,E,E,0,1,167,0,0,Canceled
+Resort Hotel - Indore,UK,CUST_244,INN00175,27-Dec-23,66,2-Mar-24,1,3,2,0,0,HB,Offline TA/TO,0,0,0,A,E,0,0,91.5,0,0,Check-Out
+Resort Hotel - Indore,Australia,CUST_328,INN00176,29-Oct-23,104,10-Feb-24,1,3,2,0,0,BB,Online TA,0,0,0,A,C,1,1,73.8,0,1,Check-Out
+Resort Hotel - Lucknow,India,CUST_230,INN00177,22-Feb-24,28,21-Mar-24,1,4,2,0,0,BB,Online TA,0,0,0,E,E,0,0,123,0,0,Check-Out
+Resort Hotel - Jaipur,Canada,CUST_599,INN00178,28-Aug-24,34,1-Oct-24,1,4,2,0,0,HB,Direct,0,0,0,F,F,0,2,175,1,0,Check-Out
+Resort Hotel - Lucknow,France,CUST_246,INN00179,18-Jul-24,98,24-Oct-24,1,5,2,0,0,HB,Online TA,0,0,0,A,C,0,0,117.8,1,1,Check-Out
+Resort Hotel - Kolkata,India,CUST_351,INN00180,6-Dec-23,104,19-Mar-24,1,5,2,0,0,BB,Online TA,0,0,0,E,E,1,0,117.63,0,0,Check-Out
+Resort Hotel - Kochi,Canada,CUST_489,INN00181,11-Dec-23,68,17-Feb-24,2,5,2,2,0,HB,Online TA,0,0,0,G,G,0,1,185,0,0,Check-Out
+Resort Hotel - Delhi,USA,CUST_373,INN00182,6-Dec-23,86,1-Mar-24,2,5,1,0,1,HB,Offline TA/TO,0,0,0,A,A,0,1,71,0,1,Canceled
+Resort Hotel - Jaipur,Canada,CUST_349,INN00183,9-Jun-23,258,22-Feb-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,2,47.25,0,0,Check-Out
+Resort Hotel - Bangalore,Canada,CUST_509,INN00184,2-Oct-23,111,21-Jan-24,3,5,2,0,0,HB,Online TA,0,0,0,A,C,0,0,151,0,1,Check-Out
+Resort Hotel - Chandigarh,UAE,CUST_117,INN00185,17-Mar-24,94,19-Jun-24,3,7,2,0,1,BB,Online TA,0,0,0,D,D,0,1,87.3,0,0,Canceled
+Resort Hotel - Hyderabad,Australia,CUST_008,INN00186,4-Mar-24,112,24-Jun-24,3,7,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,120.6,0,1,Check-Out
+Resort Hotel - Hyderabad,USA,CUST_233,INN00187,29-Jun-24,100,7-Oct-24,3,7,2,0,0,BB,Offline TA/TO,0,0,0,D,D,1,0,63.86,0,1,Check-Out
+Resort Hotel - Pune,UAE,CUST_577,INN00188,2-Feb-24,33,6-Mar-24,3,7,2,0,0,HB,Direct,0,0,0,F,F,5,1,157.1,0,1,Check-Out
+Resort Hotel - Lucknow,Australia,CUST_518,INN00189,8-Jan-24,97,14-Apr-24,3,7,2,0,0,HB,Offline TA/TO,0,0,0,D,D,0,0,91.37,0,2,Check-Out
+Resort Hotel - Ahmedabad,Australia,CUST_228,INN00190,25-Sep-24,80,14-Dec-24,3,8,1,0,0,BB,Direct,0,0,0,A,A,1,2,73,0,0,Check-Out
+Resort Hotel - Kolkata,Canada,CUST_369,INN00191,15-Nov-23,90,13-Feb-24,4,10,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,2,110.7,0,0,Check-Out
+Resort Hotel - Lucknow,UAE,CUST_517,INN00192,3-Mar-24,111,22-Jun-24,4,10,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,93.6,0,0,Check-Out
+Resort Hotel - Chennai,USA,CUST_123,INN00193,1-Oct-24,65,5-Dec-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,83.5,0,0,Check-Out
+Resort Hotel - Goa,Australia,CUST_338,INN00194,14-Apr-24,67,20-Jun-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,73.8,0,1,Canceled
+Resort Hotel - Jaipur,Canada,CUST_449,INN00195,22-Jul-24,55,15-Sep-24,0,3,2,0,0,BB,Online TA,0,0,0,A,A,0,0,82,1,2,Check-Out
+Resort Hotel - Chennai,Australia,CUST_598,INN00196,29-Nov-24,21,20-Dec-24,0,3,2,1,0,HB,Direct,0,0,0,F,F,0,1,185.5,0,1,Check-Out
+Resort Hotel - Lucknow,India,CUST_430,INN00197,27-Jul-24,8,4-Aug-24,0,0,2,0,0,BB,Direct,0,0,0,A,A,0,0,0,0,1,Check-Out
+Resort Hotel - Chandigarh,France,CUST_526,INN00198,25-Jun-24,8,3-Jul-24,0,0,2,0,0,BB,Online TA,0,0,0,A,E,0,2,0,0,1,Check-Out
+Resort Hotel - Kolkata,Australia,CUST_198,INN00199,12-Sep-24,0,12-Sep-24,0,1,1,0,0,BB,Online TA,0,0,0,A,A,0,1,109.8,0,3,Check-Out
+Resort Hotel - Kolkata,India,CUST_280,INN00200,21-Jun-24,0,21-Jun-24,0,1,3,0,0,HB,Direct,0,0,0,C,C,0,0,195,1,0,Check-Out
+Resort Hotel - Bhopal,UAE,CUST_077,INN00201,18-Aug-24,0,18-Aug-24,0,1,1,0,0,BB,Online TA,0,0,0,A,A,0,1,109.8,0,3,Check-Out
+Resort Hotel - Kolkata,India,CUST_370,INN00202,31-Oct-24,8,8-Nov-24,0,4,3,2,0,BB,Online TA,0,0,0,H,H,2,0,193,0,1,Check-Out
+Resort Hotel - Chandigarh,UAE,CUST_437,INN00203,3-Apr-24,66,8-Jun-24,0,4,2,0,0,BB,Online TA,0,0,0,D,D,0,0,97,0,2,Check-Out
+Resort Hotel - Bhopal,India,CUST_040,INN00204,30-Apr-24,88,27-Jul-24,0,4,3,0,0,HB,Offline TA/TO,0,0,0,D,E,0,0,150,0,1,Check-Out
+Resort Hotel - Bangalore,Canada,CUST_059,INN00205,8-Jul-24,0,8-Jul-24,0,4,2,0,0,BB,Direct,0,0,0,A,A,2,1,98,0,0,Check-Out
+Resort Hotel - Kochi,USA,CUST_243,INN00206,9-Oct-24,43,21-Nov-24,0,5,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,3,91.5,0,0,Canceled
+Resort Hotel - Jaipur,India,CUST_291,INN00207,29-May-24,88,25-Aug-24,2,5,2,0,1,HB,Online TA,0,0,0,E,E,0,1,139,0,2,Canceled
+Resort Hotel - Indore,UAE,CUST_037,INN00208,9-Jan-24,54,3-Mar-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,79.5,0,0,Check-Out
+Resort Hotel - Lucknow,India,CUST_031,INN00209,9-Jun-23,292,27-Mar-24,2,5,2,0,1,BB,Offline TA/TO,0,0,0,A,A,0,1,47.25,0,0,Canceled
+Resort Hotel - Jaipur,India,CUST_262,INN00210,22-Feb-24,112,13-Jun-24,4,10,2,0,0,HB,Offline TA/TO,0,0,0,D,D,0,2,126.65,0,1,Check-Out
+Resort Hotel - Kochi,Canada,CUST_119,INN00211,28-Jun-24,68,4-Sep-24,0,3,2,0,0,BB,Online TA,0,0,0,E,E,0,2,107,0,1,Check-Out
+Resort Hotel - Mumbai,India,CUST_422,INN00212,19-Jan-24,7,26-Jan-24,0,4,2,0,0,BB,Online TA,0,0,0,A,A,0,1,131,1,2,Check-Out
+Resort Hotel - Kolkata,India,CUST_280,INN00213,31-May-24,1,1-Jun-24,0,4,2,0,0,BB,Online TA,0,0,0,A,A,0,0,131,1,1,Check-Out
+Resort Hotel - Bhopal,India,CUST_250,INN00214,29-Jun-24,113,20-Oct-24,0,4,2,0,1,BB,Online TA,0,0,0,A,A,0,1,123,0,1,Canceled
+Resort Hotel - Pune,India,CUST_382,INN00215,2-Dec-24,5,7-Dec-24,0,4,2,0,0,BB,Online TA,0,0,0,D,D,0,3,146,0,1,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_581,INN00216,14-Mar-24,83,5-Jun-24,0,4,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,110.7,0,1,Check-Out
+Resort Hotel - Lucknow,Germany,CUST_025,INN00217,11-Mar-24,105,24-Jun-24,0,4,2,0,1,BB,Online TA,0,0,0,A,A,0,1,73.8,0,1,Canceled
+Resort Hotel - Ahmedabad,Germany,CUST_245,INN00218,11-Mar-24,0,11-Mar-24,0,1,1,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,61,0,0,Check-Out
+Resort Hotel - Chandigarh,UAE,CUST_397,INN00219,10-Aug-24,1,11-Aug-24,0,1,2,0,1,BB,Corporate,0,0,0,A,A,0,1,104.72,0,1,Canceled
+Resort Hotel - Chandigarh,France,CUST_426,INN00220,17-Sep-24,1,18-Sep-24,0,1,2,0,1,BB,Corporate,0,0,0,A,A,0,1,104.72,0,1,Canceled
+Resort Hotel - Delhi,India,CUST_530,INN00221,12-Oct-24,1,13-Oct-24,0,2,2,0,0,BB,Corporate,0,0,0,A,F,0,1,104.72,1,1,Check-Out
+Resort Hotel - Chandigarh,India,CUST_052,INN00222,24-Jun-24,102,4-Oct-24,1,4,2,0,1,BB,Direct,0,0,0,A,A,0,1,66.42,0,1,Canceled
+Resort Hotel - Kochi,UK,CUST_204,INN00223,14-Dec-23,113,5-Apr-24,2,4,2,0,0,BB,Direct,0,0,0,E,E,1,0,77.96,1,1,Check-Out
+Resort Hotel - Chennai,UK,CUST_264,INN00224,28-Apr-23,280,2-Feb-24,2,5,2,1,1,HB,Offline TA/TO,0,0,0,D,D,0,0,112,0,1,Canceled
+Resort Hotel - Chandigarh,Germany,CUST_085,INN00225,10-Oct-23,96,14-Jan-24,2,5,2,0,0,BB,Online TA,0,0,0,E,F,0,2,107,0,1,Check-Out
+Resort Hotel - Kolkata,Canada,CUST_549,INN00226,21-Dec-22,394,19-Jan-24,2,5,2,0,0,HB,Offline TA/TO,0,0,0,D,D,0,0,89.68,0,0,Check-Out
+Resort Hotel - Jaipur,UAE,CUST_317,INN00227,14-Mar-24,33,16-Apr-24,2,5,2,0,0,HB,Online TA,0,0,0,E,E,0,0,155,0,0,Check-Out
+Resort Hotel - Goa,USA,CUST_163,INN00228,8-Jun-24,82,29-Aug-24,2,6,3,0,0,BB,Direct,0,0,0,A,A,0,0,112,0,1,Check-Out
+Resort Hotel - Chandigarh,India,CUST_141,INN00229,12-Jul-24,100,20-Oct-24,2,7,3,0,0,BB,Online TA,0,0,0,E,E,1,0,130.1,0,3,Check-Out
+Resort Hotel - Mumbai,Germany,CUST_345,INN00230,22-Oct-23,100,30-Jan-24,2,7,2,0,0,BB,Online TA,0,0,0,E,E,0,0,100.1,0,2,Check-Out
+Resort Hotel - Delhi,UAE,CUST_077,INN00231,12-Nov-24,17,29-Nov-24,0,1,2,2,0,BB,Online TA,0,0,0,C,C,0,1,123,0,3,Check-Out
+Resort Hotel - Pune,France,CUST_056,INN00232,30-Jan-24,68,7-Apr-24,0,2,3,0,0,BB,Direct,0,0,0,A,C,0,2,124,1,1,Check-Out
+Resort Hotel - Mumbai,UAE,CUST_107,INN00233,3-Nov-24,12,15-Nov-24,0,2,2,2,0,BB,Direct,0,0,0,H,G,2,1,146,1,0,Check-Out
+Resort Hotel - Hyderabad,France,CUST_356,INN00234,31-Aug-24,77,16-Nov-24,0,3,2,0,1,BB,Direct,0,0,0,D,D,0,1,97,0,0,Canceled
+Resort Hotel - Kolkata,USA,CUST_103,INN00235,26-May-24,24,19-Jun-24,0,3,2,2,1,BB,Online TA,0,0,0,C,C,0,1,123,0,1,Canceled
+Resort Hotel - Goa,France,CUST_576,INN00236,18-Jun-24,44,1-Aug-24,0,3,2,2,1,BB,Online TA,0,0,0,G,G,0,1,153,0,0,Canceled
+Resort Hotel - Bangalore,Germany,CUST_185,INN00237,9-Jan-24,78,27-Mar-24,0,3,2,1,0,BB,Online TA,0,0,0,A,A,0,0,82,0,2,Check-Out
+Resort Hotel - Chandigarh,France,CUST_266,INN00238,21-May-24,17,7-Jun-24,1,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,105.08,0,0,Canceled
+Resort Hotel - Chennai,USA,CUST_503,INN00239,29-Jul-24,103,9-Nov-24,1,3,2,0,1,BB,Online TA,0,0,0,A,A,0,1,65.42,0,0,Canceled
+Resort Hotel - Bangalore,India,CUST_461,INN00240,18-Aug-24,16,3-Sep-24,1,3,1,0,0,BB,Direct,0,0,0,A,A,0,1,98,0,1,Check-Out
+Resort Hotel - Bangalore,India,CUST_051,INN00241,23-Oct-24,14,6-Nov-24,2,3,2,0,0,BB,Online TA,0,0,0,A,A,0,1,75.46,1,1,Check-Out
+Resort Hotel - Bangalore,Canada,CUST_359,INN00242,8-Nov-23,77,24-Jan-24,2,3,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,2,65.5,0,0,Check-Out
+Resort Hotel - Chandigarh,Australia,CUST_318,INN00243,24-Aug-24,90,22-Nov-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,D,0,0,90.95,0,0,Check-Out
+Resort Hotel - Chandigarh,UK,CUST_464,INN00244,17-Feb-24,90,17-May-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,93.6,0,0,Check-Out
+Resort Hotel - Mumbai,India,CUST_352,INN00245,11-Mar-24,90,9-Jun-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,1,119.25,0,0,Check-Out
+Resort Hotel - Bhopal,India,CUST_570,INN00246,24-Nov-23,366,24-Nov-24,2,5,2,0,0,HB,Offline TA/TO,0,0,0,E,E,0,1,134.73,0,0,Check-Out
+Resort Hotel - Bangalore,India,CUST_130,INN00247,29-Jun-23,249,4-Mar-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,0,1,112,0,1,Check-Out
+Resort Hotel - Lucknow,UK,CUST_074,INN00248,10-Nov-23,69,18-Jan-24,2,6,2,0,1,HB,Online TA,0,0,0,A,A,0,0,118.13,0,2,Canceled
+Resort Hotel - Chandigarh,India,CUST_400,INN00249,21-Oct-24,10,31-Oct-24,0,1,2,0,0,BB,Direct,0,0,0,A,A,0,1,131,0,0,Check-Out
+Resort Hotel - Hyderabad,UAE,CUST_407,INN00250,20-Aug-24,22,11-Sep-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,0,88.2,0,0,Check-Out
+Resort Hotel - Bhopal,France,CUST_136,INN00251,14-Mar-24,91,13-Jun-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,73.8,0,1,Check-Out
+Resort Hotel - Bhopal,India,CUST_400,INN00252,15-Mar-24,23,7-Apr-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,98,0,0,Check-Out
+Resort Hotel - Mumbai,UAE,CUST_477,INN00253,9-Feb-24,11,20-Feb-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,0,110.5,0,1,Check-Out
+Resort Hotel - Kochi,India,CUST_130,INN00254,4-Apr-24,3,7-Apr-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,131,0,1,Check-Out
+Resort Hotel - Jaipur,UAE,CUST_537,INN00255,5-Nov-24,13,18-Nov-24,0,2,2,1,0,HB,Online TA,0,0,0,G,G,2,1,185,1,1,Check-Out
+Resort Hotel - Goa,India,CUST_291,INN00256,13-Jun-24,108,29-Sep-24,0,2,2,0,0,BB,Online TA,0,0,0,D,D,1,1,87.3,0,2,Check-Out
+Resort Hotel - Kolkata,India,CUST_010,INN00257,2-Feb-24,91,3-May-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,2,73.8,0,1,Check-Out
+Resort Hotel - Jaipur,Australia,CUST_128,INN00258,18-Aug-24,37,24-Sep-24,1,2,2,0,0,BB,Online TA,0,0,0,C,C,0,1,120,0,1,Check-Out
+Resort Hotel - Chennai,Canada,CUST_299,INN00259,17-Feb-24,21,9-Mar-24,1,2,2,0,0,BB,Direct,0,0,0,A,C,0,1,98,0,1,Check-Out
+Resort Hotel - Pune,UAE,CUST_107,INN00260,10-Dec-23,106,25-Mar-24,1,2,2,0,0,BB,Online TA,0,0,0,E,E,0,1,96.3,0,2,Check-Out
+Resort Hotel - Indore,France,CUST_326,INN00261,13-Jun-24,30,13-Jul-24,2,2,2,0,0,FB,Direct,0,0,0,F,F,0,2,197,0,1,Check-Out
+Resort Hotel - Delhi,Australia,CUST_268,INN00262,3-Aug-24,30,2-Sep-24,2,2,2,0,0,FB,Direct,0,0,0,F,F,0,0,197,0,1,Check-Out
+Resort Hotel - Lucknow,India,CUST_082,INN00263,9-Sep-24,51,30-Oct-24,2,3,2,0,1,BB,Online TA,0,0,0,E,E,0,0,123,0,0,Canceled
+Resort Hotel - Goa,Germany,CUST_455,INN00264,3-Sep-24,79,21-Nov-24,2,3,2,0,0,BB,Online TA,0,0,0,A,A,0,1,82,0,2,Check-Out
+Resort Hotel - Lucknow,USA,CUST_013,INN00265,28-Nov-24,21,19-Dec-24,2,3,2,2,0,HB,Direct,0,0,0,C,C,1,1,165,1,3,Check-Out
+Resort Hotel - Indore,France,CUST_306,INN00266,10-May-24,35,14-Jun-24,2,3,2,2,0,BB,Online TA,0,0,0,G,G,0,1,149.4,0,0,Check-Out
+Resort Hotel - Delhi,India,CUST_250,INN00267,24-Jun-24,78,10-Sep-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,1,1,106.84,1,2,Check-Out
+Resort Hotel - Indore,France,CUST_066,INN00268,12-Jan-24,31,12-Feb-24,2,5,2,0,0,HB,Direct,0,0,0,D,D,1,1,161,1,1,Check-Out
+Resort Hotel - Bangalore,France,CUST_366,INN00269,19-May-24,78,5-Aug-24,2,5,2,0,0,HB,Online TA,0,0,0,D,D,1,1,134.43,0,2,Check-Out
+Resort Hotel - Jaipur,UAE,CUST_427,INN00270,11-Apr-24,78,28-Jun-24,2,5,2,0,0,HB,Online TA,0,0,0,E,E,1,1,144.43,1,2,Check-Out
+Resort Hotel - Lucknow,India,CUST_581,INN00271,5-May-24,44,18-Jun-24,2,5,1,0,0,HB,Offline TA/TO,0,0,0,E,E,2,1,152,0,0,Check-Out
+Resort Hotel - Jaipur,UAE,CUST_237,INN00272,28-May-24,34,1-Jul-24,2,5,2,1,0,HB,Online TA,0,0,0,F,F,0,0,125.54,0,3,Check-Out
+Resort Hotel - Pune,Australia,CUST_378,INN00273,7-May-24,87,2-Aug-24,2,5,2,2,0,FB,Offline TA/TO,0,0,0,C,C,0,4,133.83,0,2,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_600,INN00274,4-Sep-24,11,15-Sep-24,2,6,3,1,0,BB,Direct,0,0,0,C,C,0,1,159.75,1,0,Check-Out
+Resort Hotel - Kochi,UK,CUST_094,INN00275,23-Jun-24,115,16-Oct-24,2,7,2,0,0,BB,Online TA,0,0,0,A,A,0,0,120.6,0,2,Check-Out
+Resort Hotel - Chandigarh,India,CUST_232,INN00276,12-Feb-24,86,8-May-24,3,7,2,0,0,BB,Online TA,0,0,0,D,D,0,1,112.2,0,0,Check-Out
+Resort Hotel - Kolkata,India,CUST_412,INN00277,7-Aug-24,41,17-Sep-24,4,7,2,1,0,BB,Online TA,0,0,0,F,F,0,0,110.6,0,0,Check-Out
+Resort Hotel - Lucknow,UK,CUST_004,INN00278,24-Apr-24,32,26-May-24,4,9,2,0,0,BB,Online TA,0,0,0,C,C,0,1,105.9,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_352,INN00279,20-Jun-24,34,24-Jul-24,2,5,2,1,0,HB,Online TA,0,0,0,D,D,0,1,95.27,0,3,Check-Out
+Resort Hotel - Pune,Germany,CUST_455,INN00280,19-Oct-24,34,22-Nov-24,2,5,2,0,0,HB,Online TA,0,0,0,F,F,0,1,108.83,0,1,Check-Out
+Resort Hotel - Delhi,Australia,CUST_508,INN00281,2-Jul-24,100,10-Oct-24,2,3,2,1,1,HB,Offline TA/TO,0,0,0,A,A,0,2,153.96,0,0,Canceled
+Resort Hotel - Kolkata,Germany,CUST_085,INN00282,10-Apr-24,44,24-May-24,2,3,2,0,0,BB,Online TA,0,0,0,A,A,0,2,120.6,0,0,Check-Out
+Resort Hotel - Kolkata,Germany,CUST_195,INN00283,24-Jul-23,304,23-May-24,2,4,2,1,0,BB,Direct,0,0,0,A,A,1,0,90.67,0,1,Check-Out
+Resort Hotel - Delhi,Germany,CUST_315,INN00284,10-Apr-24,36,16-May-24,2,4,2,0,1,BB,Online TA,0,0,0,E,E,0,2,126.67,0,0,Canceled
+Resort Hotel - Delhi,India,CUST_401,INN00285,12-Aug-24,117,7-Dec-24,2,4,3,0,0,HB,Offline TA/TO,0,0,0,D,D,0,0,144.4,0,1,Check-Out
+Resort Hotel - Pune,Australia,CUST_328,INN00286,28-Nov-23,70,6-Feb-24,2,4,2,0,0,BB,Online TA,0,0,0,A,A,0,1,99.5,1,2,Check-Out
+Resort Hotel - Delhi,India,CUST_101,INN00287,19-Dec-23,110,7-Apr-24,2,5,2,0,0,BB,Direct,0,0,0,E,E,0,2,139.4,0,1,Check-Out
+Resort Hotel - Bhopal,Canada,CUST_219,INN00288,28-Jul-24,109,14-Nov-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,0,73.8,0,1,Canceled
+Resort Hotel - Ahmedabad,India,CUST_380,INN00289,26-Jul-24,33,28-Aug-24,2,2,2,0,0,BB,Online TA,0,0,0,E,E,0,1,89.97,0,1,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_101,INN00290,28-May-24,33,30-Jun-24,2,2,2,0,0,BB,Online TA,0,0,0,E,E,0,2,123,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_351,INN00291,19-Feb-24,33,23-Mar-24,2,2,2,0,0,BB,Online TA,0,0,0,E,E,1,0,123,0,0,Check-Out
+Resort Hotel - Kolkata,UK,CUST_224,INN00292,25-Apr-24,0,25-Apr-24,0,1,1,0,0,BB,Direct,0,0,0,A,A,0,1,123,0,0,Check-Out
+Resort Hotel - Hyderabad,Australia,CUST_468,INN00293,20-Sep-24,0,20-Sep-24,0,1,2,0,0,HB,Online TA,0,0,0,A,A,1,1,144.9,0,1,Check-Out
+Resort Hotel - Delhi,USA,CUST_323,INN00294,4-Mar-24,0,4-Mar-24,0,1,2,0,0,BB,Direct,0,0,0,G,G,0,0,153,0,0,Check-Out
+Resort Hotel - Hyderabad,India,CUST_272,INN00295,14-Aug-24,0,14-Aug-24,0,1,2,0,0,BB,Online TA,0,0,0,A,A,0,0,131,0,1,Check-Out
+Resort Hotel - Jaipur,Canada,CUST_499,INN00296,5-Aug-24,84,28-Oct-24,1,1,2,0,0,HB,Corporate,0,0,0,A,A,0,0,100,1,0,Check-Out
+Resort Hotel - Ahmedabad,Canada,CUST_099,INN00297,24-Nov-23,71,3-Feb-24,1,1,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,65.5,0,0,Check-Out
+Resort Hotel - Mumbai,Australia,CUST_598,INN00298,5-Feb-24,16,21-Feb-24,1,1,2,0,0,BB,Online TA,0,0,0,C,C,0,1,123,0,1,Check-Out
+Resort Hotel - Ahmedabad,France,CUST_066,INN00299,14-Dec-23,54,6-Feb-24,2,1,2,0,0,BB,Online TA,0,0,0,E,F,0,1,123,0,0,Check-Out
+Resort Hotel - Chennai,UK,CUST_004,INN00300,8-Mar-24,8,16-Mar-24,2,1,2,0,0,BB,Online TA,0,0,0,A,A,0,1,131,0,0,Check-Out
+Resort Hotel - Kochi,India,CUST_072,INN00301,8-Oct-24,36,13-Nov-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,2,104.68,1,0,Check-Out
+Resort Hotel - Delhi,France,CUST_526,INN00302,25-Aug-24,40,4-Oct-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,0,2,166,0,0,Check-Out
+Resort Hotel - Chandigarh,India,CUST_442,INN00303,16-Mar-24,59,14-May-24,2,6,2,0,1,BB,Online TA,0,0,0,D,D,0,0,111.25,0,2,Canceled
+Resort Hotel - Pune,India,CUST_320,INN00304,31-Dec-23,79,19-Mar-24,2,6,2,2,0,HB,Direct,0,0,0,G,G,1,1,213.75,0,0,Check-Out
+Resort Hotel - Bhopal,Australia,CUST_068,INN00305,23-Mar-24,32,24-Apr-24,4,6,2,0,0,HB,Online TA,0,0,0,E,E,1,2,178,1,0,Check-Out
+Resort Hotel - Pune,Australia,CUST_548,INN00306,22-Nov-23,110,11-Mar-24,2,5,2,0,0,BB,Direct,0,0,0,A,A,0,1,113.9,0,1,Check-Out
+Resort Hotel - Delhi,UK,CUST_354,INN00307,13-Apr-24,33,16-May-24,2,5,2,0,0,BB,Online TA,0,0,0,E,E,0,1,129.29,1,0,Check-Out
+Resort Hotel - Indore,UAE,CUST_587,INN00308,29-Dec-23,53,20-Feb-24,1,0,2,2,0,BB,Online TA,0,0,0,G,G,0,2,153,1,0,Check-Out
+Resort Hotel - Chandigarh,France,CUST_266,INN00309,20-May-24,2,22-May-24,1,0,2,0,0,BB,Online TA,0,0,0,A,A,0,0,98,1,2,Check-Out
+Resort Hotel - Bangalore,France,CUST_316,INN00310,20-Oct-24,8,28-Oct-24,2,4,2,1,0,BB,Online TA,0,0,0,A,A,0,1,169,1,2,Check-Out
+Resort Hotel - Bhopal,India,CUST_091,INN00311,2-Aug-24,72,13-Oct-24,2,4,2,0,1,BB,Online TA,0,0,0,A,A,0,1,93,0,2,Canceled
+Resort Hotel - Hyderabad,France,CUST_166,INN00312,27-Feb-24,12,10-Mar-24,2,5,2,0,0,BB,Online TA,0,0,0,A,A,0,1,132.29,0,0,Check-Out
+Resort Hotel - Bhopal,Canada,CUST_559,INN00313,31-May-24,48,18-Jul-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,2,123,0,1,Check-Out
+Resort Hotel - Chennai,India,CUST_522,INN00314,26-Apr-24,90,25-Jul-24,2,5,2,0,0,FB,Offline TA/TO,0,0,0,A,A,0,1,117.22,0,1,Check-Out
+Resort Hotel - Hyderabad,Canada,CUST_489,INN00315,15-Jun-24,34,19-Jul-24,2,5,2,1,0,HB,Offline TA/TO,0,0,0,D,D,1,1,149,0,1,Check-Out
+Resort Hotel - Hyderabad,Australia,CUST_178,INN00316,15-Oct-24,58,12-Dec-24,2,5,3,1,1,BB,Direct,0,0,0,C,C,0,1,164.57,0,1,Canceled
+Resort Hotel - Jaipur,UK,CUST_134,INN00317,28-Dec-23,59,25-Feb-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,2,107,0,0,Check-Out
+Resort Hotel - Chennai,Germany,CUST_315,INN00318,11-Aug-24,90,9-Nov-24,2,5,2,1,0,FB,Offline TA/TO,0,0,0,A,A,0,2,117.22,1,2,Check-Out
+Resort Hotel - Delhi,France,CUST_216,INN00319,1-Nov-23,116,25-Feb-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,0,119.25,0,0,Check-Out
+Resort Hotel - Indore,France,CUST_306,INN00320,28-Oct-24,31,28-Nov-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,123,0,0,Check-Out
+Resort Hotel - Hyderabad,India,CUST_180,INN00321,6-Mar-24,51,26-Apr-24,2,5,2,0,1,HB,Online TA,0,0,0,A,A,0,0,105.71,0,0,Canceled
+Resort Hotel - Lucknow,Germany,CUST_305,INN00322,29-Jul-24,48,15-Sep-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,123,0,1,Check-Out
+Resort Hotel - Mumbai,Germany,CUST_045,INN00323,30-Dec-23,59,27-Feb-24,2,5,2,0,0,BB,Online TA,0,0,0,E,E,0,1,144.43,1,2,Check-Out
+Resort Hotel - Kolkata,India,CUST_490,INN00324,22-Jun-24,97,27-Sep-24,3,5,2,0,1,BB,Online TA,0,0,0,E,E,0,1,126,0,1,Canceled
+Resort Hotel - Pune,India,CUST_211,INN00325,8-Sep-24,12,20-Sep-24,4,5,2,0,0,HB,Online TA,0,0,0,A,A,0,0,148.3,1,2,Check-Out
+Resort Hotel - Bhopal,France,CUST_506,INN00326,17-Sep-24,64,20-Nov-24,4,5,2,0,0,BB,Online TA,0,0,0,A,A,0,1,125.22,0,1,Check-Out
+Resort Hotel - Chennai,India,CUST_030,INN00327,25-Oct-24,31,25-Nov-24,4,7,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,123,0,0,Check-Out
+Resort Hotel - Kochi,Germany,CUST_525,INN00328,29-Jan-24,59,28-Mar-24,4,7,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,0,130,1,1,Check-Out
+Resort Hotel - Kochi,France,CUST_116,INN00329,28-Sep-24,55,22-Nov-24,4,10,2,10,1,BB,Offline TA/TO,0,0,0,D,D,2,0,133.16,0,1,No-Show
+Resort Hotel - Indore,India,CUST_140,INN00330,4-Jul-24,81,23-Sep-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,78.84,0,0,Check-Out
+Resort Hotel - Delhi,India,CUST_540,INN00331,2-Sep-24,1,3-Sep-24,1,0,2,0,0,BB,Online TA,0,0,0,A,A,0,3,80.1,0,0,Check-Out
+Resort Hotel - Kochi,Australia,CUST_568,INN00332,11-Apr-24,34,15-May-24,2,0,2,2,0,BB,Online TA,0,0,0,G,G,0,2,193,0,1,Check-Out
+Resort Hotel - Hyderabad,Canada,CUST_599,INN00333,21-Feb-24,13,5-Mar-24,2,0,2,0,0,BB,Online TA,0,0,0,A,A,0,2,88.2,0,0,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_352,INN00334,9-Dec-23,40,18-Jan-24,2,0,2,0,0,BB,Online TA,0,0,0,F,E,0,1,90.71,0,0,Check-Out
+Resort Hotel - Indore,Germany,CUST_505,INN00335,19-Oct-24,1,20-Oct-24,2,0,2,0,0,BB,Online TA,0,0,0,A,B,0,0,114.5,0,1,Check-Out
+Resort Hotel - Bangalore,Australia,CUST_058,INN00336,9-Nov-24,34,13-Dec-24,2,0,2,0,0,BB,Online TA,0,0,0,A,A,0,1,120.2,0,1,Check-Out
+Resort Hotel - Indore,USA,CUST_153,INN00337,28-May-24,88,24-Aug-24,2,1,2,0,0,BB,Offline TA/TO,0,0,0,D,D,1,0,79.5,0,0,Check-Out
+Resort Hotel - Bhopal,Germany,CUST_575,INN00338,7-Oct-24,9,16-Oct-24,2,1,2,0,0,BB,Online TA,0,0,0,A,A,0,1,117.9,0,3,Check-Out
+Resort Hotel - Delhi,Canada,CUST_519,INN00339,5-Jan-24,24,29-Jan-24,2,1,2,0,1,HB,Online TA,0,0,0,A,A,0,1,128,0,0,Canceled
+Resort Hotel - Bangalore,India,CUST_491,INN00340,4-Jun-24,97,9-Sep-24,2,2,2,0,0,BB,Offline TA/TO,0,0,0,A,D,0,1,90.95,0,0,Check-Out
+Resort Hotel - Hyderabad,France,CUST_286,INN00341,15-Apr-24,60,14-Jun-24,2,2,2,1,0,BB,Online TA,0,0,0,E,E,2,3,107,0,2,Check-Out
+Resort Hotel - Pune,Germany,CUST_145,INN00342,19-Apr-24,100,28-Jul-24,2,2,2,2,0,BB,Direct,0,0,0,G,G,0,0,130.05,1,1,Check-Out
+Resort Hotel - Bangalore,India,CUST_301,INN00343,28-Jun-24,50,17-Aug-24,2,3,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,123,0,0,Check-Out
+Resort Hotel - Chandigarh,India,CUST_332,INN00344,11-Dec-23,47,27-Jan-24,2,3,2,0,1,BB,Online TA,0,0,0,F,F,0,0,103.8,0,0,No-Show
+Resort Hotel - Kochi,Canada,CUST_249,INN00345,28-Jan-24,8,5-Feb-24,2,3,2,2,0,BB,Online TA,0,0,0,H,H,0,0,196,0,1,Check-Out
+Resort Hotel - Kochi,USA,CUST_213,INN00346,1-Apr-24,34,5-May-24,2,3,2,0,0,HB,Online TA,0,0,0,D,D,0,1,149.4,1,0,Check-Out
+Resort Hotel - Chandigarh,Canada,CUST_299,INN00347,17-Dec-23,47,2-Feb-24,2,5,2,0,0,BB,Online TA,0,0,0,G,G,0,1,175.71,0,0,Check-Out
+Resort Hotel - Lucknow,UAE,CUST_217,INN00348,25-Dec-23,115,18-Apr-24,2,5,2,1,0,HB,Offline TA/TO,0,0,0,A,A,1,2,119.7,0,2,Check-Out
+Resort Hotel - Delhi,UK,CUST_104,INN00349,30-Sep-24,79,18-Dec-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,1,100.86,0,1,Canceled
+Resort Hotel - Indore,India,CUST_572,INN00350,30-Nov-23,91,29-Feb-24,2,5,2,0,0,BB,Online TA,0,0,0,A,A,0,2,100.86,0,0,Check-Out
+Resort Hotel - Bangalore,India,CUST_361,INN00351,13-Feb-24,98,21-May-24,1,1,2,0,0,BB,Online TA,0,0,0,A,A,0,1,82,0,3,Check-Out
+Resort Hotel - Bangalore,Australia,CUST_598,INN00352,17-Jul-24,109,3-Nov-24,1,1,2,0,0,BB,Online TA,0,0,0,A,C,0,1,73.8,0,1,Check-Out
+Resort Hotel - Ahmedabad,UK,CUST_574,INN00353,28-Nov-24,0,28-Nov-24,1,1,2,0,0,BB,Online TA,0,0,0,A,C,0,1,117.9,1,0,Check-Out
+Resort Hotel - Delhi,Australia,CUST_428,INN00354,31-Mar-24,98,7-Jul-24,1,1,2,0,0,BB,Online TA,0,0,0,A,A,0,1,82,0,3,Check-Out
+Resort Hotel - Pune,UAE,CUST_307,INN00355,6-Dec-24,0,6-Dec-24,1,1,4,0,0,BB,Direct,0,0,0,L,H,0,0,150,0,0,Check-Out
+Resort Hotel - Pune,India,CUST_540,INN00356,19-Jun-24,9,28-Jun-24,1,1,2,0,0,HB,Online TA,0,0,0,A,A,0,3,161,1,2,Check-Out
+Resort Hotel - Pune,India,CUST_512,INN00357,15-Mar-24,62,16-May-24,1,1,2,0,0,BB,Online TA,0,0,0,A,A,0,1,64,0,2,Check-Out
+Resort Hotel - Chandigarh,India,CUST_031,INN00358,9-Mar-24,45,23-Apr-24,1,1,2,0,1,BB,Online TA,0,0,0,E,E,0,1,123,0,0,Canceled
+Resort Hotel - Delhi,UAE,CUST_577,INN00359,16-Sep-24,42,28-Oct-24,1,2,2,0,0,BB,Online TA,0,0,0,D,E,0,1,110,1,0,Check-Out
+Resort Hotel - Kochi,France,CUST_166,INN00360,2-Feb-24,54,27-Mar-24,1,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,88.2,1,1,Check-Out
+Resort Hotel - Mumbai,France,CUST_276,INN00361,18-Sep-24,51,8-Nov-24,1,2,2,0,0,HB,Online TA,0,0,0,A,A,0,0,130,1,0,Check-Out
+Resort Hotel - Kolkata,Australia,CUST_448,INN00362,1-Jul-24,54,24-Aug-24,1,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,88.2,0,1,Check-Out
+Resort Hotel - Pune,UK,CUST_534,INN00363,16-Apr-24,58,13-Jun-24,1,2,2,0,0,HB,Direct,0,0,0,E,F,2,2,165,1,1,Check-Out
+Resort Hotel - Hyderabad,UK,CUST_134,INN00364,25-Nov-24,0,25-Nov-24,1,3,1,0,0,BB,Corporate,0,0,0,A,A,0,2,114,0,0,Check-Out
+Resort Hotel - Bhopal,UAE,CUST_547,INN00365,10-Jan-24,60,10-Mar-24,1,4,2,0,1,BB,Offline TA/TO,0,0,0,D,D,0,0,79.5,0,0,Canceled
+Resort Hotel - Pune,Germany,CUST_175,INN00366,12-Nov-23,321,28-Sep-24,1,4,2,0,1,HB,Direct,0,0,0,A,A,0,1,132.8,0,1,Canceled
+Resort Hotel - Pune,USA,CUST_333,INN00367,17-Oct-24,40,26-Nov-24,1,4,2,0,0,BB,Direct,0,0,0,D,D,0,1,120,0,2,Check-Out
+Resort Hotel - Mumbai,India,CUST_022,INN00368,28-Apr-24,51,18-Jun-24,1,4,2,0,1,BB,Offline TA/TO,0,0,0,D,D,0,2,79.5,0,0,Canceled
+Resort Hotel - Chennai,France,CUST_186,INN00369,13-Mar-24,38,20-Apr-24,1,4,2,0,0,BB,Direct,0,0,0,D,E,0,0,120,0,0,Check-Out
+Resort Hotel - Bhopal,Australia,CUST_578,INN00370,20-May-24,75,3-Aug-24,1,4,2,0,1,HB,Online TA,0,0,0,D,D,0,2,144.2,0,1,Canceled
+Resort Hotel - Mumbai,Canada,CUST_339,INN00371,17-Aug-24,101,26-Nov-24,1,4,2,0,0,BB,Online TA,0,0,0,A,A,0,1,107.2,0,0,Check-Out
+Resort Hotel - Jaipur,France,CUST_156,INN00372,2-May-24,42,13-Jun-24,1,4,2,0,1,BB,Online TA,0,0,0,D,D,0,0,120,0,0,Canceled
+Resort Hotel - Indore,UK,CUST_234,INN00373,26-Oct-24,40,5-Dec-24,1,4,2,0,0,BB,Direct,0,0,0,D,D,0,1,120,0,2,Check-Out
+Resort Hotel - Lucknow,USA,CUST_333,INN00374,30-Oct-23,109,16-Feb-24,1,4,3,0,0,HB,Direct,0,0,0,E,E,0,1,163.8,0,1,Check-Out
+Resort Hotel - Bangalore,India,CUST_430,INN00375,29-Nov-23,81,18-Feb-24,1,5,2,0,1,BB,Online TA,0,0,0,A,A,0,0,98.5,0,2,Canceled
+Resort Hotel - Lucknow,India,CUST_431,INN00376,13-Aug-24,98,19-Nov-24,1,5,2,0,1,HB,Online TA,0,0,0,A,A,0,0,130.5,0,0,Canceled
+Resort Hotel - Kolkata,USA,CUST_443,INN00377,3-Mar-24,32,4-Apr-24,1,5,1,0,0,HB,Offline TA/TO,0,0,0,D,C,2,0,153,0,0,Check-Out
+Resort Hotel - Mumbai,India,CUST_251,INN00378,25-Nov-23,72,5-Feb-24,1,5,2,0,0,BB,Online TA,0,0,0,A,A,0,1,98.5,0,2,Check-Out
+Resort Hotel - Hyderabad,India,CUST_421,INN00379,20-Feb-24,115,14-Jun-24,2,5,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,1,119.7,0,2,Check-Out
+Resort Hotel - Chandigarh,India,CUST_471,INN00380,28-Sep-23,118,24-Jan-24,2,5,2,0,0,FB,Direct,0,0,0,D,D,0,0,184.6,0,1,Check-Out
+Resort Hotel - Chandigarh,India,CUST_492,INN00381,19-Feb-24,81,10-May-24,2,5,2,1,0,HB,Direct,0,0,0,E,E,0,0,181.22,0,2,Check-Out
+Resort Hotel - Kochi,India,CUST_570,INN00382,10-Jul-24,95,13-Oct-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,1,100.86,0,1,Canceled
+Resort Hotel - Goa,UK,CUST_484,INN00383,29-Oct-24,16,14-Nov-24,1,0,2,0,0,BB,Online TA,0,0,0,A,A,0,1,100.2,1,3,Check-Out
+Resort Hotel - Delhi,USA,CUST_233,INN00384,8-Aug-24,56,3-Oct-24,1,3,2,0,0,HB,Online TA,0,0,0,A,A,1,0,134.25,1,0,Check-Out
+Resort Hotel - Bangalore,India,CUST_331,INN00385,23-Oct-23,88,19-Jan-24,3,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,96.3,0,0,Check-Out
+Resort Hotel - Kolkata,India,CUST_591,INN00386,19-Sep-24,41,30-Oct-24,3,6,2,0,0,BB,Online TA,0,0,0,D,D,0,1,83.09,0,2,Check-Out
+Resort Hotel - Bhopal,Australia,CUST_498,INN00387,16-Jul-24,40,25-Aug-24,0,1,2,0,1,BB,Offline TA/TO,0,0,0,D,D,0,1,105.5,0,0,Canceled
+Resort Hotel - Ahmedabad,Germany,CUST_485,INN00388,14-Mar-24,1,15-Mar-24,0,1,1,0,0,BB,Corporate,0,0,0,A,A,0,0,134,0,0,Check-Out
+Resort Hotel - Chennai,Australia,CUST_128,INN00389,4-Nov-24,1,5-Nov-24,0,1,2,0,0,BB,Online TA,0,0,0,A,A,2,1,8,0,1,Check-Out
+Resort Hotel - Delhi,Australia,CUST_338,INN00390,3-Apr-24,1,4-Apr-24,0,2,2,0,0,BB,Online TA,0,0,0,D,D,1,0,146,1,1,Check-Out
+Resort Hotel - Pune,Australia,CUST_418,INN00391,3-May-24,76,18-Jul-24,0,4,2,0,1,BB,Online TA,0,0,0,E,E,0,1,126,0,2,Canceled
+Resort Hotel - Bangalore,Australia,CUST_098,INN00392,27-Aug-24,0,27-Aug-24,0,4,2,0,0,BB,Online TA,0,0,0,A,C,0,1,111.15,0,1,Check-Out
+Resort Hotel - Ahmedabad,Canada,CUST_009,INN00393,28-Aug-24,49,16-Oct-24,0,5,2,0,0,BB,Online TA,0,0,0,E,F,1,0,136.2,0,2,Check-Out
+Resort Hotel - Lucknow,Canada,CUST_269,INN00394,5-Dec-23,76,19-Feb-24,0,5,2,0,0,BB,Direct,0,0,0,A,A,0,1,101.8,0,0,Check-Out
+Resort Hotel - Indore,India,CUST_202,INN00395,4-Apr-24,73,16-Jun-24,1,5,2,0,0,HB,Direct,0,0,0,A,A,0,0,127,0,1,Check-Out
+Resort Hotel - Mumbai,Germany,CUST_335,INN00396,1-Apr-24,73,13-Jun-24,1,5,2,1,0,HB,Direct,0,0,0,E,E,0,0,161.5,0,2,Check-Out
+Resort Hotel - Chennai,USA,CUST_453,INN00397,9-Feb-24,317,22-Dec-24,1,5,2,2,0,HB,Direct,0,0,0,H,G,1,3,230.67,1,2,Check-Out
+Resort Hotel - Bangalore,India,CUST_192,INN00398,20-Mar-24,112,10-Jul-24,2,5,1,0,1,BB,Online TA,0,0,0,A,A,0,0,65.7,0,1,Canceled
+Resort Hotel - Chandigarh,UAE,CUST_427,INN00399,5-Nov-24,6,11-Nov-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,0,1,180,1,2,Check-Out
+Resort Hotel - Mumbai,Canada,CUST_179,INN00400,6-Feb-24,8,14-Feb-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,1,1,168.57,0,1,Check-Out
+Resort Hotel - Chennai,France,CUST_346,INN00401,28-Feb-24,96,3-Jun-24,2,7,2,0,1,BB,Offline TA/TO,0,0,0,A,A,0,2,107.67,0,1,Canceled
+Resort Hotel - Delhi,Australia,CUST_038,INN00402,15-Apr-24,96,20-Jul-24,2,7,2,0,1,BB,Online TA,0,0,0,A,A,0,2,96.9,0,1,Canceled
+Resort Hotel - Kochi,Australia,CUST_048,INN00403,16-Jul-24,99,23-Oct-24,2,7,2,0,0,BB,Direct,0,0,0,A,A,0,1,107,0,1,Check-Out
+Resort Hotel - Jaipur,UK,CUST_134,INN00404,15-Sep-24,66,20-Nov-24,2,9,2,0,0,BB,Online TA,0,0,0,A,B,0,2,73.41,0,0,Check-Out
+Resort Hotel - Hyderabad,Germany,CUST_025,INN00405,7-Jan-24,38,14-Feb-24,4,10,2,0,0,HB,Online TA,0,0,0,D,D,0,1,109.9,0,2,Check-Out
+Resort Hotel - Bhopal,UAE,CUST_407,INN00406,20-Feb-24,38,29-Mar-24,4,10,2,0,0,HB,Online TA,0,0,0,D,D,1,0,109.9,0,2,Check-Out
+Resort Hotel - Lucknow,India,CUST_541,INN00407,17-Dec-23,113,8-Apr-24,4,11,3,0,0,BB,Direct,0,0,0,H,H,1,2,187.5,1,3,Check-Out
+Resort Hotel - Bhopal,Canada,CUST_109,INN00408,3-Aug-24,0,3-Aug-24,0,1,1,0,0,BB,Corporate,0,0,0,A,C,0,1,134,0,0,Check-Out
+Resort Hotel - Delhi,Canada,CUST_219,INN00409,20-Nov-23,62,21-Jan-24,0,3,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,0,91.5,0,0,Canceled
+Resort Hotel - Indore,Australia,CUST_228,INN00410,18-Jan-24,39,26-Feb-24,0,3,2,0,1,BB,Online TA,0,0,0,D,D,0,2,132.44,0,0,Canceled
+Resort Hotel - Chandigarh,Germany,CUST_065,INN00411,3-Nov-24,37,10-Dec-24,2,4,2,0,0,HB,Online TA,0,0,0,D,D,0,2,106.9,0,0,Check-Out
+Resort Hotel - Indore,Australia,CUST_518,INN00412,24-Jun-24,58,21-Aug-24,2,5,2,0,1,BB,Online TA,0,0,0,D,D,0,0,131.86,0,0,Canceled
+Resort Hotel - Lucknow,Australia,CUST_538,INN00413,16-Apr-24,37,23-May-24,2,6,2,2,0,BB,Online TA,0,0,0,H,H,0,2,216.13,1,0,Check-Out
+Resort Hotel - Kolkata,Canada,CUST_079,INN00414,11-Dec-23,57,6-Feb-24,0,2,2,0,0,FB,Groups,0,0,0,A,C,0,2,107,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_470,INN00415,28-Oct-24,57,24-Dec-24,0,2,2,0,0,FB,Groups,0,0,0,A,A,0,0,107,0,0,Check-Out
+Resort Hotel - Jaipur,India,CUST_490,INN00416,14-Dec-23,57,9-Feb-24,0,2,2,0,0,FB,Groups,0,0,0,A,A,0,1,107,0,0,Check-Out
+Resort Hotel - Kolkata,India,CUST_401,INN00417,21-May-24,57,17-Jul-24,0,2,2,0,0,FB,Groups,0,0,0,A,C,0,0,107,0,0,Check-Out
+Resort Hotel - Jaipur,France,CUST_286,INN00418,28-Jun-24,57,24-Aug-24,0,2,2,0,0,FB,Groups,0,0,0,A,D,0,3,107,0,0,Check-Out
+Resort Hotel - Kolkata,USA,CUST_453,INN00419,20-Jul-24,83,11-Oct-24,2,7,2,2,0,BB,Online TA,0,0,0,G,G,0,3,190.33,0,1,Check-Out
+Resort Hotel - Pune,USA,CUST_083,INN00420,20-Sep-24,57,16-Nov-24,0,2,2,0,0,FB,Groups,0,0,0,A,A,0,1,107,0,0,Check-Out
+Resort Hotel - Kochi,USA,CUST_063,INN00421,18-Jul-24,57,13-Sep-24,0,2,1,0,0,FB,Groups,0,0,0,A,F,1,0,94,0,0,Check-Out
+Resort Hotel - Delhi,Australia,CUST_448,INN00422,9-Sep-24,57,5-Nov-24,0,2,2,0,1,FB,Groups,0,0,0,A,A,0,1,0,0,0,Canceled
+Resort Hotel - Indore,Australia,CUST_548,INN00423,10-Jan-24,57,7-Mar-24,0,2,2,0,0,FB,Groups,0,0,0,A,C,0,1,98.75,0,0,Check-Out
+Resort Hotel - Indore,Germany,CUST_325,INN00424,9-Feb-24,57,6-Apr-24,0,2,3,0,0,FB,Groups,0,0,0,A,C,1,0,148.23,0,0,Check-Out
+Resort Hotel - Mumbai,Germany,CUST_485,INN00425,28-Jun-24,57,24-Aug-24,0,2,1,0,0,FB,Groups,0,0,0,A,E,1,0,94,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_552,INN00426,27-Oct-24,57,23-Dec-24,0,2,2,0,0,FB,Groups,0,0,0,A,D,0,0,107,0,0,Check-Out
+Resort Hotel - Indore,Australia,CUST_368,INN00427,11-Jan-24,57,8-Mar-24,0,2,2,0,0,FB,Groups,0,0,0,A,D,0,1,107,0,0,Check-Out
+Resort Hotel - Delhi,France,CUST_466,INN00428,20-May-24,57,16-Jul-24,0,2,3,0,0,FB,Groups,0,0,0,A,C,1,2,148.23,0,0,Check-Out
+Resort Hotel - Delhi,Germany,CUST_375,INN00429,28-Mar-24,57,24-May-24,0,2,1,0,0,FB,Groups,0,0,0,A,A,1,2,0,0,0,Check-Out
+Resort Hotel - Delhi,France,CUST_116,INN00430,14-Feb-24,57,11-Apr-24,0,2,2,0,0,FB,Groups,0,0,0,A,A,0,0,107,0,0,Check-Out
+Resort Hotel - Chandigarh,UK,CUST_564,INN00431,27-Jan-24,57,24-Mar-24,0,2,2,0,0,FB,Groups,0,0,0,A,A,0,1,107,0,0,Check-Out
+Resort Hotel - Chennai,India,CUST_022,INN00432,21-Jan-24,57,18-Mar-24,0,2,2,0,0,FB,Groups,0,0,0,A,A,0,2,107,0,0,Check-Out
+Resort Hotel - Lucknow,Germany,CUST_085,INN00433,23-Jan-24,57,20-Mar-24,0,2,2,0,0,FB,Groups,0,0,0,A,A,0,2,107,0,0,Check-Out
+Resort Hotel - Jaipur,India,CUST_031,INN00434,17-Aug-24,57,13-Oct-24,0,2,2,0,0,FB,Groups,0,0,0,A,C,0,1,98.75,0,0,Check-Out
+Resort Hotel - Lucknow,France,CUST_076,INN00435,7-Aug-24,66,12-Oct-24,0,2,2,2,1,BB,Online TA,0,0,0,G,G,0,1,195,0,1,Canceled
+Resort Hotel - Chennai,Canada,CUST_569,INN00436,18-Jul-24,13,31-Jul-24,0,2,2,0,0,BB,Online TA,0,0,0,A,D,0,1,120.6,0,1,Check-Out
+Resort Hotel - Chandigarh,India,CUST_052,INN00437,12-Sep-24,50,1-Nov-24,0,1,2,0,0,BB,Online TA,0,0,0,F,F,0,1,123.2,0,0,Check-Out
+Resort Hotel - Chandigarh,UAE,CUST_007,INN00438,4-Sep-24,48,22-Oct-24,0,1,1,0,1,BB,Direct,0,0,0,A,A,0,1,112,0,0,Canceled
+Resort Hotel - Chennai,India,CUST_001,INN00439,23-Jun-24,0,23-Jun-24,0,1,2,0,1,BB,Online TA,0,0,0,F,F,0,1,123.2,0,0,Canceled
+Resort Hotel - Ahmedabad,Australia,CUST_538,INN00440,27-Jun-24,7,4-Jul-24,0,1,2,2,0,BB,Online TA,0,0,0,C,C,1,2,169,1,1,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_052,INN00441,15-Sep-24,0,15-Sep-24,0,2,2,2,0,BB,Direct,0,0,0,H,G,1,1,198,1,0,Check-Out
+Resort Hotel - Kolkata,India,CUST_282,INN00442,17-Nov-23,66,22-Jan-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,103.5,0,1,Canceled
+Resort Hotel - Delhi,France,CUST_496,INN00443,27-Sep-24,13,10-Oct-24,0,2,2,1,0,BB,Online TA,0,0,0,A,D,0,0,135.6,0,1,Check-Out
+Resort Hotel - Chennai,India,CUST_561,INN00444,28-Dec-23,66,3-Mar-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,103.5,0,1,Check-Out
+Resort Hotel - Indore,Canada,CUST_399,INN00445,7-Jun-24,10,17-Jun-24,0,3,2,0,0,BB,Direct,0,0,0,D,D,0,1,184,1,0,Check-Out
+Resort Hotel - Bangalore,India,CUST_041,INN00446,18-Aug-24,10,28-Aug-24,0,3,2,0,1,BB,Direct,0,0,0,A,A,0,0,134,0,0,Canceled
+Resort Hotel - Pune,India,CUST_361,INN00447,4-Mar-24,58,1-May-24,0,3,2,0,1,HB,Online TA,0,0,0,A,A,0,1,147,0,0,Canceled
+Resort Hotel - Bhopal,France,CUST_196,INN00448,9-Feb-24,17,26-Feb-24,0,3,2,0,1,HB,Online TA,0,0,0,A,A,0,0,151.33,0,0,Canceled
+Resort Hotel - Lucknow,Canada,CUST_239,INN00449,30-Nov-24,19,19-Dec-24,0,3,2,0,0,BB,Online TA,0,0,0,A,D,0,0,121.33,0,1,Check-Out
+Resort Hotel - Delhi,France,CUST_466,INN00450,27-Dec-23,10,6-Jan-24,2,3,2,0,0,BB,Direct,0,0,0,D,D,0,2,150.2,0,1,Check-Out
+Resort Hotel - Bangalore,UK,CUST_264,INN00451,29-Feb-24,12,12-Mar-24,2,3,2,0,1,BB,Direct,0,0,0,E,E,0,0,139,0,0,Canceled
+Resort Hotel - Bhopal,India,CUST_460,INN00452,22-Nov-24,10,2-Dec-24,2,3,1,0,0,BB,Direct,0,0,0,D,D,1,0,150.2,0,1,Check-Out
+Resort Hotel - Chandigarh,France,CUST_366,INN00453,11-Aug-24,63,13-Oct-24,1,3,2,0,0,BB,Online TA,0,0,0,A,F,0,1,75.44,0,1,Check-Out
+Resort Hotel - Ahmedabad,France,CUST_266,INN00454,23-Jun-24,35,28-Jul-24,1,3,2,0,1,BB,Online TA,0,0,0,D,D,0,0,135,0,0,Canceled
+Resort Hotel - Ahmedabad,France,CUST_206,INN00455,10-Oct-23,113,31-Jan-24,2,4,2,0,0,HB,Online TA,0,0,0,A,A,0,1,166,0,1,Check-Out
+Resort Hotel - Jaipur,India,CUST_421,INN00456,14-Sep-24,35,19-Oct-24,2,4,2,0,1,BB,Online TA,0,0,0,D,D,0,1,135,0,0,Canceled
+Resort Hotel - Chennai,Canada,CUST_069,INN00457,18-Jul-24,68,24-Sep-24,2,5,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,0,130,0,0,Check-Out
+Resort Hotel - Kolkata,Germany,CUST_575,INN00458,21-Mar-24,113,12-Jul-24,2,6,2,0,0,BB,Offline TA/TO,0,0,0,A,A,1,1,96.3,0,0,Check-Out
+Resort Hotel - Indore,USA,CUST_243,INN00459,16-Jul-24,21,6-Aug-24,4,10,1,0,0,HB,Direct,0,0,0,E,E,1,3,160,0,0,Check-Out
+Resort Hotel - Goa,Germany,CUST_445,INN00460,25-Jun-24,6,1-Jul-24,0,0,2,0,0,BB,Online TA,0,0,0,A,A,0,0,0,0,1,Check-Out
+Resort Hotel - Delhi,India,CUST_021,INN00461,31-Aug-24,7,7-Sep-24,0,2,2,0,0,BB,Direct,0,0,0,A,F,0,0,127.25,0,1,Check-Out
+Resort Hotel - Chennai,India,CUST_121,INN00462,23-Nov-24,17,10-Dec-24,0,2,2,0,0,BB,Online TA,0,0,0,E,F,0,0,164,0,2,Check-Out
+Resort Hotel - Kochi,Australia,CUST_088,INN00463,30-Nov-24,1,1-Dec-24,0,2,2,0,0,BB,Online TA,0,0,0,D,E,0,1,144.5,0,0,Check-Out
+Resort Hotel - Chandigarh,UAE,CUST_047,INN00464,21-Dec-24,2,23-Dec-24,0,2,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,112,0,0,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_530,INN00465,11-Jan-24,15,26-Jan-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,134,0,1,Canceled
+Resort Hotel - Chennai,India,CUST_592,INN00466,21-Jul-24,7,28-Jul-24,0,2,2,0,1,BB,Direct,0,0,0,A,A,0,0,127.25,0,1,Canceled
+Resort Hotel - Lucknow,India,CUST_311,INN00467,28-Jan-24,11,8-Feb-24,0,2,2,0,0,BB,Online TA,0,0,0,A,D,0,2,155.5,1,0,Check-Out
+Resort Hotel - Chandigarh,Canada,CUST_589,INN00468,16-Oct-24,6,22-Oct-24,0,2,2,0,1,BB,Online TA,0,0,0,A,C,0,1,110.5,0,1,No-Show
+Resort Hotel - Pune,USA,CUST_453,INN00469,23-Jun-24,1,24-Jun-24,0,2,2,0,0,BB,Direct,0,0,0,D,D,0,3,144.5,0,0,Check-Out
+Resort Hotel - Lucknow,Australia,CUST_468,INN00470,7-Sep-24,1,8-Sep-24,0,2,2,0,0,BB,Direct,0,0,0,D,E,0,1,144.5,0,0,Check-Out
+Resort Hotel - Kochi,Australia,CUST_498,INN00471,19-Mar-24,48,6-May-24,0,2,2,0,0,BB,Offline TA/TO,0,0,0,D,F,0,1,123,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_540,INN00472,6-Jun-24,15,21-Jun-24,0,2,2,0,0,BB,Online TA,0,0,0,A,E,0,3,120.6,0,1,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_351,INN00473,25-Feb-24,3,28-Feb-24,0,2,1,0,1,BB,Offline TA/TO,0,0,0,A,A,0,0,107.6,0,0,No-Show
+Resort Hotel - Bhopal,Canada,CUST_299,INN00474,21-Aug-24,23,13-Sep-24,1,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,120.6,0,1,Canceled
+Resort Hotel - Bhopal,Canada,CUST_439,INN00475,5-Sep-24,53,28-Oct-24,2,3,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,2,107,0,0,Check-Out
+Resort Hotel - Ahmedabad,Canada,CUST_259,INN00476,8-Feb-24,53,1-Apr-24,2,3,2,1,0,BB,Offline TA/TO,0,0,0,A,A,0,1,133.75,1,0,Check-Out
+Resort Hotel - Bhopal,Germany,CUST_155,INN00477,17-Dec-23,94,20-Mar-24,2,3,2,0,0,BB,Direct,0,0,0,A,D,0,3,103.5,0,0,Check-Out
+Resort Hotel - Bangalore,Germany,CUST_585,INN00478,27-Feb-24,64,1-May-24,2,3,1,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,84.8,0,1,Check-Out
+Resort Hotel - Bhopal,UAE,CUST_117,INN00479,3-Apr-24,53,26-May-24,2,3,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,107,0,0,Check-Out
+Resort Hotel - Bangalore,India,CUST_272,INN00480,14-Jul-24,53,5-Sep-24,2,3,1,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,107,1,0,Check-Out
+Resort Hotel - Mumbai,India,CUST_282,INN00481,25-Jan-24,64,29-Mar-24,2,3,1,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,84.8,0,1,Check-Out
+Resort Hotel - Pune,Germany,CUST_375,INN00482,5-Sep-24,53,28-Oct-24,2,3,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,2,107,1,0,Check-Out
+Resort Hotel - Delhi,UK,CUST_214,INN00483,12-Jan-24,24,5-Feb-24,2,3,3,1,0,BB,Direct,0,0,0,G,G,1,1,195,0,1,Check-Out
+Resort Hotel - Chandigarh,India,CUST_582,INN00484,27-Dec-23,24,20-Jan-24,2,4,2,0,0,BB,Online TA,0,0,0,E,E,0,2,164,0,0,Check-Out
+Resort Hotel - Pune,Canada,CUST_069,INN00485,2-Mar-24,23,25-Mar-24,2,5,2,2,0,BB,Direct,0,0,0,G,G,0,0,195,0,0,Check-Out
+Resort Hotel - Mumbai,India,CUST_440,INN00486,14-Jun-24,53,6-Aug-24,2,5,2,0,0,BB,Online TA,0,0,0,A,D,1,2,125,0,2,Check-Out
+Resort Hotel - Bangalore,India,CUST_580,INN00487,22-Sep-24,23,15-Oct-24,2,5,2,2,1,BB,Direct,0,0,0,G,G,0,1,195,0,0,Canceled
+Resort Hotel - Chennai,UAE,CUST_517,INN00488,30-Apr-24,90,29-Jul-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,1,1,132.3,0,3,Check-Out
+Resort Hotel - Bangalore,Canada,CUST_139,INN00489,20-Dec-23,79,8-Mar-24,2,5,2,0,0,BB,Online TA,0,0,0,E,E,0,0,145,0,2,Check-Out
+Resort Hotel - Bangalore,Australia,CUST_218,INN00490,29-Jun-24,43,11-Aug-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,92,0,0,Check-Out
+Resort Hotel - Indore,India,CUST_100,INN00491,24-Oct-23,90,22-Jan-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,1,0,132.3,0,3,Check-Out
+Resort Hotel - Indore,India,CUST_320,INN00492,6-Feb-24,65,11-Apr-24,2,6,2,0,0,HB,Online TA,0,0,0,A,A,0,1,147,0,2,Check-Out
+Resort Hotel - Mumbai,India,CUST_232,INN00493,13-May-24,65,17-Jul-24,2,6,2,0,0,HB,Online TA,0,0,0,D,D,0,1,167,1,2,Check-Out
+Resort Hotel - Delhi,USA,CUST_133,INN00494,6-Aug-24,99,13-Nov-24,2,6,3,0,0,BB,Direct,0,0,0,H,H,0,0,210,0,1,Check-Out
+Resort Hotel - Goa,UK,CUST_154,INN00495,8-Nov-24,25,3-Dec-24,3,7,2,0,0,HB,Direct,0,0,0,F,F,1,0,194.9,0,2,Check-Out
+Resort Hotel - Goa,India,CUST_380,INN00496,20-May-24,92,20-Aug-24,1,2,2,0,0,BB,Online TA,0,0,0,A,A,3,1,103.5,1,3,Check-Out
+Resort Hotel - Goa,France,CUST_436,INN00497,8-Aug-24,91,7-Nov-24,1,2,2,1,0,BB,Online TA,0,0,0,A,A,3,1,118.5,0,3,Check-Out
+Resort Hotel - Kolkata,France,CUST_026,INN00498,26-Feb-24,38,4-Apr-24,1,2,2,1,0,HB,Online TA,0,0,0,E,E,1,0,192,0,1,Check-Out
+Resort Hotel - Delhi,USA,CUST_103,INN00499,20-Mar-24,6,26-Mar-24,1,2,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,128.27,0,0,Check-Out
+Resort Hotel - Pune,India,CUST_252,INN00500,14-Apr-24,38,22-May-24,1,2,2,0,0,BB,Online TA,0,0,0,D,D,0,1,135,0,0,Check-Out
+Resort Hotel - Lucknow,Canada,CUST_529,INN00501,31-Oct-24,13,13-Nov-24,1,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,126.3,0,2,Check-Out
+Resort Hotel - Hyderabad,India,CUST_550,INN00502,13-Dec-23,32,14-Jan-24,1,2,2,0,1,BB,Online TA,0,0,0,D,D,0,1,154,0,0,Canceled
+Resort Hotel - Pune,India,CUST_231,INN00503,9-Apr-23,315,18-Feb-24,1,2,2,0,0,BB,Offline TA/TO,0,0,0,A,D,0,0,96.3,0,0,Check-Out
+Resort Hotel - Delhi,USA,CUST_043,INN00504,21-Dec-24,8,29-Dec-24,1,2,2,0,0,BB,Online TA,0,0,0,A,D,0,0,126.3,0,2,Check-Out
+Resort Hotel - Lucknow,USA,CUST_153,INN00505,25-May-24,0,25-May-24,0,1,2,0,1,BB,Direct,0,0,0,L,C,0,0,136,0,0,Canceled
+Resort Hotel - Kolkata,India,CUST_460,INN00506,18-Jun-24,91,17-Sep-24,1,2,2,1,0,BB,Online TA,0,0,0,A,A,4,0,118.5,0,3,Check-Out
+Resort Hotel - Pune,India,CUST_022,INN00507,31-Jul-24,3,3-Aug-24,1,2,2,0,0,BB,Online TA,0,0,0,A,C,0,2,116.33,1,1,Check-Out
+Resort Hotel - Pune,UK,CUST_114,INN00508,23-Jan-24,9,1-Feb-24,2,2,3,0,0,BB,Direct,0,0,0,A,A,0,0,164,0,1,Check-Out
+Resort Hotel - Bhopal,UAE,CUST_167,INN00509,18-Sep-24,19,7-Oct-24,2,1,2,0,0,BB,Online TA,0,0,0,D,F,0,0,147.67,0,2,Check-Out
+Resort Hotel - Pune,UAE,CUST_397,INN00510,24-Dec-23,25,18-Jan-24,2,4,2,0,0,BB,Direct,0,0,0,E,E,0,1,145,0,0,Check-Out
+Resort Hotel - Kolkata,UK,CUST_134,INN00511,3-Oct-23,108,19-Jan-24,2,4,2,1,0,HB,Online TA,0,0,0,A,A,1,2,147,1,2,Check-Out
+Resort Hotel - Chennai,India,CUST_042,INN00512,15-Jul-24,37,21-Aug-24,2,4,2,2,1,HB,Online TA,0,0,0,C,C,0,1,168.3,0,0,Canceled
+Resort Hotel - Pune,Germany,CUST_375,INN00513,1-Aug-24,45,15-Sep-24,2,5,2,0,0,HB,Online TA,0,0,0,D,D,0,2,167,0,0,Check-Out
+Resort Hotel - Kolkata,India,CUST_541,INN00514,24-Apr-24,64,27-Jun-24,2,5,2,0,0,BB,Direct,0,0,0,E,E,0,2,137.75,1,1,Check-Out
+Resort Hotel - Lucknow,USA,CUST_263,INN00515,3-Jan-24,44,16-Feb-24,2,2,2,0,0,BB,Direct,0,0,0,E,E,1,0,145,0,0,Check-Out
+Resort Hotel - Indore,France,CUST_476,INN00516,26-Nov-24,26,22-Dec-24,2,2,2,0,0,BB,Online TA,0,0,0,A,A,0,0,132.6,1,0,Check-Out
+Resort Hotel - Jaipur,UK,CUST_284,INN00517,19-Jan-24,96,24-Apr-24,2,2,2,0,1,HB,Online TA,0,0,0,A,A,0,0,147,0,0,Canceled
+Resort Hotel - Ahmedabad,India,CUST_562,INN00518,25-Aug-24,123,26-Dec-24,2,2,2,1,1,BB,Online TA,0,0,0,E,E,1,0,157,0,2,Canceled
+Resort Hotel - Ahmedabad,Canada,CUST_259,INN00519,25-Aug-24,42,6-Oct-24,2,3,2,2,1,BB,Online TA,0,0,0,H,H,0,1,210,0,0,Canceled
+Resort Hotel - Chennai,UK,CUST_044,INN00520,13-Nov-23,59,11-Jan-24,2,3,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,0,132.5,0,0,Check-Out
+Resort Hotel - Chandigarh,Australia,CUST_248,INN00521,31-Jul-24,28,28-Aug-24,2,3,2,0,0,BB,Online TA,0,0,0,A,A,0,0,98.02,0,1,Check-Out
+Resort Hotel - Delhi,UAE,CUST_587,INN00522,12-Mar-24,106,26-Jun-24,2,3,2,2,0,BB,Direct,0,0,0,C,C,0,2,126,0,2,Check-Out
+Resort Hotel - Kolkata,Australia,CUST_498,INN00523,20-Apr-24,1,21-Apr-24,0,1,2,0,0,BB,Direct,0,0,0,D,D,0,1,173,0,1,Check-Out
+Resort Hotel - Pune,Australia,CUST_528,INN00524,20-Nov-24,0,20-Nov-24,0,1,2,2,0,FB,Direct,0,0,0,C,C,0,1,249,0,0,Check-Out
+Resort Hotel - Jaipur,Germany,CUST_415,INN00525,5-Jul-24,4,9-Jul-24,1,1,1,2,0,BB,Online TA,0,0,0,G,G,0,0,186.5,0,0,Check-Out
+Resort Hotel - Jaipur,UAE,CUST_477,INN00526,13-Nov-24,3,16-Nov-24,2,1,1,0,0,BB,Direct,0,0,0,D,E,0,0,95,0,1,Check-Out
+Resort Hotel - Mumbai,Canada,CUST_119,INN00527,25-Jul-24,73,6-Oct-24,2,5,2,1,0,FB,Direct,0,0,0,D,D,0,2,241.5,0,2,Check-Out
+Resort Hotel - Indore,India,CUST_152,INN00528,14-Apr-24,44,28-May-24,2,5,2,0,0,HB,Online TA,0,0,0,E,E,0,0,177,1,0,Check-Out
+Resort Hotel - Bangalore,India,CUST_081,INN00529,19-Jun-24,95,22-Sep-24,2,5,2,0,0,FB,Offline TA/TO,0,0,0,A,A,0,0,153.73,1,0,Check-Out
+Resort Hotel - Jaipur,France,CUST_366,INN00530,18-Nov-23,94,20-Feb-24,2,5,2,0,0,BB,Direct,0,0,0,A,D,0,1,115,0,1,Check-Out
+Resort Hotel - Chandigarh,India,CUST_232,INN00531,22-Jun-24,40,1-Aug-24,2,5,2,0,1,HB,Offline TA/TO,0,0,0,D,D,0,1,127.03,0,2,Canceled
+Resort Hotel - Goa,France,CUST_246,INN00532,28-Jan-24,64,1-Apr-24,2,5,2,0,0,BB,Direct,0,0,0,D,D,0,0,128.25,0,1,Check-Out
+Resort Hotel - Hyderabad,France,CUST_116,INN00533,18-Feb-24,64,22-Apr-24,2,5,2,0,0,BB,Direct,0,0,0,D,D,0,0,128.25,0,1,Check-Out
+Resort Hotel - Kolkata,Canada,CUST_119,INN00534,9-Oct-23,94,11-Jan-24,2,5,2,0,0,BB,Direct,0,0,0,A,D,0,2,115,0,1,Check-Out
+Resort Hotel - Kolkata,Canada,CUST_229,INN00535,27-Dec-23,57,22-Feb-24,2,6,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,0,135,0,1,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_102,INN00536,27-Oct-24,60,26-Dec-24,2,6,2,0,1,HB,Online TA,0,0,0,D,D,0,0,167,0,0,Canceled
+Resort Hotel - Chennai,Germany,CUST_155,INN00537,6-Apr-24,57,2-Jun-24,2,6,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,3,135,0,1,Check-Out
+Resort Hotel - Kolkata,India,CUST_141,INN00538,9-Oct-23,87,4-Jan-24,4,10,2,0,0,BB,Online TA,0,0,0,A,A,0,0,124.5,0,0,Check-Out
+Resort Hotel - Chennai,UAE,CUST_077,INN00539,15-Jul-24,0,15-Jul-24,1,0,2,0,0,BB,Direct,0,0,0,A,A,0,1,98,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_001,INN00540,7-Feb-24,0,7-Feb-24,1,0,2,0,0,BB,Online TA,0,0,0,A,A,0,1,98,1,0,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_382,INN00541,20-Jan-24,6,26-Jan-24,1,0,2,0,0,BB,Direct,0,0,0,D,D,0,3,135,0,0,Check-Out
+Resort Hotel - Hyderabad,France,CUST_436,INN00542,21-Jan-24,0,21-Jan-24,1,0,2,0,0,BB,Online TA,0,0,0,A,A,0,1,88.2,0,0,Check-Out
+Resort Hotel - Hyderabad,India,CUST_112,INN00543,22-Aug-24,19,10-Sep-24,1,0,2,0,0,BB,Online TA,0,0,0,A,A,0,1,120.6,1,1,Check-Out
+Resort Hotel - Ahmedabad,Canada,CUST_279,INN00544,25-Dec-24,4,29-Dec-24,2,0,2,0,0,BB,Online TA,0,0,0,E,E,0,2,154.5,1,2,Check-Out
+Resort Hotel - Chennai,Germany,CUST_145,INN00545,14-Jan-24,59,13-Mar-24,2,1,2,0,1,BB,Online TA,0,0,0,E,E,0,0,145,0,0,Canceled
+Resort Hotel - Kolkata,Australia,CUST_508,INN00546,29-Nov-23,44,12-Jan-24,2,2,2,0,0,BB,Direct,0,0,0,A,A,0,2,92,0,0,Check-Out
+Resort Hotel - Bhopal,France,CUST_286,INN00547,22-Mar-24,37,28-Apr-24,2,2,2,0,1,BB,Online TA,0,0,0,D,D,0,3,154,0,0,Canceled
+Resort Hotel - Delhi,India,CUST_400,INN00548,26-Nov-23,66,31-Jan-24,2,3,2,0,0,BB,Direct,0,0,0,A,A,0,1,115,0,1,Check-Out
+Resort Hotel - Mumbai,India,CUST_251,INN00549,18-Nov-24,38,26-Dec-24,2,4,1,0,1,BB,Offline TA/TO,0,0,0,D,D,0,1,110.53,0,0,Canceled
+Resort Hotel - Kolkata,Australia,CUST_528,INN00550,27-Mar-24,62,28-May-24,2,5,2,0,1,HB,Offline TA/TO,0,0,0,E,E,0,1,158.5,0,1,Canceled
+Resort Hotel - Indore,France,CUST_436,INN00551,27-Feb-24,41,8-Apr-24,2,5,2,2,0,HB,Online TA,0,0,0,C,C,0,1,131.37,0,1,Check-Out
+Resort Hotel - Jaipur,India,CUST_222,INN00552,29-Jan-24,60,29-Mar-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,0,117.71,0,0,Canceled
+Resort Hotel - Chennai,UK,CUST_034,INN00553,4-Sep-24,104,17-Dec-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,123,0,1,Check-Out
+Resort Hotel - Bhopal,India,CUST_591,INN00554,26-Apr-24,62,27-Jun-24,2,5,2,0,1,HB,Offline TA/TO,0,0,0,E,E,0,1,158.5,0,1,Canceled
+Resort Hotel - Kolkata,India,CUST_451,INN00555,31-Aug-24,117,26-Dec-24,2,5,2,0,0,BB,Online TA,0,0,0,A,A,1,1,117.84,0,2,Check-Out
+Resort Hotel - Hyderabad,Germany,CUST_505,INN00556,23-Sep-24,31,24-Oct-24,2,5,2,0,1,BB,Online TA,0,0,0,D,D,0,0,154,0,0,Canceled
+Resort Hotel - Chennai,India,CUST_322,INN00557,26-May-24,34,29-Jun-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,116.85,0,0,Check-Out
+Resort Hotel - Chandigarh,UK,CUST_264,INN00558,3-Jun-24,47,20-Jul-24,2,4,2,1,0,BB,Online TA,0,0,0,A,A,0,0,129.16,0,1,Check-Out
+Resort Hotel - Goa,Canada,CUST_079,INN00559,30-Mar-24,24,23-Apr-24,2,4,2,2,1,BB,Online TA,0,0,0,G,G,0,2,214,0,0,Canceled
+Resort Hotel - Kochi,India,CUST_031,INN00560,5-Jun-24,104,17-Sep-24,2,4,2,0,1,BB,Online TA,0,0,0,A,A,0,1,115,0,2,Canceled
+Resort Hotel - Bhopal,India,CUST_522,INN00561,1-Oct-23,104,13-Jan-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,123,0,1,Check-Out
+Resort Hotel - Chandigarh,Australia,CUST_388,INN00562,13-Nov-24,32,15-Dec-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,123,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_211,INN00563,24-Apr-24,47,10-Jun-24,3,5,2,2,1,BB,Online TA,0,0,0,G,G,0,0,195,0,0,Canceled
+Resort Hotel - Bangalore,Canada,CUST_529,INN00564,24-Jun-24,29,23-Jul-24,4,6,2,0,0,BB,Offline TA/TO,0,0,0,C,C,0,1,135.2,0,0,Check-Out
+Resort Hotel - Kochi,India,CUST_502,INN00565,3-Jul-24,30,2-Aug-24,4,10,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,2,123,0,2,Check-Out
+Resort Hotel - Mumbai,UK,CUST_374,INN00566,13-Apr-24,123,14-Aug-24,2,4,2,1,0,BB,Online TA,0,0,0,E,E,2,1,130.5,0,1,Check-Out
+Resort Hotel - Goa,Canada,CUST_039,INN00567,3-Jan-24,14,17-Jan-24,1,0,1,0,0,BB,Offline TA/TO,0,0,0,A,C,0,0,123,0,0,Check-Out
+Resort Hotel - Chandigarh,India,CUST_060,INN00568,13-Jul-24,118,8-Nov-24,1,2,2,2,1,BB,Online TA,0,0,0,G,G,0,0,179.1,0,2,Canceled
+Resort Hotel - Kolkata,Germany,CUST_505,INN00569,22-Aug-24,0,22-Aug-24,0,0,1,0,0,BB,Offline TA/TO,0,0,0,A,I,0,0,0,0,0,Check-Out
+Resort Hotel - Lucknow,India,CUST_561,INN00570,25-May-24,0,25-May-24,0,0,2,0,0,BB,Online TA,0,0,0,A,I,0,1,0,0,1,Check-Out
+Resort Hotel - Pune,India,CUST_382,INN00571,16-Jul-24,79,3-Oct-24,1,3,2,1,0,BB,Online TA,0,0,0,A,C,0,3,115,0,3,Check-Out
+Resort Hotel - Bhopal,USA,CUST_253,INN00572,15-Jan-24,63,18-Mar-24,1,3,2,0,0,BB,Online TA,0,0,0,A,D,0,1,115,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_392,INN00573,19-Apr-24,68,26-Jun-24,1,3,2,0,0,BB,Online TA,0,0,0,A,C,3,0,103.5,1,2,Check-Out
+Resort Hotel - Hyderabad,India,CUST_002,INN00574,24-Feb-24,96,30-May-24,1,3,2,0,0,HB,Direct,0,0,0,A,A,0,1,157,1,0,Check-Out
+Resort Hotel - Delhi,India,CUST_470,INN00575,16-Sep-24,41,27-Oct-24,1,3,2,0,1,BB,Online TA,0,0,0,D,D,0,0,135,0,1,Canceled
+Resort Hotel - Hyderabad,India,CUST_412,INN00576,9-Nov-24,46,25-Dec-24,1,3,2,0,0,BB,Online TA,0,0,0,E,E,0,0,111.65,0,0,Check-Out
+Resort Hotel - Kolkata,Canada,CUST_129,INN00577,14-May-24,41,24-Jun-24,1,3,2,0,1,BB,Online TA,0,0,0,D,D,0,1,135,0,1,Canceled
+Resort Hotel - Chandigarh,France,CUST_326,INN00578,10-Jan-24,60,10-Mar-24,1,4,2,2,1,BB,Online TA,0,0,0,G,G,0,2,195,0,0,Canceled
+Resort Hotel - Lucknow,India,CUST_452,INN00579,7-Apr-24,41,18-May-24,1,4,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,104,0,0,Check-Out
+Resort Hotel - Chandigarh,India,CUST_162,INN00580,7-Jul-24,69,14-Sep-24,1,4,2,0,1,BB,Online TA,0,0,0,D,D,0,0,135,0,0,Canceled
+Resort Hotel - Lucknow,France,CUST_126,INN00581,25-Oct-24,41,5-Dec-24,1,5,2,2,1,BB,Online TA,0,0,0,G,G,0,0,214,0,1,Canceled
+Resort Hotel - Lucknow,Australia,CUST_238,INN00582,12-Apr-24,52,3-Jun-24,1,5,2,0,0,HB,Direct,0,0,0,A,D,0,0,133.17,0,0,Check-Out
+Resort Hotel - Bangalore,USA,CUST_063,INN00583,22-Jan-24,41,3-Mar-24,1,5,2,0,1,BB,Online TA,0,0,0,D,D,1,0,141.33,0,1,Canceled
+Resort Hotel - Ahmedabad,UAE,CUST_097,INN00584,8-Sep-24,89,6-Dec-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,0,121.01,0,1,Check-Out
+Resort Hotel - Chandigarh,Canada,CUST_089,INN00585,11-Sep-24,28,9-Oct-24,2,5,2,1,1,FB,Direct,0,0,0,F,F,0,0,240.64,0,0,Canceled
+Resort Hotel - Ahmedabad,Australia,CUST_258,INN00586,1-Sep-24,65,5-Nov-24,2,5,2,2,0,BB,Online TA,0,0,0,C,C,0,1,167.5,0,0,Check-Out
+Resort Hotel - Bhopal,USA,CUST_553,INN00587,20-Dec-23,82,11-Mar-24,2,5,2,1,0,HB,Online TA,0,0,0,A,A,0,1,152.43,0,3,Check-Out
+Resort Hotel - Hyderabad,Canada,CUST_439,INN00588,22-Sep-24,42,3-Nov-24,2,5,2,0,0,FB,Offline TA/TO,0,0,0,A,A,0,2,148.34,0,0,Check-Out
+Resort Hotel - Mumbai,France,CUST_186,INN00589,16-Oct-24,62,17-Dec-24,2,5,2,0,0,HB,Online TA,0,0,0,D,D,1,0,167,0,1,Check-Out
+Resort Hotel - Pune,UAE,CUST_137,INN00590,17-Jul-24,86,11-Oct-24,2,5,2,1,1,HB,Direct,0,0,0,A,A,1,3,172.93,0,1,Canceled
+Resort Hotel - Bhopal,Germany,CUST_565,INN00591,29-Apr-24,118,25-Aug-24,2,5,2,0,1,BB,Online TA,0,0,0,G,G,0,0,179.1,0,1,Canceled
+Resort Hotel - Chandigarh,India,CUST_092,INN00592,9-Nov-24,28,7-Dec-24,2,5,2,1,0,FB,Offline TA/TO,0,0,0,F,F,0,0,192.5,0,1,Check-Out
+Resort Hotel - Kolkata,USA,CUST_593,INN00593,29-Feb-24,52,21-Apr-24,3,6,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,1,92,0,0,Canceled
+Resort Hotel - Indore,USA,CUST_173,INN00594,16-Mar-24,49,4-May-24,3,6,2,0,1,FB,Offline TA/TO,0,0,0,D,D,0,0,111.2,0,0,Canceled
+Resort Hotel - Bangalore,India,CUST_550,INN00595,13-Jun-24,39,22-Jul-24,3,7,2,1,0,HB,Offline TA/TO,0,0,0,D,D,1,1,141.6,0,1,Check-Out
+Resort Hotel - Jaipur,Canada,CUST_329,INN00596,31-Dec-23,39,8-Feb-24,3,7,2,0,0,HB,Offline TA/TO,0,0,0,D,D,0,1,141.6,0,1,Check-Out
+Resort Hotel - Jaipur,India,CUST_100,INN00597,19-Jun-24,39,28-Jul-24,3,7,2,0,0,HB,Offline TA/TO,0,0,0,D,D,0,0,141.6,0,1,Check-Out
+Resort Hotel - Goa,UK,CUST_034,INN00598,23-Jul-24,7,30-Jul-24,3,8,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,0,200,0,0,Canceled
+Resort Hotel - Delhi,UAE,CUST_147,INN00599,2-Oct-24,7,9-Oct-24,3,8,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,3,200,0,0,Canceled
+Resort Hotel - Bangalore,Germany,CUST_265,INN00600,23-Feb-24,42,5-Apr-24,0,2,2,0,1,BB,Online TA,0,0,0,E,E,0,0,157,0,0,Canceled
+Resort Hotel - Chennai,India,CUST_540,INN00601,13-May-24,5,18-May-24,0,2,1,0,0,BB,Corporate,0,0,0,A,F,0,3,99.5,0,0,Check-Out
+Resort Hotel - Bhopal,India,CUST_381,INN00602,1-Jul-24,81,20-Sep-24,0,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,115,0,2,Canceled
+Resort Hotel - Delhi,USA,CUST_463,INN00603,7-Jun-24,63,9-Aug-24,0,4,2,2,1,BB,Online TA,0,0,0,G,G,0,0,195,0,0,Canceled
+Resort Hotel - Jaipur,France,CUST_496,INN00604,26-Dec-23,61,25-Feb-24,0,4,2,0,0,BB,Online TA,0,0,0,A,D,0,0,103.5,0,0,Check-Out
+Resort Hotel - Mumbai,Canada,CUST_239,INN00605,7-Dec-24,8,15-Dec-24,0,5,3,0,0,BB,Direct,0,0,0,G,G,1,0,207,1,0,Check-Out
+Resort Hotel - Kochi,France,CUST_156,INN00606,10-Jul-24,89,7-Oct-24,1,5,3,0,0,BB,Direct,0,0,0,A,D,0,0,163.33,1,1,Check-Out
+Resort Hotel - Kochi,India,CUST_311,INN00607,16-Mar-24,57,12-May-24,2,5,2,0,0,HB,Online TA,0,0,0,E,E,0,2,151.86,0,0,Check-Out
+Resort Hotel - Ahmedabad,USA,CUST_073,INN00608,25-Feb-24,102,6-Jun-24,2,5,3,0,0,BB,Offline TA/TO,0,0,0,A,D,0,0,95.57,0,1,Check-Out
+Resort Hotel - Kochi,Germany,CUST_045,INN00609,29-Sep-23,108,15-Jan-24,2,6,2,0,0,BB,Online TA,0,0,0,A,A,0,1,112.05,0,1,Check-Out
+Resort Hotel - Chennai,USA,CUST_383,INN00610,25-Sep-24,28,23-Oct-24,2,7,2,1,0,BB,Direct,0,0,0,E,E,0,1,160,0,1,Check-Out
+Resort Hotel - Bhopal,India,CUST_562,INN00611,26-Apr-24,29,25-May-24,2,8,2,0,0,BB,Online TA,0,0,0,A,A,0,0,103.18,0,1,Check-Out
+Resort Hotel - Bhopal,France,CUST_396,INN00612,4-Nov-24,0,4-Nov-24,0,1,2,0,0,BB,Direct,0,0,0,E,E,0,0,153,1,0,Check-Out
+Resort Hotel - Indore,Canada,CUST_329,INN00613,20-Feb-24,96,26-May-24,0,4,2,0,1,BB,Online TA,0,0,0,A,A,0,1,119.75,0,1,Canceled
+Resort Hotel - Mumbai,Australia,CUST_058,INN00614,25-Jan-24,44,9-Mar-24,0,4,2,0,1,BB,Online TA,0,0,0,D,D,0,1,135,0,1,Canceled
+Resort Hotel - Bhopal,France,CUST_156,INN00615,3-Oct-24,44,16-Nov-24,0,4,2,1,0,HB,Online TA,0,0,0,D,D,1,0,167.69,0,1,Check-Out
+Resort Hotel - Pune,India,CUST_532,INN00616,10-Nov-24,44,24-Dec-24,0,4,2,2,1,BB,Online TA,0,0,0,G,G,0,0,195,0,1,Canceled
+Resort Hotel - Bhopal,Australia,CUST_568,INN00617,14-May-24,44,27-Jun-24,0,4,2,0,1,BB,Online TA,0,0,0,D,D,0,2,135,0,1,Canceled
+Resort Hotel - Ahmedabad,India,CUST_020,INN00618,7-Mar-24,41,17-Apr-24,1,4,2,0,1,BB,Online TA,0,0,0,D,D,0,0,178.4,0,0,Canceled
+Resort Hotel - Hyderabad,Australia,CUST_248,INN00619,3-Feb-24,16,19-Feb-24,0,0,2,2,0,BB,Online TA,0,0,0,C,I,0,0,0,0,0,Check-Out
+Resort Hotel - Pune,UAE,CUST_187,INN00620,4-Nov-23,73,16-Jan-24,0,0,2,0,0,BB,Online TA,0,0,0,D,I,1,1,0,0,1,Check-Out
+Resort Hotel - Chennai,Canada,CUST_399,INN00621,16-Sep-24,3,19-Sep-24,0,1,2,0,0,BB,Online TA,0,0,0,D,E,0,1,154,1,1,Check-Out
+Resort Hotel - Lucknow,Germany,CUST_365,INN00622,16-Oct-24,0,16-Oct-24,0,1,2,0,0,BB,Direct,0,0,0,C,C,0,0,134,0,0,Check-Out
+Resort Hotel - Kochi,India,CUST_582,INN00623,13-Nov-23,55,7-Jan-24,0,1,1,0,1,BB,Direct,0,0,0,A,A,0,2,112,0,0,Canceled
+Resort Hotel - Delhi,USA,CUST_253,INN00624,6-Jul-24,33,8-Aug-24,0,3,2,0,0,HB,Online TA,0,0,0,E,E,1,1,194,1,1,Check-Out
+Resort Hotel - Pune,France,CUST_056,INN00625,30-Dec-23,19,18-Jan-24,0,3,2,0,1,BB,Online TA,0,0,0,A,A,0,2,153,0,0,Canceled
+Resort Hotel - Delhi,UAE,CUST_417,INN00626,15-Dec-23,55,8-Feb-24,0,3,2,0,1,BB,Online TA,0,0,0,D,D,0,0,135,0,0,Canceled
+Resort Hotel - Jaipur,UK,CUST_364,INN00627,17-Jan-24,33,19-Feb-24,0,3,2,0,0,HB,Online TA,0,0,0,D,E,0,1,184,0,1,Check-Out
+Resort Hotel - Jaipur,Australia,CUST_088,INN00628,27-Dec-23,19,15-Jan-24,1,3,2,2,1,BB,Online TA,0,0,0,H,H,0,1,210,0,0,Canceled
+Resort Hotel - Lucknow,India,CUST_462,INN00629,11-Apr-24,19,30-Apr-24,1,3,2,0,1,BB,Direct,0,0,0,E,E,0,0,139,0,0,Canceled
+Resort Hotel - Chandigarh,Canada,CUST_059,INN00630,17-Nov-23,117,13-Mar-24,2,3,2,0,0,BB,Offline TA/TO,0,0,0,D,F,0,1,101.46,1,0,Check-Out
+Resort Hotel - Bangalore,Australia,CUST_358,INN00631,4-Feb-24,72,16-Apr-24,2,4,2,0,1,BB,Online TA,0,0,0,E,E,0,2,145,0,0,Canceled
+Resort Hotel - Delhi,India,CUST_131,INN00632,22-Oct-24,19,10-Nov-24,1,3,2,0,1,BB,Online TA,0,0,0,D,D,0,2,173,0,0,Canceled
+Resort Hotel - Lucknow,India,CUST_472,INN00633,1-Apr-24,34,5-May-24,2,6,3,0,0,HB,Offline TA/TO,0,0,0,D,D,1,0,217.05,1,1,Check-Out
+Resort Hotel - Ahmedabad,UK,CUST_454,INN00634,24-Apr-24,9,3-May-24,0,2,2,0,0,BB,Online TA,0,0,0,E,E,0,0,164,0,2,Check-Out
+Resort Hotel - Kolkata,India,CUST_541,INN00635,8-Sep-24,8,16-Sep-24,0,2,2,0,0,BB,Online TA,0,0,0,D,F,0,2,173,0,2,Check-Out
+Resort Hotel - Chennai,UAE,CUST_427,INN00636,17-May-24,36,22-Jun-24,0,1,2,0,1,BB,Direct,0,0,0,A,A,0,1,112.5,0,0,Canceled
+Resort Hotel - Chandigarh,India,CUST_172,INN00637,20-Jan-24,22,11-Feb-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,0,153,0,2,Check-Out
+Resort Hotel - Pune,USA,CUST_083,INN00638,26-Aug-24,22,17-Sep-24,0,2,2,0,0,BB,Online TA,0,0,0,D,D,0,1,173,0,2,Check-Out
+Resort Hotel - Goa,Canada,CUST_339,INN00639,21-Dec-23,22,12-Jan-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,1,153,0,2,Check-Out
+Resort Hotel - Chandigarh,UK,CUST_204,INN00640,3-Nov-24,36,9-Dec-24,0,2,2,0,0,BB,Online TA,0,0,0,A,D,0,0,134,0,0,Check-Out
+Resort Hotel - Kolkata,USA,CUST_223,INN00641,30-Sep-24,22,22-Oct-24,0,2,2,0,0,BB,Online TA,0,0,0,A,A,0,0,153,0,2,Check-Out
+Resort Hotel - Bangalore,UAE,CUST_197,INN00642,1-Feb-24,22,23-Feb-24,0,2,2,2,1,BB,Online TA,0,0,0,G,G,0,1,233,0,2,Canceled
+Resort Hotel - Bhopal,France,CUST_136,INN00643,19-Jul-24,18,6-Aug-24,0,2,2,0,0,BB,Direct,0,0,0,D,G,0,1,154,0,0,Check-Out
+Resort Hotel - Indore,Australia,CUST_378,INN00644,5-Dec-24,8,13-Dec-24,0,2,2,0,0,BB,Online TA,0,0,0,D,F,0,4,173,0,2,Check-Out
+Resort Hotel - Lucknow,Canada,CUST_439,INN00645,4-Feb-24,67,11-Apr-24,0,2,2,0,1,BB,Online TA,0,0,0,D,D,0,2,135,0,1,Canceled
+Resort Hotel - Mumbai,UAE,CUST_217,INN00646,1-Jun-24,105,14-Sep-24,0,2,2,0,1,BB,Offline TA/TO,0,0,0,E,E,0,2,132.5,0,0,Canceled
+Resort Hotel - Indore,France,CUST_446,INN00647,7-Dec-24,1,8-Dec-24,1,2,3,0,0,BB,Online TA,0,0,0,H,H,2,0,222.67,0,0,Check-Out
+Resort Hotel - Pune,Canada,CUST_549,INN00648,11-Nov-23,67,17-Jan-24,0,2,2,0,1,BB,Online TA,0,0,0,D,D,0,0,135,0,1,Canceled
+Resort Hotel - Jaipur,India,CUST_552,INN00649,25-Mar-24,39,3-May-24,0,2,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,107,0,0,Check-Out
+Resort Hotel - Bhopal,UAE,CUST_127,INN00650,29-Sep-24,45,13-Nov-24,1,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,127,0,0,Canceled
+Resort Hotel - Kochi,Australia,CUST_058,INN00651,9-Dec-23,45,23-Jan-24,2,2,2,0,1,BB,Online TA,0,0,0,D,D,0,1,135,0,0,Canceled
+Resort Hotel - Bangalore,Germany,CUST_125,INN00652,22-Feb-24,14,7-Mar-24,2,2,2,0,0,BB,Online TA,0,0,0,A,D,0,0,149.7,1,1,Check-Out
+Resort Hotel - Goa,USA,CUST_143,INN00653,12-Apr-24,53,4-Jun-24,2,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,161.25,0,0,Canceled
+Resort Hotel - Kolkata,USA,CUST_283,INN00654,6-Dec-23,28,3-Jan-24,2,2,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,107,0,0,Check-Out
+Resort Hotel - Kochi,India,CUST_001,INN00655,8-Jul-24,55,1-Sep-24,2,3,2,0,0,BB,Online TA,0,0,0,A,A,0,1,75.44,0,1,Check-Out
+Resort Hotel - Jaipur,USA,CUST_243,INN00656,6-Jun-24,55,31-Jul-24,2,3,2,0,0,BB,Online TA,0,0,0,A,A,0,3,75.44,0,1,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_501,INN00657,10-Oct-24,25,4-Nov-24,2,5,2,0,0,BB,Direct,0,0,0,A,A,1,2,115,0,0,Check-Out
+Resort Hotel - Lucknow,India,CUST_092,INN00658,6-Nov-24,43,19-Dec-24,2,5,2,0,1,FB,Offline TA/TO,0,0,0,A,A,0,0,159.2,0,1,Canceled
+Resort Hotel - Kolkata,UK,CUST_534,INN00659,10-Apr-24,109,28-Jul-24,2,5,2,0,1,HB,Online TA,0,0,0,A,A,0,2,163.29,0,2,Canceled
+Resort Hotel - Chennai,India,CUST_560,INN00660,1-Jan-24,62,3-Mar-24,2,6,2,2,1,BB,Online TA,0,0,0,H,H,0,1,210,0,0,Canceled
+Resort Hotel - Ahmedabad,India,CUST_452,INN00661,27-Jul-24,25,21-Aug-24,2,6,2,0,0,BB,Direct,0,0,0,D,D,0,1,154,0,2,Check-Out
+Resort Hotel - Pune,Australia,CUST_138,INN00662,17-Dec-23,43,29-Jan-24,2,7,2,0,0,HB,Online TA,0,0,0,A,A,0,0,166,0,0,Check-Out
+Resort Hotel - Lucknow,India,CUST_130,INN00663,22-Jun-24,35,27-Jul-24,3,7,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,1,132.5,0,0,Check-Out
+Resort Hotel - Delhi,Canada,CUST_559,INN00664,10-Jun-24,42,22-Jul-24,3,7,2,0,1,BB,Offline TA/TO,0,0,0,A,A,0,2,107,0,0,Canceled
+Resort Hotel - Lucknow,Canada,CUST_229,INN00665,27-Nov-23,312,4-Oct-24,4,10,3,0,1,BB,Offline TA/TO,0,0,0,A,A,0,0,121.98,0,1,Canceled
+Resort Hotel - Bangalore,USA,CUST_323,INN00666,22-Jul-24,30,21-Aug-24,0,0,2,1,0,HB,Online TA,0,0,0,D,D,0,0,0,0,0,Check-Out
+Resort Hotel - Hyderabad,UAE,CUST_227,INN00667,10-Oct-24,47,26-Nov-24,2,1,2,0,0,HB,Offline TA/TO,0,0,0,A,E,0,1,133,0,0,Check-Out
+Resort Hotel - Bangalore,Germany,CUST_155,INN00668,30-May-24,40,9-Jul-24,0,1,2,0,0,BB,Offline TA/TO,0,0,0,A,F,0,3,107,0,0,Check-Out
+Resort Hotel - Delhi,France,CUST_556,INN00669,21-Feb-24,11,3-Mar-24,0,1,2,0,0,BB,Online TA,0,0,0,A,F,0,0,117.81,0,0,Check-Out
+Resort Hotel - Chennai,France,CUST_216,INN00670,2-May-24,39,10-Jun-24,0,1,2,0,0,BB,Offline TA/TO,0,0,0,A,F,0,0,107,0,0,Check-Out
+Resort Hotel - Delhi,France,CUST_526,INN00671,14-Jun-24,39,23-Jul-24,0,1,2,0,1,BB,Online TA,0,0,0,A,A,0,2,120.6,0,0,Canceled
+Resort Hotel - Bangalore,Australia,CUST_108,INN00672,4-Mar-24,1,5-Mar-24,1,1,2,0,0,BB,Direct,0,0,0,D,E,0,0,147,0,0,Check-Out
+Resort Hotel - Delhi,Australia,CUST_178,INN00673,22-Dec-23,12,3-Jan-24,1,1,2,0,1,BB,Online TA,0,0,0,A,A,0,1,153,0,2,Canceled
+Resort Hotel - Delhi,Canada,CUST_349,INN00674,29-May-24,16,14-Jun-24,1,1,2,0,1,BB,Online TA,0,0,0,A,A,0,2,153,0,1,Canceled
+Resort Hotel - Goa,UK,CUST_444,INN00675,25-Jun-24,16,11-Jul-24,1,1,2,0,1,BB,Direct,0,0,0,A,A,0,0,134,0,0,Canceled
+Resort Hotel - Pune,Canada,CUST_199,INN00676,13-Nov-24,12,25-Nov-24,1,1,2,0,0,BB,Online TA,0,0,0,A,E,0,0,153,0,1,Check-Out
+Resort Hotel - Pune,Germany,CUST_035,INN00677,1-Oct-24,51,21-Nov-24,2,1,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,0,118,0,0,Check-Out
+Resort Hotel - Bangalore,Canada,CUST_369,INN00678,26-Aug-24,67,1-Nov-24,2,2,2,0,0,BB,Online TA,0,0,0,A,D,1,2,134,0,1,Check-Out
+Resort Hotel - Lucknow,UK,CUST_384,INN00679,27-Sep-24,52,18-Nov-24,2,3,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,0,135,0,2,Check-Out
+Resort Hotel - Jaipur,Germany,CUST_415,INN00680,8-Jul-24,25,2-Aug-24,2,3,2,1,0,HB,Online TA,0,0,0,D,D,0,0,158.77,0,2,Check-Out
+Resort Hotel - Chennai,India,CUST_561,INN00681,18-Jul-24,94,20-Oct-24,2,3,2,0,0,BB,Online TA,0,0,0,A,A,0,1,134,1,1,Check-Out
+Resort Hotel - Bangalore,UAE,CUST_227,INN00682,28-Sep-24,54,21-Nov-24,2,3,2,0,1,BB,Online TA,0,0,0,A,A,0,1,134,0,0,Canceled
+Resort Hotel - Kochi,UAE,CUST_347,INN00683,1-Feb-24,33,5-Mar-24,2,3,2,2,0,HB,Online TA,0,0,0,C,C,0,0,142.03,0,1,Check-Out
+Resort Hotel - Bhopal,India,CUST_360,INN00684,22-Sep-24,47,8-Nov-24,2,3,2,2,0,HB,Direct,0,0,0,G,G,1,1,240,0,0,Check-Out
+Resort Hotel - Ahmedabad,Australia,CUST_378,INN00685,6-Nov-24,43,19-Dec-24,2,4,2,0,0,BB,Direct,0,0,0,A,A,0,4,134,0,0,Check-Out
+Resort Hotel - Hyderabad,France,CUST_286,INN00686,19-Jan-24,87,15-Apr-24,2,4,2,0,1,BB,Online TA,0,0,0,A,A,0,3,134,0,3,Canceled
+Resort Hotel - Pune,Canada,CUST_299,INN00687,16-May-24,54,9-Jul-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,0,1,147,0,0,Check-Out
+Resort Hotel - Kochi,France,CUST_336,INN00688,26-Apr-24,32,28-May-24,2,5,2,0,0,BB,Online TA,0,0,0,E,E,0,1,176,1,0,Check-Out
+Resort Hotel - Delhi,Australia,CUST_398,INN00689,9-Jul-24,29,7-Aug-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,1,0,120.6,0,1,Canceled
+Resort Hotel - Jaipur,Australia,CUST_258,INN00690,6-Aug-24,96,10-Nov-24,2,5,2,0,1,HB,Online TA,0,0,0,A,A,0,1,166,0,1,Canceled
+Resort Hotel - Jaipur,UAE,CUST_417,INN00691,30-Mar-24,100,8-Jul-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,0,134,0,0,Canceled
+Resort Hotel - Jaipur,Germany,CUST_255,INN00692,24-Aug-24,54,17-Oct-24,2,5,2,0,0,HB,Online TA,0,0,0,A,A,0,1,147,0,0,Check-Out
+Resort Hotel - Chennai,Germany,CUST_165,INN00693,6-Apr-24,75,20-Jun-24,2,5,2,0,0,HB,Online TA,0,0,0,D,D,1,0,167,0,1,Check-Out
+Resort Hotel - Kolkata,Australia,CUST_118,INN00694,25-Mar-24,31,25-Apr-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,107.2,1,0,Check-Out
+Resort Hotel - Pune,Australia,CUST_248,INN00695,17-Jan-24,25,11-Feb-24,2,6,1,0,1,BB,Direct,0,0,0,A,A,0,0,131.63,0,0,Canceled
+Resort Hotel - Kolkata,USA,CUST_493,INN00696,16-Apr-24,61,16-Jun-24,2,6,3,0,0,HB,Online TA,0,0,0,E,E,0,1,233.05,1,0,Check-Out
+Resort Hotel - Mumbai,USA,CUST_243,INN00697,4-Jul-24,60,2-Sep-24,2,6,2,0,0,HB,Online TA,0,0,0,A,A,1,3,90.12,0,1,Check-Out
+Resort Hotel - Goa,USA,CUST_273,INN00698,19-Sep-24,31,20-Oct-24,3,6,2,0,1,BB,Online TA,0,0,0,A,A,0,1,120.6,0,1,Canceled
+Resort Hotel - Goa,USA,CUST_373,INN00699,3-Jul-24,107,18-Oct-24,3,6,1,0,1,BB,Online TA,0,0,0,A,A,0,1,125,0,2,Canceled
+Resort Hotel - Bhopal,Australia,CUST_078,INN00700,24-Aug-24,31,24-Sep-24,3,6,2,0,1,BB,Online TA,0,0,0,D,D,0,0,154,0,1,Canceled
+Resort Hotel - Bangalore,France,CUST_126,INN00701,12-Jun-24,115,5-Oct-24,4,6,2,0,0,BB,Online TA,0,0,0,A,A,0,0,120.6,0,2,Check-Out
+Resort Hotel - Indore,Canada,CUST_099,INN00702,10-Jun-24,59,8-Aug-24,4,8,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,114.25,0,1,Check-Out
+Resort Hotel - Mumbai,Canada,CUST_329,INN00703,2-Jul-24,85,25-Sep-24,4,10,2,0,1,BB,Offline TA/TO,0,0,0,A,A,0,1,107,0,0,Canceled
+Resort Hotel - Jaipur,Australia,CUST_048,INN00704,12-Jun-24,0,12-Jun-24,2,5,2,0,0,BB,Online TA,0,0,0,A,D,0,1,88.55,0,0,Check-Out
+Resort Hotel - Bangalore,UK,CUST_334,INN00705,19-Feb-24,299,14-Dec-24,2,5,2,1,1,BB,Online TA,0,0,0,A,A,0,0,149,0,1,Canceled
+Resort Hotel - Hyderabad,Australia,CUST_368,INN00706,9-Jun-24,50,29-Jul-24,2,5,3,0,0,BB,Direct,0,0,0,G,G,0,1,195,1,0,Check-Out
+Resort Hotel - Indore,UK,CUST_094,INN00707,14-Mar-24,50,3-May-24,2,5,2,0,1,BB,Online TA,0,0,0,E,E,0,0,164,0,0,Canceled
+Resort Hotel - Hyderabad,UAE,CUST_087,INN00708,2-Nov-23,88,29-Jan-24,2,2,2,0,1,BB,Online TA,0,0,0,D,D,0,1,154,0,1,Canceled
+Resort Hotel - Delhi,UK,CUST_294,INN00709,24-Sep-23,116,18-Jan-24,2,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,120.6,0,1,Canceled
+Resort Hotel - Bhopal,UAE,CUST_497,INN00710,27-Jun-24,47,13-Aug-24,2,1,2,0,0,BB,Online TA,0,0,0,A,D,0,3,103.5,0,0,Check-Out
+Resort Hotel - Indore,Germany,CUST_295,INN00711,27-Feb-24,48,15-Apr-24,2,1,2,0,0,BB,Online TA,0,0,0,A,D,0,1,115,0,3,Check-Out
+Resort Hotel - Bangalore,Germany,CUST_085,INN00712,4-Feb-24,54,29-Mar-24,2,4,2,1,1,BB,Online TA,0,0,0,A,A,0,2,95.02,0,2,Canceled
+Resort Hotel - Kochi,India,CUST_421,INN00713,3-Jun-24,33,6-Jul-24,2,4,2,0,1,BB,Offline TA/TO,0,0,0,E,E,0,1,132.5,0,0,Canceled
+Resort Hotel - Lucknow,Canada,CUST_289,INN00714,20-Nov-23,73,1-Feb-24,2,3,3,0,0,HB,Direct,0,0,0,E,E,0,2,209,0,1,Check-Out
+Resort Hotel - Delhi,India,CUST_251,INN00715,26-Jun-24,54,19-Aug-24,2,4,2,1,1,BB,Online TA,0,0,0,A,A,0,1,95.02,0,2,Canceled
+Resort Hotel - Indore,India,CUST_091,INN00716,11-Sep-24,33,14-Oct-24,2,4,2,0,1,BB,Offline TA/TO,0,0,0,E,E,0,1,132.5,0,0,Canceled
+Resort Hotel - Chandigarh,Australia,CUST_368,INN00717,31-Dec-23,38,7-Feb-24,2,5,2,2,0,HB,Direct,0,0,0,C,C,0,1,180,0,0,Check-Out
+Resort Hotel - Chennai,India,CUST_371,INN00718,5-Jun-24,34,9-Jul-24,2,0,2,0,0,BB,Online TA,0,0,0,A,A,0,1,103.18,0,0,Check-Out
+Resort Hotel - Chennai,India,CUST_052,INN00719,18-Jan-24,130,27-May-24,2,5,2,0,0,HB,Direct,0,0,0,E,E,0,1,174.01,0,1,Check-Out
+Resort Hotel - Mumbai,France,CUST_426,INN00720,20-Sep-24,39,29-Oct-24,3,5,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,1,133,0,1,Canceled
+Resort Hotel - Kolkata,UAE,CUST_497,INN00721,14-Aug-24,39,22-Sep-24,3,5,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,3,133,0,1,Canceled
+Resort Hotel - Ahmedabad,France,CUST_226,INN00722,1-Jun-24,45,16-Jul-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,107.2,0,0,Check-Out
+Resort Hotel - Chennai,Germany,CUST_105,INN00723,5-Mar-24,31,5-Apr-24,0,0,2,0,0,BB,Online TA,0,0,0,A,I,1,0,0,0,0,Check-Out
+Resort Hotel - Hyderabad,UK,CUST_234,INN00724,6-Sep-24,48,24-Oct-24,1,1,2,2,1,BB,Online TA,0,0,0,H,H,0,1,210,0,1,Canceled
+Resort Hotel - Kochi,Germany,CUST_195,INN00725,28-Aug-24,59,26-Oct-24,1,1,2,0,0,BB,Online TA,0,0,0,E,E,0,0,145,1,0,Check-Out
+Resort Hotel - Chandigarh,Australia,CUST_378,INN00726,6-Dec-23,48,23-Jan-24,1,1,2,2,1,BB,Online TA,0,0,0,G,G,0,4,195,0,1,Canceled
+Resort Hotel - Jaipur,India,CUST_452,INN00727,7-Jun-24,48,25-Jul-24,1,1,1,0,1,HB,Online TA,0,0,0,A,A,1,1,124.2,0,1,Canceled
+Resort Hotel - Hyderabad,UK,CUST_244,INN00728,8-Jan-24,48,25-Feb-24,1,1,2,0,1,HB,Online TA,0,0,0,D,D,0,0,167,0,1,Canceled
+Resort Hotel - Chennai,Germany,CUST_585,INN00729,22-Aug-24,48,9-Oct-24,1,2,2,0,0,BB,Online TA,0,0,0,E,F,0,1,145,1,0,Check-Out
+Resort Hotel - Mumbai,Germany,CUST_525,INN00730,9-Jun-24,96,13-Sep-24,1,2,2,0,0,HB,Online TA,0,0,0,A,E,0,0,166,0,2,Check-Out
+Resort Hotel - Jaipur,France,CUST_266,INN00731,2-Dec-23,51,22-Jan-24,1,2,2,0,0,BB,Direct,0,0,0,A,G,0,0,115,0,0,Check-Out
+Resort Hotel - Pune,Australia,CUST_318,INN00732,17-Nov-23,96,21-Feb-24,1,2,2,0,0,HB,Online TA,0,0,0,A,E,0,0,166,1,2,Check-Out
+Resort Hotel - Kolkata,Germany,CUST_395,INN00733,5-Jul-24,41,15-Aug-24,1,3,2,0,1,BB,Online TA,0,0,0,A,A,0,1,120.6,0,0,Canceled
+Resort Hotel - Bhopal,Germany,CUST_005,INN00734,15-Feb-24,6,21-Feb-24,1,3,2,0,0,BB,Direct,0,0,0,F,F,5,0,162,0,2,Check-Out
+Resort Hotel - Goa,India,CUST_252,INN00735,26-Mar-24,27,22-Apr-24,1,3,2,0,0,BB,Online TA,0,0,0,A,D,0,1,153,0,0,Check-Out
+Resort Hotel - Hyderabad,USA,CUST_403,INN00736,30-Jul-24,28,27-Aug-24,1,3,2,0,0,HB,Offline TA/TO,0,0,0,A,C,0,0,133.2,0,0,Check-Out
+Resort Hotel - Bangalore,USA,CUST_303,INN00737,16-Oct-24,30,15-Nov-24,1,3,2,0,0,BB,Online TA,0,0,0,A,D,0,0,134,0,1,Check-Out
+Resort Hotel - Lucknow,USA,CUST_373,INN00738,13-Dec-23,45,27-Jan-24,1,3,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,107,1,2,Check-Out
+Resort Hotel - Chennai,Germany,CUST_365,INN00739,13-Dec-23,52,3-Feb-24,1,3,2,1,0,HB,Direct,0,0,0,D,F,0,0,145,0,2,Check-Out
+Resort Hotel - Kochi,UK,CUST_474,INN00740,3-Nov-24,31,4-Dec-24,1,3,2,0,0,HB,Direct,0,0,0,A,C,0,0,145,0,0,Check-Out
+Resort Hotel - Indore,USA,CUST_333,INN00741,2-Nov-23,74,15-Jan-24,1,3,2,0,1,BB,Offline TA/TO,0,0,0,A,A,0,1,107,0,1,Canceled
+Resort Hotel - Mumbai,UK,CUST_164,INN00742,4-Aug-24,31,4-Sep-24,1,3,2,0,0,BB,Offline TA/TO,0,0,0,F,F,0,1,167.2,0,0,Check-Out
+Resort Hotel - Delhi,India,CUST_281,INN00743,10-Mar-24,87,5-Jun-24,1,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,134,0,2,Canceled
+Resort Hotel - Mumbai,Australia,CUST_188,INN00744,15-Dec-23,48,1-Feb-24,1,3,2,1,0,BB,Online TA,0,0,0,A,C,1,1,130,0,0,Check-Out
+Resort Hotel - Jaipur,India,CUST_272,INN00745,14-Mar-24,41,24-Apr-24,1,3,2,0,1,BB,Online TA,0,0,0,E,E,0,0,164,0,0,Canceled
+Resort Hotel - Hyderabad,Germany,CUST_475,INN00746,26-Oct-24,35,30-Nov-24,1,3,2,0,0,HB,Offline TA/TO,0,0,0,D,D,0,1,149,0,0,Check-Out
+Resort Hotel - Kolkata,France,CUST_346,INN00747,25-May-24,28,22-Jun-24,1,4,2,0,0,BB,Online TA,0,0,0,D,D,0,2,154,1,0,Check-Out
+Resort Hotel - Chandigarh,USA,CUST_113,INN00748,14-Aug-24,77,30-Oct-24,1,4,2,0,0,BB,Online TA,0,0,0,G,G,1,0,195,0,1,Check-Out
+Resort Hotel - Bhopal,Germany,CUST_365,INN00749,11-Apr-24,33,14-May-24,1,4,2,0,1,BB,Online TA,0,0,0,A,A,0,0,134,0,0,Canceled
+Resort Hotel - Pune,India,CUST_031,INN00750,28-Sep-24,30,28-Oct-24,1,4,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,107.2,0,0,Check-Out
+Resort Hotel - Kolkata,Germany,CUST_175,INN00751,18-Jul-24,34,21-Aug-24,1,4,2,0,1,HB,Online TA,0,0,0,A,A,0,1,164,0,0,Canceled
+Resort Hotel - Chennai,India,CUST_452,INN00752,30-Jan-24,298,23-Nov-24,1,5,3,0,1,HB,Offline TA/TO,0,0,0,A,A,0,1,183.45,0,1,Canceled
+Resort Hotel - Chandigarh,Australia,CUST_378,INN00753,18-Jan-24,35,22-Feb-24,1,5,2,0,0,HB,Online TA,0,0,0,A,A,0,4,159.6,1,1,Check-Out
+Resort Hotel - Kolkata,UAE,CUST_467,INN00754,28-Sep-24,40,7-Nov-24,1,5,2,0,0,BB,Online TA,0,0,0,A,A,0,0,120.6,0,0,Check-Out
+Resort Hotel - Kolkata,France,CUST_436,INN00755,12-Nov-23,101,21-Feb-24,2,5,2,0,1,BB,Online TA,0,0,0,E,E,0,1,164,0,2,Canceled
+Resort Hotel - Hyderabad,Australia,CUST_058,INN00756,28-Mar-24,101,7-Jul-24,2,5,2,0,1,BB,Online TA,0,0,0,G,G,0,1,219.43,0,2,Canceled
+Resort Hotel - Chennai,France,CUST_456,INN00757,26-Feb-24,101,6-Jun-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,1,134,0,2,Canceled
+Resort Hotel - Delhi,Canada,CUST_569,INN00758,13-Dec-23,101,23-Mar-24,2,5,2,0,1,BB,Online TA,0,0,0,E,E,0,1,164,0,2,Canceled
+Resort Hotel - Lucknow,Australia,CUST_218,INN00759,31-May-24,38,8-Jul-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,107.2,0,0,Check-Out
+Resort Hotel - Lucknow,UAE,CUST_147,INN00760,9-Sep-24,76,24-Nov-24,2,5,2,0,0,BB,Online TA,0,0,0,D,D,0,3,102.72,0,1,Check-Out
+Resort Hotel - Bhopal,Germany,CUST_255,INN00761,2-Apr-24,70,11-Jun-24,0,1,2,1,0,BB,Online TA,0,0,0,D,E,0,1,114.85,0,1,Check-Out
+Resort Hotel - Bhopal,Australia,CUST_588,INN00762,7-Dec-23,70,15-Feb-24,0,1,2,1,0,BB,Online TA,0,0,0,D,E,0,1,114.85,0,1,Check-Out
+Resort Hotel - Kochi,Australia,CUST_378,INN00763,13-Oct-24,68,20-Dec-24,0,2,2,0,0,BB,Online TA,0,0,0,D,E,0,4,135,1,1,Check-Out
+Resort Hotel - Hyderabad,Australia,CUST_308,INN00764,6-Oct-24,63,8-Dec-24,0,3,2,2,1,BB,Online TA,0,0,0,G,G,0,3,195,0,0,Canceled
+Resort Hotel - Chennai,India,CUST_012,INN00765,26-May-24,11,6-Jun-24,0,3,2,0,1,BB,Online TA,0,0,0,D,D,0,0,173,0,0,Canceled
+Resort Hotel - Ahmedabad,Australia,CUST_308,INN00766,5-Mar-24,32,6-Apr-24,0,4,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,3,107,0,1,Check-Out
+Resort Hotel - Pune,UAE,CUST_567,INN00767,25-Jul-24,29,23-Aug-24,0,4,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,107,0,1,Check-Out
+Resort Hotel - Chandigarh,India,CUST_370,INN00768,22-Feb-24,47,9-Apr-24,0,4,2,0,0,BB,Direct,0,0,0,F,F,0,0,164,0,2,Check-Out
+Resort Hotel - Hyderabad,Canada,CUST_309,INN00769,3-Apr-24,50,23-May-24,0,5,2,0,0,BB,Online TA,0,0,0,D,D,0,1,138.8,0,1,Check-Out
+Resort Hotel - Jaipur,Germany,CUST_455,INN00770,31-Jul-24,29,29-Aug-24,0,5,2,0,1,BB,Online TA,0,0,0,D,D,0,1,154,0,2,Canceled
+Resort Hotel - Lucknow,USA,CUST_493,INN00771,3-Aug-24,36,8-Sep-24,0,5,2,0,0,BB,Direct,0,0,0,D,D,0,1,135,0,0,Check-Out
+Resort Hotel - Pune,India,CUST_422,INN00772,5-Oct-24,49,23-Nov-24,1,5,2,0,0,BB,Online TA,0,0,0,A,A,0,1,103.18,0,1,Check-Out
+Resort Hotel - Bangalore,Germany,CUST_305,INN00773,24-Dec-23,70,3-Mar-24,2,6,2,0,1,BB,Offline TA/TO,0,0,0,D,D,0,1,115.5,0,0,Canceled
+Resort Hotel - Kolkata,UK,CUST_324,INN00774,29-Jul-24,110,16-Nov-24,2,8,2,0,0,BB,Offline TA/TO,0,0,0,A,D,1,2,90.95,0,1,Check-Out
+Resort Hotel - Mumbai,Germany,CUST_475,INN00775,10-Jan-24,8,18-Jan-24,0,0,2,0,0,HB,Offline TA/TO,0,0,0,D,I,0,1,0,0,0,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_171,INN00776,21-May-24,119,17-Sep-24,0,4,2,0,1,BB,Online TA,0,0,0,A,A,0,1,108.54,0,1,Canceled
+Resort Hotel - Ahmedabad,UK,CUST_534,INN00777,18-Feb-24,30,19-Mar-24,0,4,2,0,0,BB,Online TA,0,0,0,A,E,0,2,146,1,2,Check-Out
+Resort Hotel - Bhopal,UAE,CUST_567,INN00778,21-Mar-24,29,19-Apr-24,1,4,2,0,1,BB,Online TA,0,0,0,D,D,0,1,165.4,0,1,Canceled
+Resort Hotel - Bhopal,USA,CUST_073,INN00779,20-Dec-23,71,29-Feb-24,1,4,2,0,0,BB,Online TA,0,0,0,A,C,0,0,134,0,0,Check-Out
+Resort Hotel - Chandigarh,France,CUST_076,INN00780,10-Nov-24,37,17-Dec-24,1,4,2,0,1,HB,Offline TA/TO,0,0,0,A,D,0,1,133,0,1,Canceled
+Resort Hotel - Chennai,Canada,CUST_239,INN00781,13-May-24,40,22-Jun-24,1,4,3,0,1,HB,Direct,0,0,0,H,H,0,0,240,0,0,Canceled
+Resort Hotel - Lucknow,UAE,CUST_097,INN00782,20-May-24,37,26-Jun-24,1,4,2,0,0,HB,Direct,0,0,0,A,D,0,0,157,0,1,Check-Out
+Resort Hotel - Kochi,India,CUST_312,INN00783,29-Sep-24,0,29-Sep-24,0,1,2,2,0,BB,Direct,0,0,0,H,H,0,0,188,0,0,Check-Out
+Resort Hotel - Lucknow,Australia,CUST_378,INN00784,28-Sep-24,37,4-Nov-24,1,4,2,0,1,HB,Offline TA/TO,0,0,0,A,D,0,4,133,0,1,Canceled
+Resort Hotel - Bhopal,India,CUST_550,INN00785,18-Dec-23,37,24-Jan-24,1,4,2,0,0,HB,Direct,0,0,0,A,D,0,1,145,0,1,Check-Out
+Resort Hotel - Goa,UAE,CUST_277,INN00786,9-Feb-24,97,16-May-24,1,4,2,0,0,BB,Online TA,0,0,0,A,A,0,1,134,0,2,Check-Out
+Resort Hotel - Chandigarh,USA,CUST_153,INN00787,22-Apr-24,71,2-Jul-24,1,4,2,0,1,BB,Online TA,0,0,0,A,A,0,0,134,0,0,Canceled
+Resort Hotel - Mumbai,India,CUST_481,INN00788,19-Jan-24,118,16-May-24,1,4,2,0,1,HB,Online TA,0,0,0,D,D,1,0,186,0,2,Canceled
+Resort Hotel - Jaipur,Canada,CUST_349,INN00789,8-Feb-24,102,20-May-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,D,0,2,90.95,0,1,Check-Out
+Resort Hotel - Indore,France,CUST_286,INN00790,25-Feb-24,54,19-Apr-24,2,5,2,0,1,BB,Online TA,0,0,0,F,F,0,3,141.65,0,0,Canceled
+Resort Hotel - Lucknow,Canada,CUST_289,INN00791,1-Sep-24,58,29-Oct-24,2,5,2,0,1,BB,Online TA,0,0,0,D,D,0,2,99.24,0,0,Canceled
+Resort Hotel - Ahmedabad,India,CUST_581,INN00792,31-Jan-24,34,5-Mar-24,2,4,2,0,0,BB,Online TA,0,0,0,A,D,0,1,108.06,0,1,Check-Out
+Resort Hotel - Pune,India,CUST_221,INN00793,9-Mar-24,105,22-Jun-24,2,5,2,0,1,BB,Offline TA/TO,0,0,0,A,D,0,0,90.95,0,0,Canceled
+Resort Hotel - Goa,Canada,CUST_559,INN00794,15-Nov-23,47,1-Jan-24,2,6,2,0,1,BB,Online TA,0,0,0,A,A,0,2,148.63,0,1,Canceled
+Resort Hotel - Kochi,India,CUST_461,INN00795,25-Apr-24,15,10-May-24,0,1,2,0,1,BB,Online TA,0,0,0,D,D,1,1,173,0,3,Canceled
+Resort Hotel - Jaipur,India,CUST_321,INN00796,4-Jan-24,37,10-Feb-24,0,1,1,0,0,BB,Offline TA/TO,0,0,0,A,F,1,0,107,0,0,Check-Out
+Resort Hotel - Kolkata,France,CUST_066,INN00797,18-Dec-24,0,18-Dec-24,0,1,1,0,1,BB,Corporate,0,0,0,A,A,0,1,114,0,0,Canceled
+Resort Hotel - Hyderabad,Germany,CUST_395,INN00798,12-Nov-24,8,20-Nov-24,0,1,2,0,1,BB,Online TA,0,0,0,A,H,0,1,153,0,1,Canceled
+Resort Hotel - Ahmedabad,Australia,CUST_178,INN00799,13-Jan-24,17,30-Jan-24,0,2,2,0,0,BB,Online TA,0,0,0,A,E,0,1,153,0,1,Check-Out
+Resort Hotel - Kochi,India,CUST_411,INN00800,25-Jul-24,3,28-Jul-24,0,3,3,1,0,HB,Direct,0,0,0,G,G,0,0,250.33,0,2,Check-Out
+Resort Hotel - Bhopal,USA,CUST_363,INN00801,27-May-24,30,26-Jun-24,0,3,2,0,1,BB,Online TA,0,0,0,A,A,0,1,146.67,0,2,Canceled
+Resort Hotel - Kochi,Germany,CUST_215,INN00802,5-Dec-23,31,5-Jan-24,0,3,2,0,1,BB,Online TA,0,0,0,D,D,0,0,154,0,2,Canceled
+Resort Hotel - Bangalore,France,CUST_306,INN00803,27-May-24,66,1-Aug-24,0,3,2,0,1,BB,Online TA,0,0,0,A,A,0,1,120.6,0,0,Canceled
+Resort Hotel - Chennai,India,CUST_391,INN00804,1-Oct-24,52,22-Nov-24,0,3,2,2,0,FB,Offline TA/TO,0,0,0,C,C,0,1,280.74,1,0,Check-Out
+Resort Hotel - Kochi,India,CUST_440,INN00805,28-Jan-24,20,17-Feb-24,1,3,2,1,0,BB,Online TA,0,0,0,A,C,0,2,193,0,1,Check-Out
+Resort Hotel - Bangalore,UK,CUST_474,INN00806,23-Aug-24,30,22-Sep-24,0,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,146.67,0,2,Canceled
+Resort Hotel - Kochi,Germany,CUST_245,INN00807,14-Feb-24,31,16-Mar-24,0,3,2,0,1,BB,Online TA,0,0,0,D,D,0,1,154,0,2,Canceled
+Resort Hotel - Kolkata,USA,CUST_183,INN00808,5-Sep-24,62,6-Nov-24,1,3,2,0,1,BB,Online TA,0,0,0,E,E,0,0,154.5,0,0,Canceled
+Resort Hotel - Jaipur,India,CUST_220,INN00809,11-Mar-24,65,15-May-24,1,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,120.6,0,0,Canceled
+Resort Hotel - Delhi,UAE,CUST_137,INN00810,5-Jul-24,64,7-Sep-24,2,3,2,0,1,BB,Online TA,0,0,0,A,A,1,3,137.8,0,0,Canceled
+Resort Hotel - Chandigarh,India,CUST_110,INN00811,18-Apr-24,77,4-Jul-24,2,7,2,0,0,HB,Direct,0,0,0,E,E,2,0,160,1,3,Check-Out
+Resort Hotel - Indore,UAE,CUST_097,INN00812,10-Apr-24,75,24-Jun-24,2,7,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,125.89,0,1,Check-Out
+Resort Hotel - Hyderabad,UK,CUST_064,INN00813,24-Sep-24,75,8-Dec-24,2,7,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,0,125.89,0,1,Check-Out
+Resort Hotel - Indore,India,CUST_532,INN00814,10-Sep-24,62,11-Nov-24,2,5,2,0,1,BB,Direct,0,0,0,D,D,0,0,126.71,0,0,Canceled
+Resort Hotel - Bhopal,India,CUST_180,INN00815,12-Apr-24,42,24-May-24,0,0,1,0,0,BB,Offline TA/TO,0,0,0,A,I,0,0,0,0,0,Check-Out
+Resort Hotel - Hyderabad,Canada,CUST_319,INN00816,6-Nov-24,46,22-Dec-24,0,0,2,0,0,HB,Online TA,0,0,0,E,I,0,0,0,1,0,Check-Out
+Resort Hotel - Pune,Australia,CUST_508,INN00817,16-Sep-24,0,16-Sep-24,0,1,2,2,0,BB,Direct,0,0,0,F,F,0,2,188,0,0,Check-Out
+Resort Hotel - Mumbai,USA,CUST_383,INN00818,13-Feb-24,25,9-Mar-24,0,1,2,0,1,BB,Online TA,0,0,0,A,A,0,1,153,0,2,Canceled
+Resort Hotel - Kochi,Germany,CUST_415,INN00819,29-Apr-24,16,15-May-24,0,1,2,0,1,BB,Online TA,0,0,0,D,D,0,0,173,0,3,Canceled
+Resort Hotel - Jaipur,Australia,CUST_298,INN00820,15-Jan-24,16,31-Jan-24,0,1,2,0,1,BB,Online TA,0,0,0,D,D,0,1,173,0,3,Canceled
+Resort Hotel - Delhi,Germany,CUST_285,INN00821,10-Sep-24,16,26-Sep-24,0,2,1,0,0,BB,Direct,0,0,0,A,A,0,0,120,0,1,Check-Out
+Resort Hotel - Bhopal,UK,CUST_504,INN00822,11-Nov-24,4,15-Nov-24,0,2,2,0,1,BB,Online TA,0,0,0,A,D,0,0,154.8,0,3,Canceled
+Resort Hotel - Mumbai,UAE,CUST_147,INN00823,30-Oct-24,4,3-Nov-24,0,2,2,0,0,BB,Online TA,0,0,0,D,D,0,3,192,0,2,Check-Out
+Resort Hotel - Mumbai,Australia,CUST_328,INN00824,3-Jun-24,25,28-Jun-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,153,0,0,Canceled
+Resort Hotel - Goa,Germany,CUST_005,INN00825,9-Feb-24,83,2-May-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,120.6,0,1,Canceled
+Resort Hotel - Chandigarh,Canada,CUST_169,INN00826,18-Oct-24,4,22-Oct-24,0,2,2,0,0,BB,Online TA,0,0,0,D,D,0,0,192,1,2,Check-Out
+Resort Hotel - Hyderabad,France,CUST_196,INN00827,1-May-24,56,26-Jun-24,0,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,120.6,0,0,Canceled
+Resort Hotel - Hyderabad,UK,CUST_154,INN00828,9-Jan-24,32,10-Feb-24,0,2,2,0,1,BB,Online TA,0,0,0,E,E,0,0,164,0,2,Canceled
+Resort Hotel - Ahmedabad,UAE,CUST_547,INN00829,30-Jul-24,32,31-Aug-24,0,2,2,2,0,BB,Online TA,0,0,0,H,H,0,0,219.5,0,0,Check-Out
+Resort Hotel - Lucknow,Canada,CUST_139,INN00830,8-Mar-24,0,8-Mar-24,0,2,2,0,0,HB,Online TA,0,0,0,A,C,0,0,192.5,0,1,Check-Out
+Resort Hotel - Delhi,Australia,CUST_438,INN00831,9-Jul-24,18,27-Jul-24,1,2,2,0,1,BB,Online TA,0,0,0,A,A,0,2,149.7,0,1,Canceled
+Resort Hotel - Bangalore,USA,CUST_063,INN00832,16-Dec-23,23,8-Jan-24,1,2,2,0,1,BB,Direct,0,0,0,A,A,0,0,111.92,0,0,Canceled
+Resort Hotel - Kochi,Australia,CUST_188,INN00833,29-Apr-24,39,7-Jun-24,1,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,120.6,0,1,Canceled
+Resort Hotel - Goa,India,CUST_250,INN00834,23-Feb-24,18,12-Mar-24,1,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,149.7,0,1,Canceled
+Resort Hotel - Chandigarh,India,CUST_010,INN00835,22-Jan-24,18,9-Feb-24,1,2,2,0,1,BB,Online TA,0,0,0,D,D,0,2,173,0,3,Canceled
+Resort Hotel - Hyderabad,Canada,CUST_359,INN00836,2-Apr-24,23,25-Apr-24,1,2,2,0,1,BB,Online TA,0,0,0,A,A,0,2,112,0,1,Canceled
+Resort Hotel - Lucknow,Germany,CUST_245,INN00837,16-Dec-23,286,27-Sep-24,2,2,1,0,0,BB,Direct,0,0,0,A,A,0,1,57.6,0,0,Check-Out
+Resort Hotel - Kochi,Canada,CUST_159,INN00838,16-Jul-24,72,26-Sep-24,2,2,2,2,0,BB,Online TA,0,0,0,G,G,0,1,214,1,0,Check-Out
+Resort Hotel - Kochi,Canada,CUST_549,INN00839,24-May-24,136,7-Oct-24,2,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,172,0,0,Canceled
+Resort Hotel - Mumbai,India,CUST_122,INN00840,30-Dec-23,58,26-Feb-24,2,3,1,0,0,BB,Online TA,0,0,0,D,D,1,2,157.8,0,0,Check-Out
+Resort Hotel - Hyderabad,France,CUST_196,INN00841,13-Oct-23,80,1-Jan-24,2,4,2,0,0,BB,Online TA,0,0,0,E,E,0,0,170.33,1,1,Check-Out
+Resort Hotel - Lucknow,UAE,CUST_077,INN00842,18-Feb-24,113,10-Jun-24,3,7,2,0,0,BB,Offline TA/TO,0,0,0,E,E,0,1,119.25,0,0,Check-Out
+Resort Hotel - Bangalore,India,CUST_092,INN00843,21-Aug-24,129,28-Dec-24,1,1,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,96.3,0,0,Check-Out
+Resort Hotel - Delhi,USA,CUST_113,INN00844,12-Feb-24,84,6-May-24,2,1,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,0,118.06,0,0,Canceled
+Resort Hotel - Delhi,France,CUST_246,INN00845,7-Nov-23,84,30-Jan-24,2,1,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,0,118.06,0,0,Canceled
+Resort Hotel - Bangalore,India,CUST_172,INN00846,18-Nov-23,89,15-Feb-24,0,1,2,0,1,BB,Direct,0,0,0,D,D,0,0,154,0,0,Canceled
+Resort Hotel - Goa,Canada,CUST_459,INN00847,21-May-24,10,31-May-24,0,1,2,0,1,BB,Direct,0,0,0,F,F,0,0,202,0,0,Canceled
+Resort Hotel - Delhi,Canada,CUST_219,INN00848,25-Dec-23,80,14-Mar-24,0,1,2,0,1,BB,Online TA,0,0,0,A,A,1,0,134,0,2,Canceled
+Resort Hotel - Goa,France,CUST_526,INN00849,22-Aug-24,10,1-Sep-24,0,1,2,0,1,BB,Direct,0,0,0,F,F,0,2,202,0,0,Canceled
+Resort Hotel - Pune,India,CUST_310,INN00850,2-Jun-24,10,12-Jun-24,0,1,2,0,1,BB,Direct,0,0,0,G,G,1,0,252,0,0,Canceled
+Resort Hotel - Jaipur,UAE,CUST_457,INN00851,24-Jul-24,24,17-Aug-24,0,1,2,2,1,BB,Online TA,0,0,0,G,G,1,0,233,0,1,Canceled
+Resort Hotel - Bhopal,Canada,CUST_539,INN00852,9-Apr-24,1,10-Apr-24,0,1,2,0,0,BB,Online TA,0,0,0,D,D,0,1,211,0,2,Check-Out
+Resort Hotel - Pune,India,CUST_350,INN00853,13-Jan-24,9,22-Jan-24,0,1,2,0,1,BB,Online TA,0,0,0,D,D,1,0,211,0,2,Canceled
+Resort Hotel - Chennai,Germany,CUST_355,INN00854,31-Dec-23,3,3-Jan-24,2,3,2,2,1,HB,Direct,0,0,0,C,C,1,0,237,0,1,Canceled
+Resort Hotel - Chandigarh,Australia,CUST_448,INN00855,5-Jul-24,3,8-Jul-24,2,5,2,0,0,BB,Online TA,0,0,0,A,A,0,1,188.29,0,2,Check-Out
+Resort Hotel - Hyderabad,Germany,CUST_495,INN00856,7-Jan-24,124,10-May-24,2,4,2,0,1,BB,Online TA,0,0,0,A,A,0,1,120.6,0,1,Canceled
+Resort Hotel - Jaipur,UK,CUST_424,INN00857,19-Feb-24,74,3-May-24,2,5,2,2,1,BB,Direct,0,0,0,C,C,0,1,177.14,0,0,Canceled
+Resort Hotel - Mumbai,Germany,CUST_385,INN00858,30-Apr-24,82,21-Jul-24,2,5,2,2,1,BB,Online TA,0,0,0,G,G,0,1,222.14,0,0,Canceled
+Resort Hotel - Lucknow,USA,CUST_593,INN00859,26-Nov-23,91,25-Feb-24,2,5,2,0,1,HB,Online TA,0,0,0,A,A,1,1,127.82,0,2,Canceled
+Resort Hotel - Ahmedabad,Germany,CUST_365,INN00860,6-Sep-24,77,22-Nov-24,2,5,2,0,1,HB,Online TA,0,0,0,D,D,0,0,194.14,0,0,Canceled
+Resort Hotel - Kolkata,UAE,CUST_547,INN00861,27-Jan-24,130,5-Jun-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,0,120.6,0,2,Canceled
+Resort Hotel - Hyderabad,India,CUST_312,INN00862,15-Feb-24,91,16-May-24,2,5,2,1,1,HB,Online TA,0,0,0,A,A,1,0,144.53,0,3,Canceled
+Resort Hotel - Delhi,UK,CUST_114,INN00863,24-Apr-24,79,12-Jul-24,2,5,3,0,0,HB,Direct,0,0,0,E,E,1,0,185,1,4,Check-Out
+Resort Hotel - Kochi,USA,CUST_083,INN00864,12-Feb-24,130,21-Jun-24,2,6,2,0,1,BB,Offline TA/TO,0,0,0,A,A,0,1,96.3,0,0,Canceled
+Resort Hotel - Indore,Australia,CUST_498,INN00865,8-Oct-24,66,13-Dec-24,2,6,2,0,0,HB,Online TA,0,0,0,D,D,2,1,193.13,0,0,Check-Out
+Resort Hotel - Pune,India,CUST_190,INN00866,14-Apr-24,53,6-Jun-24,3,6,2,0,1,HB,Online TA,0,0,0,E,E,0,1,210.78,0,0,Canceled
+Resort Hotel - Goa,Canada,CUST_119,INN00867,12-Jun-24,80,31-Aug-24,4,6,2,2,1,BB,Online TA,0,0,0,C,C,0,2,169,0,1,Canceled
+Resort Hotel - Goa,UK,CUST_494,INN00868,23-Mar-24,77,8-Jun-24,4,6,2,1,1,BB,Online TA,0,0,0,D,D,0,1,174.7,0,3,Canceled
+Resort Hotel - Jaipur,India,CUST_242,INN00869,16-Nov-23,57,12-Jan-24,4,10,2,2,1,BB,Online TA,0,0,0,C,C,1,1,135.53,0,0,Canceled
+Resort Hotel - Mumbai,India,CUST_031,INN00870,2-Jan-24,11,13-Jan-24,4,10,1,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,172,0,0,Check-Out
+Resort Hotel - Ahmedabad,UK,CUST_434,INN00871,30-Nov-24,25,25-Dec-24,1,0,2,0,1,BB,Online TA,0,0,0,A,A,0,0,144,0,2,Canceled
+Resort Hotel - Bhopal,UAE,CUST_017,INN00872,28-Jul-24,2,30-Jul-24,2,0,2,0,1,BB,Online TA,0,0,0,A,C,0,1,162.5,0,1,Canceled
+Resort Hotel - Kochi,India,CUST_600,INN00873,5-Dec-23,36,10-Jan-24,2,3,2,0,1,BB,Online TA,0,0,0,E,E,0,1,209.6,0,2,Canceled
+Resort Hotel - Hyderabad,Germany,CUST_065,INN00874,16-Jun-24,36,22-Jul-24,2,3,2,0,1,BB,Online TA,0,0,0,E,E,0,2,209.6,0,2,Canceled
+Resort Hotel - Mumbai,France,CUST_086,INN00875,11-Apr-24,115,4-Aug-24,2,5,3,0,0,HB,Offline TA/TO,0,0,0,E,E,0,0,195.5,1,1,Check-Out
+Resort Hotel - Hyderabad,UAE,CUST_597,INN00876,29-Apr-24,95,2-Aug-24,2,4,2,1,0,HB,Direct,0,0,0,A,A,4,0,186,1,4,Check-Out
+Resort Hotel - Chennai,Germany,CUST_005,INN00877,20-Apr-24,67,26-Jun-24,2,4,2,0,0,BB,Direct,0,0,0,D,D,0,0,163.5,0,1,Check-Out
+Resort Hotel - Chandigarh,Canada,CUST_219,INN00878,6-Aug-24,60,5-Oct-24,2,5,2,0,0,HB,Direct,0,0,0,A,A,0,0,180.28,0,0,Check-Out
+Resort Hotel - Lucknow,UK,CUST_234,INN00879,15-Jul-24,34,18-Aug-24,2,5,2,0,0,BB,Direct,0,0,0,C,C,3,1,174.76,1,1,Check-Out
+Resort Hotel - Kochi,UAE,CUST_277,INN00880,7-Jun-24,78,24-Aug-24,4,5,2,0,0,BB,Offline TA/TO,0,0,0,D,D,0,1,116.85,0,0,Check-Out
+Resort Hotel - Goa,India,CUST_010,INN00881,16-Dec-23,93,18-Mar-24,2,5,2,0,0,FB,Offline TA/TO,0,0,0,A,A,0,2,159,0,0,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_092,INN00882,13-May-23,327,4-Apr-24,4,10,2,0,1,BB,Offline TA/TO,0,0,0,D,D,0,0,104.55,0,0,Canceled
+Resort Hotel - Bangalore,France,CUST_596,INN00883,31-Mar-24,21,21-Apr-24,0,0,2,2,0,BB,Direct,0,0,0,C,F,0,1,0,0,0,Check-Out
+Resort Hotel - Indore,UAE,CUST_417,INN00884,11-Nov-24,0,11-Nov-24,1,0,2,0,0,BB,Online TA,0,0,0,C,C,0,0,144.76,0,0,Check-Out
+Resort Hotel - Indore,Australia,CUST_328,INN00885,29-Oct-24,47,15-Dec-24,1,1,2,0,1,HB,Online TA,0,0,0,D,D,0,1,205,0,0,Canceled
+Resort Hotel - Kochi,UAE,CUST_057,INN00886,14-Nov-23,81,3-Feb-24,1,3,2,0,1,BB,Offline TA/TO,0,0,0,D,D,0,0,123,0,0,Canceled
+Resort Hotel - Kochi,Australia,CUST_198,INN00887,3-Feb-24,52,26-Mar-24,1,4,2,0,1,BB,Online TA,0,0,0,D,D,0,1,173,0,0,Canceled
+Resort Hotel - Chandigarh,India,CUST_171,INN00888,5-Jan-24,13,18-Jan-24,1,4,2,2,1,BB,Offline TA/TO,0,0,0,C,C,1,1,220.55,0,0,Canceled
+Resort Hotel - Indore,Germany,CUST_475,INN00889,18-Nov-23,83,9-Feb-24,2,5,2,0,0,BB,Online TA,0,0,0,D,D,0,1,162.14,0,1,Check-Out
+Resort Hotel - Kolkata,Australia,CUST_358,INN00890,27-Apr-24,131,5-Sep-24,2,5,2,1,1,HB,Offline TA/TO,0,0,0,A,A,1,2,119.7,0,1,Canceled
+Resort Hotel - Chandigarh,UK,CUST_134,INN00891,14-Aug-23,460,16-Nov-24,2,5,1,0,0,HB,Offline TA/TO,0,0,0,E,E,0,2,77.54,0,0,Check-Out
+Resort Hotel - Lucknow,India,CUST_051,INN00892,14-Aug-24,82,4-Nov-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,1,120.6,0,0,Canceled
+Resort Hotel - Indore,UK,CUST_424,INN00893,8-Mar-24,61,8-May-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,1,153,0,0,Canceled
+Resort Hotel - Mumbai,Australia,CUST_158,INN00894,25-May-24,94,27-Aug-24,0,0,2,0,0,BB,Online TA,0,0,0,A,F,0,0,0,0,1,Check-Out
+Resort Hotel - Pune,UK,CUST_104,INN00895,5-Jul-24,1,6-Jul-24,0,0,2,0,0,BB,Online TA,0,0,0,D,F,0,1,0,0,2,Check-Out
+Resort Hotel - Kolkata,France,CUST_556,INN00896,22-Mar-24,0,22-Mar-24,0,1,2,0,0,BB,Direct,0,0,0,A,C,0,0,172,0,0,Check-Out
+Resort Hotel - Chandigarh,Canada,CUST_219,INN00897,24-May-24,36,29-Jun-24,0,3,1,0,1,BB,Direct,0,0,0,F,F,0,0,221,0,0,Canceled
+Resort Hotel - Jaipur,Germany,CUST_485,INN00898,31-Dec-23,61,1-Mar-24,0,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,153,0,0,Canceled
+Resort Hotel - Hyderabad,Australia,CUST_348,INN00899,5-Jun-24,13,18-Jun-24,0,4,2,1,0,HB,Direct,0,0,0,C,C,1,1,230.5,0,2,Check-Out
+Resort Hotel - Kolkata,UAE,CUST_177,INN00900,3-Jul-24,13,16-Jul-24,0,4,2,0,0,HB,Direct,0,0,0,C,C,1,1,230.5,1,2,Check-Out
+Resort Hotel - Goa,UAE,CUST_267,INN00901,17-Feb-24,15,3-Mar-24,0,4,2,0,1,BB,Online TA,0,0,0,D,D,0,0,211,0,1,Canceled
+Resort Hotel - Jaipur,Canada,CUST_049,INN00902,8-Sep-24,14,22-Sep-24,0,5,2,0,0,HB,Online TA,0,0,0,D,D,1,0,241,0,2,Check-Out
+Resort Hotel - Chandigarh,France,CUST_296,INN00903,1-Nov-24,13,14-Nov-24,1,5,2,0,1,BB,Online TA,0,0,0,D,D,0,1,211,0,1,Canceled
+Resort Hotel - Lucknow,USA,CUST_573,INN00904,27-Apr-24,140,14-Sep-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,D,0,0,90.95,1,0,Check-Out
+Resort Hotel - Lucknow,Australia,CUST_198,INN00905,3-Jan-24,6,9-Jan-24,2,5,2,0,0,BB,Online TA,0,0,0,A,A,0,1,188.29,0,2,Check-Out
+Resort Hotel - Jaipur,Canada,CUST_399,INN00906,26-Jul-24,140,13-Dec-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,D,0,1,90.95,0,0,Check-Out
+Resort Hotel - Kolkata,USA,CUST_413,INN00907,22-Nov-23,81,11-Feb-24,2,8,2,0,0,HB,Direct,0,0,0,D,D,1,0,187.8,0,1,Check-Out
+Resort Hotel - Bhopal,France,CUST_406,INN00908,13-Feb-24,1,14-Feb-24,0,0,3,0,0,BB,Online TA,0,0,0,D,I,0,0,0,0,2,Check-Out
+Resort Hotel - Delhi,India,CUST_211,INN00909,4-Jul-24,65,7-Sep-24,0,0,2,0,0,HB,Offline TA/TO,0,0,0,D,I,0,0,0,0,0,Check-Out
+Resort Hotel - Ahmedabad,Germany,CUST_085,INN00910,14-May-24,0,14-May-24,0,1,2,0,1,BB,Direct,0,0,0,D,F,0,2,172,0,1,Canceled
+Resort Hotel - Bhopal,India,CUST_581,INN00911,12-Sep-24,2,14-Sep-24,0,1,2,0,0,BB,Online TA,0,0,0,A,D,0,1,171.9,0,0,Check-Out
+Resort Hotel - Lucknow,UK,CUST_324,INN00912,22-Aug-24,0,22-Aug-24,0,1,2,0,0,BB,Direct,0,0,0,L,F,0,2,200,0,0,Check-Out
+Resort Hotel - Chennai,India,CUST_202,INN00913,2-Aug-24,114,24-Nov-24,0,3,2,0,1,HB,Online TA,0,0,0,A,A,0,0,149.4,0,0,Canceled
+Resort Hotel - Kolkata,Australia,CUST_328,INN00914,24-Jun-24,111,13-Oct-24,0,4,2,0,1,BB,Online TA,0,0,0,D,D,1,1,154,0,1,Canceled
+Resort Hotel - Indore,India,CUST_600,INN00915,2-Apr-24,44,16-May-24,0,4,2,0,0,BB,Online TA,0,0,0,A,A,0,1,148.25,1,0,Check-Out
+Resort Hotel - Bangalore,India,CUST_022,INN00916,2-Dec-23,139,19-Apr-24,0,4,2,0,0,BB,Online TA,0,0,0,A,A,0,2,172,0,1,Check-Out
+Resort Hotel - Ahmedabad,Australia,CUST_468,INN00917,28-Oct-24,57,24-Dec-24,1,4,2,0,1,BB,Online TA,0,0,0,E,E,0,1,183,0,0,Canceled
+Resort Hotel - Lucknow,India,CUST_401,INN00918,29-Oct-24,16,14-Nov-24,1,4,2,0,1,HB,Online TA,0,0,0,D,D,0,0,242.6,0,1,Canceled
+Resort Hotel - Indore,India,CUST_081,INN00919,25-Aug-23,139,11-Jan-24,0,4,3,0,0,BB,Online TA,0,0,0,A,A,1,0,172,0,2,Check-Out
+Resort Hotel - Lucknow,Canada,CUST_049,INN00920,24-Nov-23,84,16-Feb-24,2,5,2,1,0,HB,Online TA,0,0,0,A,A,1,0,168.71,0,3,Check-Out
+Resort Hotel - Jaipur,UK,CUST_374,INN00921,16-May-24,117,10-Sep-24,2,6,2,0,1,HB,Online TA,0,0,0,A,A,0,1,166,0,0,Canceled
+Resort Hotel - Jaipur,India,CUST_521,INN00922,26-Oct-23,69,3-Jan-24,0,1,1,0,1,BB,Direct,0,0,0,A,A,1,1,112,0,0,Canceled
+Resort Hotel - Mumbai,India,CUST_070,INN00923,7-Mar-24,2,9-Mar-24,0,1,2,0,0,BB,Online TA,0,0,0,A,A,0,0,172,0,0,Check-Out
+Resort Hotel - Chandigarh,France,CUST_186,INN00924,5-Mar-24,118,1-Jul-24,0,3,2,0,1,BB,Online TA,0,0,0,A,A,0,0,120.6,0,0,Canceled
+Resort Hotel - Bhopal,India,CUST_502,INN00925,27-Jul-24,129,3-Dec-24,0,3,2,0,0,BB,Direct,0,0,0,E,F,0,2,126,0,1,Check-Out
+Resort Hotel - Pune,Germany,CUST_505,INN00926,16-Jan-24,9,25-Jan-24,0,3,2,2,0,HB,Online TA,0,0,0,G,C,2,0,268,1,1,Check-Out
+Resort Hotel - Chennai,USA,CUST_503,INN00927,31-Jul-24,52,21-Sep-24,1,3,2,0,0,BB,Direct,0,0,0,E,E,1,1,173,0,0,Check-Out
+Resort Hotel - Lucknow,India,CUST_342,INN00928,29-Nov-23,65,2-Feb-24,2,3,2,0,0,HB,Offline TA/TO,0,0,0,D,D,1,0,149.2,0,0,Check-Out
+Resort Hotel - Hyderabad,Canada,CUST_469,INN00929,1-Mar-24,7,8-Mar-24,2,3,2,0,0,HB,Online TA,0,0,0,A,A,1,1,217.2,1,4,Check-Out
+Resort Hotel - Hyderabad,India,CUST_140,INN00930,18-Sep-24,28,16-Oct-24,1,3,3,0,1,BB,Online TA,0,0,0,D,D,0,0,239.3,0,1,Canceled
+Resort Hotel - Ahmedabad,India,CUST_440,INN00931,17-May-24,3,20-May-24,2,4,2,0,0,BB,Online TA,0,0,0,A,A,0,2,181.5,0,3,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_170,INN00932,28-Jul-24,87,23-Oct-24,2,6,2,0,0,BB,Online TA,0,0,0,D,D,2,0,154,0,2,Check-Out
+Resort Hotel - Ahmedabad,USA,CUST_313,INN00933,16-Apr-24,51,6-Jun-24,2,6,2,0,0,BB,Online TA,0,0,0,D,D,0,0,173,0,0,Check-Out
+Resort Hotel - Lucknow,UAE,CUST_237,INN00934,15-Jul-24,136,28-Nov-24,2,8,3,1,0,BB,Direct,0,0,0,G,G,1,0,181.9,0,3,Check-Out
+Resort Hotel - Chennai,Canada,CUST_479,INN00935,20-Nov-24,4,24-Nov-24,0,0,2,0,0,BB,Online TA,0,0,0,E,I,0,0,0,0,2,Check-Out
+Resort Hotel - Hyderabad,Canada,CUST_259,INN00936,2-Jun-24,1,3-Jun-24,0,1,2,0,0,BB,Corporate,0,0,0,A,F,0,1,114,0,0,Check-Out
+Resort Hotel - Lucknow,UK,CUST_104,INN00937,18-Dec-23,49,5-Feb-24,0,2,2,2,1,BB,Online TA,0,0,0,H,H,0,1,267,0,0,Canceled
+Resort Hotel - Bhopal,India,CUST_360,INN00938,17-Sep-24,4,21-Sep-24,0,2,2,1,0,BB,Online TA,0,0,0,D,D,1,1,226,0,4,Check-Out
+Resort Hotel - Jaipur,India,CUST_421,INN00939,11-Jan-24,45,25-Feb-24,0,2,2,0,1,BB,Online TA,0,0,0,D,D,0,1,173,0,0,Canceled
+Resort Hotel - Mumbai,Canada,CUST_199,INN00940,18-Jun-24,6,24-Jun-24,0,2,2,0,0,BB,Online TA,0,0,0,D,F,0,0,211,0,1,Check-Out
+Resort Hotel - Bangalore,Canada,CUST_359,INN00941,18-Feb-24,4,22-Feb-24,0,2,2,0,0,BB,Online TA,0,0,0,A,H,0,2,191,0,3,Check-Out
+Resort Hotel - Goa,UK,CUST_584,INN00942,19-Apr-24,53,11-Jun-24,1,2,2,0,1,BB,Online TA,0,0,0,D,D,0,0,173,0,0,Canceled
+Resort Hotel - Bhopal,Canada,CUST_519,INN00943,15-Apr-24,52,6-Jun-24,1,2,2,0,0,BB,Direct,0,0,0,E,F,0,1,173,0,1,Check-Out
+Resort Hotel - Ahmedabad,India,CUST_551,INN00944,13-May-24,4,17-May-24,2,2,2,2,1,BB,Online TA,0,0,0,G,G,1,0,277.5,0,2,Canceled
+Resort Hotel - Bangalore,Germany,CUST_425,INN00945,13-Aug-24,98,19-Nov-24,2,2,2,0,0,BB,Online TA,0,0,0,A,D,0,1,134,0,2,Check-Out
+Resort Hotel - Hyderabad,India,CUST_002,INN00946,30-Sep-24,46,15-Nov-24,2,2,2,0,1,BB,Online TA,0,0,0,A,A,0,1,153,0,0,Canceled
+Resort Hotel - Kochi,Australia,CUST_588,INN00947,28-Feb-24,122,29-Jun-24,2,2,2,0,1,HB,Online TA,0,0,0,D,D,0,1,186,0,1,Canceled
+Resort Hotel - Delhi,Australia,CUST_168,INN00948,14-Oct-23,83,5-Jan-24,2,2,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,0,107.2,0,2,Check-Out
+Resort Hotel - Chennai,UK,CUST_004,INN00949,13-Jul-24,16,29-Jul-24,2,3,2,0,0,BB,Online TA,0,0,0,E,E,0,1,221,0,2,Check-Out
+Resort Hotel - Delhi,India,CUST_572,INN00950,20-Aug-24,43,2-Oct-24,2,4,2,0,1,HB,Online TA,0,0,0,A,A,0,2,202,0,0,Canceled
+Resort Hotel - Hyderabad,Canada,CUST_539,INN00951,6-Jun-24,73,18-Aug-24,2,5,2,2,1,BB,Online TA,0,0,0,C,C,0,1,169,0,0,Canceled
+Resort Hotel - Ahmedabad,UK,CUST_184,INN00952,7-Jul-24,116,31-Oct-24,2,5,2,2,0,BB,Offline TA/TO,0,0,0,C,C,0,1,133.5,1,2,Check-Out
+Resort Hotel - Chandigarh,Germany,CUST_545,INN00953,11-Aug-24,113,2-Dec-24,2,5,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,0,154.38,0,1,Canceled
+Resort Hotel - Kolkata,Australia,CUST_438,INN00954,23-May-24,113,13-Sep-24,2,5,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,2,154.38,0,1,Canceled
+Resort Hotel - Delhi,Germany,CUST_275,INN00955,17-Jun-24,51,7-Aug-24,2,5,2,0,0,HB,Online TA,0,0,0,D,D,0,1,205,0,2,Check-Out
+Resort Hotel - Indore,India,CUST_501,INN00956,13-Feb-24,65,18-Apr-24,2,7,2,0,0,BB,Online TA,0,0,0,A,A,1,2,121.39,1,1,Check-Out
+Resort Hotel - Indore,USA,CUST_533,INN00957,3-May-24,0,3-May-24,0,1,2,0,0,BB,Online TA,0,0,0,A,A,0,1,171.9,1,0,Check-Out
+Resort Hotel - Hyderabad,UAE,CUST_437,INN00958,16-Mar-24,87,11-Jun-24,0,1,2,0,1,BB,Online TA,0,0,0,E,E,0,0,164,0,1,Canceled
+Resort Hotel - Goa,India,CUST_220,INN00959,13-Feb-24,106,29-May-24,1,1,2,0,1,BB,Online TA,0,0,0,A,A,0,0,134,0,1,Canceled
+Resort Hotel - Hyderabad,India,CUST_282,INN00960,31-Jul-24,5,5-Aug-24,1,1,2,0,0,BB,Online TA,0,0,0,G,H,0,1,250,0,1,Check-Out
+Resort Hotel - Chennai,Canada,CUST_279,INN00961,3-May-24,98,9-Aug-24,1,1,2,0,0,HB,Online TA,0,0,0,E,F,0,2,208,1,1,Check-Out
+Resort Hotel - Mumbai,UK,CUST_004,INN00962,13-Aug-24,78,30-Oct-24,1,1,2,2,1,BB,Direct,0,0,0,C,C,0,1,181,0,0,Canceled
+Resort Hotel - Kolkata,UAE,CUST_557,INN00963,22-Apr-24,4,26-Apr-24,2,1,2,0,0,BB,Online TA,0,0,0,A,A,0,1,172,0,3,Check-Out
+Resort Hotel - Goa,UAE,CUST_137,INN00964,6-Jul-24,5,11-Jul-24,2,1,2,0,0,BB,Online TA,0,0,0,D,D,0,3,157.59,0,1,Check-Out
+Resort Hotel - Mumbai,UK,CUST_324,INN00965,17-Dec-24,3,20-Dec-24,2,2,2,0,0,HB,Online TA,0,0,0,A,D,0,2,211.75,1,3,Check-Out
+Resort Hotel - Hyderabad,India,CUST_390,INN00966,17-Jun-24,85,10-Sep-24,2,2,2,0,0,HB,Online TA,0,0,0,G,G,0,1,246,0,1,Check-Out
+Resort Hotel - Delhi,India,CUST_030,INN00967,13-Aug-24,137,28-Dec-24,2,2,2,0,1,BB,Online TA,0,0,0,A,A,0,0,108.54,0,1,Canceled
+Resort Hotel - Chennai,Australia,CUST_348,INN00968,29-Apr-24,67,5-Jul-24,2,4,2,0,1,HB,Online TA,0,0,0,D,D,0,1,186,0,0,Canceled
+Resort Hotel - Lucknow,Australia,CUST_438,INN00969,13-Mar-24,54,6-May-24,2,5,2,0,1,HB,Online TA,0,0,0,D,D,0,2,205,0,1,Canceled
+Resort Hotel - Bangalore,Germany,CUST_345,INN00970,23-Nov-23,87,18-Feb-24,2,5,2,0,1,BB,Online TA,0,0,0,D,D,0,0,154,0,1,Canceled
+Resort Hotel - Kolkata,Germany,CUST_405,INN00971,5-Apr-24,54,29-May-24,2,5,2,0,1,HB,Direct,0,0,0,A,A,0,0,200.71,0,0,No-Show
+Resort Hotel - Jaipur,India,CUST_590,INN00972,9-Sep-24,12,21-Sep-24,2,5,2,2,0,BB,Offline TA/TO,0,0,0,G,G,0,0,252,1,1,Check-Out
+Resort Hotel - Bangalore,UAE,CUST_507,INN00973,27-May-24,60,26-Jul-24,2,5,2,2,1,BB,Offline TA/TO,0,0,0,C,C,0,0,135.2,0,0,Canceled
+Resort Hotel - Lucknow,UK,CUST_074,INN00974,10-Aug-24,75,24-Oct-24,2,5,2,2,0,FB,Direct,0,0,0,C,C,0,0,276.43,1,3,Check-Out
+Resort Hotel - Kochi,Australia,CUST_288,INN00975,12-Jun-24,54,5-Aug-24,2,5,2,0,1,HB,Direct,0,0,0,F,F,0,0,228,0,0,Canceled
+Resort Hotel - Kochi,France,CUST_586,INN00976,2-Feb-24,126,7-Jun-24,2,5,2,1,0,HB,Offline TA/TO,0,0,0,A,A,0,0,133,1,2,Check-Out
+Resort Hotel - Chandigarh,India,CUST_490,INN00977,27-Jan-24,54,21-Mar-24,2,5,2,0,1,HB,Online TA,0,0,0,D,D,0,1,205,0,1,Canceled
+Resort Hotel - Bangalore,Germany,CUST_435,INN00978,3-Dec-23,84,25-Feb-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,0,134,0,2,Canceled
+Resort Hotel - Lucknow,Germany,CUST_295,INN00979,7-Dec-23,106,22-Mar-24,2,5,2,0,1,HB,Offline TA/TO,0,0,0,A,A,0,1,119.7,0,1,Canceled
+Resort Hotel - Lucknow,Australia,CUST_588,INN00980,5-Dec-23,136,19-Apr-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,90.95,0,1,Check-Out
+Resort Hotel - Delhi,Germany,CUST_025,INN00981,30-Apr-24,98,6-Aug-24,2,5,2,0,0,HB,Offline TA/TO,0,0,0,A,A,0,1,138,0,0,Check-Out
+Resort Hotel - Hyderabad,UAE,CUST_337,INN00982,18-Mar-24,91,17-Jun-24,2,5,2,0,1,BB,Online TA,0,0,0,A,A,0,0,134,0,1,Canceled
+Resort Hotel - Chennai,India,CUST_002,INN00983,18-Aug-24,58,15-Oct-24,2,6,1,0,1,BB,Direct,0,0,0,E,E,1,1,173,0,0,Canceled
+Resort Hotel - Ahmedabad,India,CUST_311,INN00984,9-Jun-24,61,9-Aug-24,4,9,2,0,0,BB,Online TA,0,0,0,D,D,0,2,165.69,1,0,Check-Out
+Resort Hotel - Bangalore,Australia,CUST_158,INN00985,24-Oct-24,0,24-Oct-24,1,0,2,0,0,BB,Direct,0,0,0,G,G,0,0,195,0,0,Check-Out
+Resort Hotel - Mumbai,Germany,CUST_405,INN00986,7-Sep-24,5,12-Sep-24,1,0,2,0,0,BB,Online TA,0,0,0,A,E,0,0,127.31,0,0,Check-Out
+Resort Hotel - Chandigarh,UAE,CUST_037,INN00987,24-Oct-24,2,26-Oct-24,1,0,2,0,0,BB,Online TA,0,0,0,D,D,0,0,134,0,1,Check-Out
+Resort Hotel - Kochi,India,CUST_122,INN00988,14-Jun-24,9,23-Jun-24,2,0,2,1,1,BB,Direct,0,0,0,D,D,0,2,207,0,2,Canceled
+Resort Hotel - Jaipur,India,CUST_501,INN00989,13-Jun-24,10,23-Jun-24,2,0,2,0,1,BB,Online TA,0,0,0,E,E,0,2,211.5,0,1,Canceled
+Resort Hotel - Indore,India,CUST_112,INN00990,6-Dec-23,62,6-Feb-24,2,1,2,0,0,BB,Online TA,0,0,0,E,F,1,1,210.33,1,2,Check-Out
+Resort Hotel - Pune,USA,CUST_343,INN00991,11-Mar-24,34,14-Apr-24,2,2,2,0,0,BB,Online TA,0,0,0,D,D,0,1,211,0,1,Check-Out
+Resort Hotel - Chennai,Australia,CUST_548,INN00992,8-Feb-24,82,30-Apr-24,2,2,2,0,0,BB,Online TA,0,0,0,D,D,0,1,154,0,0,Check-Out
+Resort Hotel - Bhopal,USA,CUST_273,INN00993,14-Oct-24,65,18-Dec-24,2,3,2,0,1,BB,Online TA,0,0,0,A,A,0,1,145.4,0,0,Canceled
+Resort Hotel - Mumbai,UK,CUST_204,INN00994,5-Jun-24,129,12-Oct-24,2,3,1,0,1,BB,Online TA,0,0,0,A,A,0,0,101.25,0,0,Canceled
+Resort Hotel - Bhopal,India,CUST_010,INN00995,21-May-24,55,15-Jul-24,2,4,2,0,0,HB,Online TA,0,0,0,D,D,0,2,179.38,0,0,Check-Out
+Resort Hotel - Delhi,UAE,CUST_517,INN00996,12-Sep-23,122,12-Jan-24,2,4,2,0,1,HB,Online TA,0,0,0,A,A,0,1,166,0,2,Canceled
+Resort Hotel - Pune,UAE,CUST_137,INN00997,18-Jan-24,41,28-Feb-24,2,4,2,0,1,BB,Online TA,0,0,0,E,E,0,3,202,0,2,Canceled
+Resort Hotel - Pune,Canada,CUST_529,INN00998,12-Feb-24,41,24-Mar-24,2,4,2,0,1,BB,Online TA,0,0,0,A,A,0,1,172,0,2,Canceled
+Resort Hotel - Bangalore,UK,CUST_404,INN00999,4-Oct-24,81,24-Dec-24,2,4,2,2,0,FB,Direct,0,0,0,C,C,0,0,277,1,1,Check-Out
+Resort Hotel - Pune,USA,CUST_503,INN01000,18-Apr-24,59,16-Jun-24,2,5,2,0,0,BB,Offline TA/TO,0,0,0,A,A,0,1,104,0,0,Check-Out
