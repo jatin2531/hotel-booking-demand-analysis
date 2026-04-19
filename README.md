@@ -1,10 +1,11 @@
 # hotel-booking-demand-analysis
-This is our group project
-#Group Members
-1.Devashree Gajanan Virutkar
-2.Kalyani Sanjay Davange
-3.Jatin Prakash
-4.Kabita Sikdar
+This is our group project.
+
+## Group Members
+- Devashree Gajanan Virutkar  
+- Kalyani Sanjay Davange  
+- Jatin Prakash  
+- Kabita Sikdar  
 
 #project Discription
 Analysis of hotel booking demand and customer behavior.
