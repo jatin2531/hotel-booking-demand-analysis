@@ -7,24 +7,34 @@ This is our group project.
 - Jatin Prakash  
 - Kabita Sikdar  
 
-#project Discription
-Analysis of hotel booking demand and customer behavior.
-This is a group data analytics project focused on analyzing hotel booking data to uncover meaningful insights into customer behavior, booking trends, and cancellation patterns. The project also includes a predictive model to identify potential booking cancellations.
+## project Discription
+Analysis of hotel booking demand and customer behavior. This is a group data analytics project focused on analyzing hotel booking data to uncover meaningful insights into customer behavior, booking trends, and cancellation patterns. The project also includes a predictive model to identify potential booking cancellations.
 
-#Objectives
-- Analyze hotel booking demand and trends  
-- Identify key factors influencing cancellations  
-- Study the impact of pricing (ADR) on customer decisions  
-- Build a machine learning model for cancellation prediction
+## Problem Statement
+The hotel wants to understand booking patterns and reduce cancellations to improve revenue and operations.
 
-#Tools & Technologies
-- Python (Pandas, NumPy)  
-- Data Visualization (Matplotlib, Seaborn)  
-- Machine Learning (Scikit-learn)  
-- Excel  
-- Power BI / Tableau
+# Objectives
+To analyze hotel booking data, find key trends, and build a model that helps predict cancellations and support better business decisions.
 
-#Dataset
-Hotel Booking Demand Dataset (Kaggle)
+# Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Tableau / Power BI
+- Machine Learning (Logistic Regression)
 
+# Dataset
+- Hotel Booking Demand Dataset (Kaggle)
 
+# Insights
+- Online booking channels have higher cancellation rates.
+- Majority of bookings are short stays (2–4 nights).
+- Pricing shows clear seasonal variation.
+- Room allocation mismatches indicate operational inefficiencies.
+- Predictive model can effectively identify high-risk bookings in advance.
+
+# Recommendations
+- Improve cancellation policies for online bookings
+- Focus on short-stay customer demand
+- Use dynamic pricing in peak seasons
+- Improve room allocation system
+- Use prediction model to reduce cancellations
