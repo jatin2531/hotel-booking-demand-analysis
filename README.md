@@ -17,10 +17,10 @@ The hotel wants to understand booking patterns and reduce cancellations to impro
 To analyze hotel booking data, find key trends, and build a model that helps predict cancellations and support better business decisions.
 
 # Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn , Scikit-Learn)
 - Jupyter Notebook
 - Tableau / Power BI
-- Machine Learning (Logistic Regression)
+- ML Model(Logistic Regression, Decision Tree, Random Forest)
 
 # Dataset
 - Hotel Booking Demand Dataset (Kaggle)
