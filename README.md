@@ -10,7 +10,7 @@ This is our group project.
 ## project Discription
 Analysis of hotel booking demand and customer behavior. This is a group data analytics project focused on analyzing hotel booking data to uncover meaningful insights into customer behavior, booking trends, and cancellation patterns. The project also includes a predictive model to identify potential booking cancellations.
 
-## Problem Statement
+# Problem Statement
 The hotel wants to understand booking patterns and reduce cancellations to improve revenue and operations.
 
 # Objectives
