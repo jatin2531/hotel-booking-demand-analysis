@@ -14,12 +14,12 @@ Analysis of hotel booking demand and customer behavior. This is a group data ana
 The hotel wants to understand booking patterns and reduce cancellations to improve revenue and operations.
 
 ## Objectives
-• Analyze hotel booking data to understand trends and patterns 
-•	Identify key factors influencing booking cancellations 
-• Study pricing behavior using Average Daily Rate (ADR) 
-• Segment customers based on booking behavior 
-• Build a predictive model to forecast cancellations 
-• Support better business decisions and improve revenue management 
+- Analyze hotel booking data to understand trends and patterns 
+-	Identify key factors influencing booking cancellations 
+- Study pricing behavior using Average Daily Rate (ADR) 
+- Segment customers based on booking behavior 
+- Build a predictive model to forecast cancellations 
+- Support better business decisions and improve revenue management 
 
 
 ## Tools & Technologies
