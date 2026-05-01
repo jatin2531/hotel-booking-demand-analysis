@@ -28,8 +28,13 @@ The hotel wants to understand booking patterns and reduce cancellations to impro
 - Tableau / Power BI
 - ML Model(Logistic Regression, Decision Tree, Random Forest)
 
-## Dataset
-- Hotel Booking Demand Dataset (Kaggle)
+## Methodology
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Machine learning modeling
+- Model evaluation
+- Dashboard visualization
 
 ## Insights
 - Online booking channels have higher cancellation rates.
