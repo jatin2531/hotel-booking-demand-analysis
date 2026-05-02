@@ -60,13 +60,13 @@ Designed and developed an interactive dashboard to visualize hotel booking insig
 - Predictive model can effectively identify high-risk bookings in advance.
 
 ## Recommendations
-- **Improve cancellation policies for online bookings**
+- **Improve cancellation policies for online bookings** - 
   Promote targeted offers and packages for short-stay customers to increase occupancy and improve revenue consistency.
-- **Focus on short-stay customer demand**
+- **Focus on short-stay customer demand** - 
   Promote targeted offers and packages for short-stay customers to increase occupancy and improve revenue consistency.
-- **Implement dynamic pricing in peak seasons**
+- **Implement dynamic pricing in peak seasons** - 
   Adjust room rates based on seasonal demand trends by increasing prices during high-demand periods and offering discounts during low-demand periods.
-- **Improve room allocation system**
+- **Improve room allocation system** - 
   Use booking trends and demand forecasts to allocate rooms efficiently and reduce last-minute availability issues.
-- **Use prediction model to reduce cancellations**
+- **Use prediction model to reduce cancellations** - 
   Use machine learning models to identify high-risk bookings in advance and take proactive actions such as sending reminders or offering incentives    to reduce cancellations.
