@@ -1,5 +1,5 @@
 # hotel-booking-demand-analysis
-This is our group project.
+This is a group data analytics project.
 
 ## Group Members
 - Devashree Gajanan Virutkar  
@@ -18,7 +18,7 @@ Analysis of hotel booking demand and customer behavior. This is a group data ana
 - Pricing is not aligned with customer behavior and seasonal trends
   
 ## Problem Statement
-The hotel wants to understand booking patterns and reduce cancellations to improve revenue and operations.
+The hotel aims to analyze booking data to reduce cancellations and improve revenue by understanding customer behavior and pricing trends.
 
 ## Objectives
 - Analyze hotel booking data to understand trends and patterns 
@@ -32,7 +32,7 @@ The hotel wants to understand booking patterns and reduce cancellations to impro
 - Python (Pandas, NumPy, Matplotlib, Seaborn , Scikit-Learn)
 - Jupyter Notebook
 - Tableau / Power BI
-- ML Model(Logistic Regression, Decision Tree, Random Forest)
+- Machine Learning Models (Logistic Regression, Decision Tree, Random Forest)
 
 ## Methodology
 - Data cleaning and preprocessing
@@ -57,7 +57,16 @@ Designed and developed an interactive dashboard to visualize hotel booking insig
 - Average Daily Rate (ADR) Analysis  
 - City-wise Booking Comparison  
 - Interactive Slicers for filtering by city, month, hotel type and country  
-- Attractive and user-friendly layout design  
+- Attractive and user-friendly layout design
+
+## Exploratory Data Analysis (EDA) -
+was performed to understand booking patterns, customer behavior, and factors affecting cancellations.
+### Key analysis performed:
+• Analyzed cancellation distribution to compare canceled and non-canceled bookings  
+• Studied the relationship between Average Daily Rate (ADR) and cancellations  
+• Examined the impact of lead time on booking cancellations  
+• Explored seasonal booking trends  
+• Performed customer segmentation analysis  
 
 ## Insights
 - Online booking channels have higher cancellation rates.
