@@ -52,10 +52,6 @@ Designed and developed an interactive dashboard to visualize hotel booking insig
 - Interactive Slicers for filtering by city, month, hotel type and country  
 - Attractive and user-friendly layout design  
 
-### Dashboard Purpose
-The dashboard helps stakeholders quickly understand booking performance, cancellation patterns, revenue indicators, and customer trends for better decision-making.
-
-## Insights
 ## Insights
 - Online booking channels have higher cancellation rates.
 - Majority of bookings are short stays (2–4 nights).
