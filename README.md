@@ -60,7 +60,7 @@ Designed and developed an interactive dashboard to visualize hotel booking insig
 - Attractive and user-friendly layout design
 
 ## Exploratory Data Analysis (EDA) -
-was performed to understand booking patterns, customer behavior, and factors affecting cancellations.
+performed to understand booking patterns, customer behavior, and factors affecting cancellations.
 ### Key analysis performed:
 • Analyzed cancellation distribution to compare canceled and non-canceled bookings  
 • Studied the relationship between Average Daily Rate (ADR) and cancellations  
@@ -75,7 +75,7 @@ was performed to understand booking patterns, customer behavior, and factors aff
 - Room allocation mismatches indicate operational inefficiencies.
 - Predictive model can effectively identify high-risk bookings in advance.
 
-## Recommendations
+##  Strategic Recommendations
 - **Improve cancellation policies for online bookings** - 
   Promote targeted offers and packages for short-stay customers to increase occupancy and improve revenue consistency.
 - **Focus on short-stay customer demand** - 
