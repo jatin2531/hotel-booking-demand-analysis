@@ -37,7 +37,7 @@ The hotel wants to understand booking patterns and reduce cancellations to impro
   
 ## Dashboard 
 Designed and developed an interactive dashboard to visualize hotel booking insights.
-![Hotel Dashboard] (https://github.com/Kalyani5002/hotel-booking-demand-analysis/blob/main/Final%20Report%20Of%20Cancellation%20Analysis.png)
+![Hotel Dashboard](https://github.com/Kalyani5002/hotel-booking-demand-analysis/blob/main/Final%20Report%20Of%20Cancellation%20Analysis.png)
 
 ## Dashboard Features
 - Total Bookings KPI  
