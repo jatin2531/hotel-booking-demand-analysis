@@ -21,7 +21,6 @@ The hotel wants to understand booking patterns and reduce cancellations to impro
 - Build a predictive model to forecast cancellations 
 - Support better business decisions and improve revenue management 
 
-
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn , Scikit-Learn)
 - Jupyter Notebook
@@ -38,8 +37,7 @@ The hotel wants to understand booking patterns and reduce cancellations to impro
   
 ## Dashboard 
 Designed and developed an interactive dashboard to visualize hotel booking insights.
-
-
+https://github.com/Kalyani5002/hotel-booking-demand-analysis/blob/main/Final%20Report%20Of%20Cancellation%20Analysis.png
 
 ## Dashboard Features
 - Total Bookings KPI  
