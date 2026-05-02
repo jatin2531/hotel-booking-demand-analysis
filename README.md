@@ -77,7 +77,7 @@ performed to understand booking patterns, customer behavior, and factors affecti
 
 ##  Strategic Recommendations
 - **Improve cancellation policies for online bookings** - 
-  Promote targeted offers and packages for short-stay customers to increase occupancy and improve revenue consistency.
+  Introduce stricter cancellation policies such as partial prepayment or limited free cancellation period to reduce last-minute cancellations.
 - **Focus on short-stay customer demand** - 
   Promote targeted offers and packages for short-stay customers to increase occupancy and improve revenue consistency.
 - **Implement dynamic pricing in peak seasons** - 
