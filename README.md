@@ -35,7 +35,26 @@ The hotel wants to understand booking patterns and reduce cancellations to impro
 - Machine learning modeling
 - Model evaluation
 - Dashboard visualization
+  
+## Dashboard 
+Designed and developed an interactive dashboard to visualize hotel booking insights.
 
+
+
+## Dashboard Features
+- Total Bookings KPI  
+- Total Cancellations KPI  
+- Monthly Booking Trends  
+- Monthly Cancellation Trends  
+- Average Daily Rate (ADR) Analysis  
+- City-wise Booking Comparison  
+- Interactive Slicers for filtering by city, month, hotel type and country  
+- Attractive and user-friendly layout design  
+
+### Dashboard Purpose
+The dashboard helps stakeholders quickly understand booking performance, cancellation patterns, revenue indicators, and customer trends for better decision-making.
+
+## Insights
 ## Insights
 - Online booking channels have higher cancellation rates.
 - Majority of bookings are short stays (2–4 nights).
