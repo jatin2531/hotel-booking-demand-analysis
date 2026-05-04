@@ -59,9 +59,10 @@ Designed and developed an interactive dashboard to visualize hotel booking insig
 - Interactive Slicers for filtering by city, month, hotel type and country  
 - Attractive and user-friendly layout design
 
-## Exploratory Data Analysis (EDA) -
+## Exploratory Data Analysis (EDA) 
 performed to understand booking patterns, customer behavior, and factors affecting cancellations.
-### Key analysis performed:
+
+## Key analysis
 • Analyzed cancellation distribution to compare canceled and non-canceled bookings  
 • Studied the relationship between Average Daily Rate (ADR) and cancellations  
 • Examined the impact of lead time on booking cancellations  
