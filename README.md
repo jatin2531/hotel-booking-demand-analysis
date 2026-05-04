@@ -62,12 +62,12 @@ Designed and developed an interactive dashboard to visualize hotel booking insig
 ## Exploratory Data Analysis (EDA) 
 performed to understand booking patterns, customer behavior, and factors affecting cancellations.
 
-## Key analysis
-• Analyzed cancellation distribution to compare canceled and non-canceled bookings  
-• Studied the relationship between Average Daily Rate (ADR) and cancellations  
-• Examined the impact of lead time on booking cancellations  
-• Explored seasonal booking trends  
-• Performed customer segmentation analysis  
+## Key Analysis
+- Analyzed cancellation distribution to compare canceled and non-canceled bookings.
+- Studied the relationship between Average Daily Rate (ADR) and cancellations.  
+- Examined the impact of lead time on booking cancellations. 
+- Explored seasonal booking trends.  
+- Performed customer segmentation analysis. 
 
 ## Insights
 - Online booking channels have higher cancellation rates.
