@@ -1,5 +1,5 @@
 # hotel-booking-demand-analysis
-This is a group data analytics project.
+This is a group project on Data Analytics.
 
 ## Group Members
 - Devashree Gajanan Virutkar  
