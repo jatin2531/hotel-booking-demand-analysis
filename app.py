@@ -1,5 +1,5 @@
 import streamlit as st
-import joblib
+import pickle
 import numpy as np
 
 # Page settings
@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Load model
-model = joblib.load("model.pkl")
+model = pickle.load(open("model.pkl", "rb"))
 
 # Title
 st.markdown(
