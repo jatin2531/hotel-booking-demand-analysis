@@ -1,3 +1,6 @@
+#Note
+This repository is a fork of the original team repository. The project was completed collaboratively during my Data Analytics Internship at Infotact Solutions. I contributed to the project as a team member along with my teammates.
+
 # hotel-booking-demand-analysis
 This is a group project on Data Analytics.
 
